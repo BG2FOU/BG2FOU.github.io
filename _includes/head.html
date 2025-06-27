@@ -69,5 +69,6 @@ content="{% if page.description %}{{ page.description | strip_html | strip_newli
       delimiters: [
         {left: '$$', right: '$$', display: true},
         {left: '$', right: '$', display: false}
-      ]
+      ],
+      ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'option', 'table']
     });"></script>
