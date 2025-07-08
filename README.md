@@ -10,7 +10,7 @@
   />
 </a>
 
-# Satellite🛰️ - Jekyll blog theme [BG2FOU.github.io](https://bg2fou.github.io/)
+# Satellite🛰️ - Jekyll blog theme [i.BG2FOU.top](https://i.bg2fou.top/)
  添加markdown之前，在文档头加入：
 
 ```markdown
