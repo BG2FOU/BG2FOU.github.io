@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        {% assign assets_base_url = site.baseurl %}
+        {% if site.cdn.jsdelivr.enabled %}
+            {% assign assets_base_url = "https://fastly.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
+        {% endif %}
         {% include head.html %}
-        <link rel="stylesheet" href="{{ '/assets/css/404.css' | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/404.css">
     </head>
     <body>
         <div class="blank-page">
-        <a href="{{ '/' | prepend: site.baseurl }}" class="go-home">↩️ GO HOME</a>
+        <a href="{{ '/' | prepend: assets_base_url }}" class="go-home">↩️ GO HOME</a>
         <div class="not-found-msg">
             <h1 class="sour-face">`Φ ⌒ `Φ ?</h1>
             <p style="font-size:1.75rem; color:#fa4251;">404: Page not found</p>
@@ -14,5 +18,5 @@
         </div>
         </div>
     </body>
-    <script src="{{ '/assets/js/404.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ assets_base_url }}/assets/js/404.js"></script>
 </html>
