@@ -51,8 +51,3 @@ defaults:
 kramdown:
   input: GFM
   hard_wrap: true
-
-# 对 css 和 js 资源的 cdn 加速配置
-cdn:
-  jsdelivr:
-    enabled: true

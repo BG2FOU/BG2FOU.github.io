@@ -29,10 +29,10 @@
         {% if thumbnail_url != nil %}
             {%- assign check_localasset = thumbnail_url | split:'/' -%}
             {% if check_localasset[0] == '' %}
-                {%- assign thumbnail_url = thumbnail_url | prepend: assets_base_url -%}
+                {%- assign thumbnail_url = thumbnail_url | prepend: site.baseurl -%}
             {% endif %}
         {% else %}
-            {%- assign thumbnail_url = '/assets/img/thumbnail/empty.jpg' | prepend: assets_base_url -%}
+            {%- assign thumbnail_url = '/assets/img/thumbnail/empty.jpg' | prepend: site.baseurl -%}
         {% endif %}
 
         posts.push({
@@ -40,7 +40,7 @@
             'path'     : "{{ p_link }}",
             'type'     : "{{ p_type }}",
             'tags'     : "{{ page.tags | join: ', ' }}",
-            'url'      : "{{ page.url | prepend: assets_base_url }}",
+            'url'      : "{{ page.url | prepend: site.baseurl }}",
             'image'    : "{{ thumbnail_url }}",
             'date'     : "{{ page.date | date: '%Y-%m-%d' }}"
         });
