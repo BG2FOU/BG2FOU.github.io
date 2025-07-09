@@ -11,10 +11,10 @@
     <head>
         {% assign assets_base_url = site.baseurl %}
         {% if site.cdn.jsdelivr.enabled %}
-            {% assign assets_base_url = "https://fastly.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
+            {% assign assets_base_url = "https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master" %}
         {% endif %}
         {% include head.html %}
-        <link rel="preload" href="{{ site.profile_img | prepend: site.baseurl }}" as="image">
+        <link rel="preload" href="{{ site.profile_img | prepend: assets_base_url }}" as="image">
         <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/style.css">
         {% if page_type == "post" %}
             {% if site.goatcounter_code %}

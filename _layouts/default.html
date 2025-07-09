@@ -3,7 +3,7 @@
     <head>
         {% assign assets_base_url = site.baseurl %}
         {% if site.cdn.jsdelivr.enabled %}
-            {% assign assets_base_url = "https://fastly.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
+            {% assign assets_base_url = "https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master" %}
         {% endif %}
         {% include head.html %}
         <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/404.css">
