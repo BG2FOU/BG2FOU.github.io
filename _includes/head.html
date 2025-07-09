@@ -12,7 +12,7 @@
 </title>
 {% seo %}
 
-<link rel="shortcut icon" type="image/png" href="{{ site.logo_img | assets_base_url }}">
+<link rel="shortcut icon" type="image/png" href="{{ site.logo_img | prepend: assets_base_url }}">
 <style>
 @font-face {
     font-family: 'Nunito Sans';
@@ -42,7 +42,7 @@
 }
 </style>
 
-<script src="{{ '/assets/js/fontfaceobserver.js' | assets_base_url }}" type="text/javascript"></script>
+<script src="{{ '/assets/js/fontfaceobserver.js' | prepend: assets_base_url }}" type="text/javascript"></script>
 <script type="text/javascript">
     const nunitoObserver = new FontFaceObserver('Nunito Sans');
     const righteousObserver = new FontFaceObserver('Righteous');

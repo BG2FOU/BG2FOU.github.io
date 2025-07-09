@@ -2,7 +2,7 @@
     <div class="side-banner">
         <h1 class="site-tab">
             <a href="{{ assets_base_url | append: '/' }}" class="site-name">
-                <img src="{{ '/assets/img/icon/house.webp' | assets_base_url }}" alt="">
+                <img src="{{ '/assets/img/icon/house.webp' | prepend: assets_base_url }}" alt="">
                 <mark>{{ site.title }}</mark>
             </a>
             <button id="btn-brightness" aria-label="brightness-button">
@@ -17,7 +17,7 @@
             </button>
         </h1>
         <a href="{{ assets_base_url | append: '/' }}" class="site-avatar" aria-label="site-avatar">
-            <img src="{{ site.profile_img | assets_base_url }}" loading="lazy" alt="homepage" aria-label="homepage-button">
+            <img src="{{ site.profile_img | prepend: assets_base_url }}" loading="lazy" alt="homepage" aria-label="homepage-button">
         </a>
     </div>
     <div class="side-info">
@@ -26,11 +26,11 @@
             <hr>
             <!-- 简历下载/查看 -->
             <div style="margin-bottom:8px;">
-                <a href="{{ '/file/resume_CN.pdf' | assets_base_url }}" target="_blank" rel="noopener">
+                <a href="{{ '/file/resume_CN.pdf' | prepend: assets_base_url }}" target="_blank" rel="noopener">
                     📄 简历（中文）
                 </a>
                 <br>
-                <a href="{{ '/file/resume_EN.pdf' | assets_base_url }}" target="_blank" rel="noopener">
+                <a href="{{ '/file/resume_EN.pdf' | prepend: assets_base_url }}" target="_blank" rel="noopener">
                     📄 Resume (English)
                 </a>
             </div>
