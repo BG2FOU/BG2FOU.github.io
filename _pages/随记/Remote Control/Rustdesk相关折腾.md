@@ -18,17 +18,17 @@ sudo docker image pull rustdesk/rustdesk-server
 sudo docker run --name hbbs -p 21115:21115 -p 21116:21116 -p 21116:21116/udp -p 21118:21118 -v `pwd`:/root -td --net=host rustdesk/rustdesk-server hbbs -r server.bg2fou.top
 sudo docker run --name hbbr -p 21117:21117 -p 21119:21119 -v `pwd`:/root -td --net=host rustdesk/rustdesk-server hbbr
 ```
+
 报错如下：
 ```cmd
 Registered email required (-m option). Please pay and register on https://rustdesk.com/server
-
 ```
+
 ## 中转服务器方案2：直接安装组件
 - 下载rustedesk-server及npm、pm2：
 ```cmd
 wget https://hub.gitmirror.com/https://github.com/rustdesk/rustdesk-server/releases/download/1.1.14/rustdesk-server-linux-amd64.zip
 unzip rustdesk-server-linux-amd64.zip
-
 sudo apt install npm
 sudo npm install -g pm2
 ```
