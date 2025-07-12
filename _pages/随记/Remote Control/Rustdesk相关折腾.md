@@ -13,7 +13,7 @@ bookmark: true
 开源远控软件，需要自建转发服务器
 ## 中转服务器方案1：Docker
 
-```shell
+```bash
 sudo docker image pull rustdesk/rustdesk-server
 sudo docker run --name hbbs -p 21115:21115 -p 21116:21116 -p 21116:21116/udp -p 21118:21118 -v `pwd`:/root -td --net=host rustdesk/rustdesk-server hbbs -r server.bg2fou.top
 sudo docker run --name hbbr -p 21117:21117 -p 21119:21119 -v `pwd`:/root -td --net=host rustdesk/rustdesk-server hbbr
@@ -23,7 +23,7 @@ sudo docker run --name hbbr -p 21117:21117 -p 21119:21119 -v `pwd`:/root -td --n
 
 建立`~/rustdesk/compose`，在内操作；
 
-```shell
+```bash
 version: '2.1'
 services:
   hbbs:
@@ -66,14 +66,14 @@ networks:
 
 报错如下：
 
-```shell
+```bash
 Registered email required (-m option). Please pay and register on https://rustdesk.com/server
 ```
 
 ## 中转服务器方案2：直接安装组件
 - 下载rustedesk-server及npm、pm2：
 
-  ```shell
+  ```bash
   wget https://hub.gitmirror.com/https://github.com/rustdesk/rustdesk-server/releases/download/1.1.14/rustdesk-server-linux-amd64.zip
   unzip rustdesk-server-linux-amd64.zip
   sudo apt install npm
@@ -81,7 +81,7 @@ Registered email required (-m option). Please pay and register on https://rustde
   ```
 - 进入`amd64`，执行：
 
-  ```shell
+  ```bash
   pm2 start hbbs -- -r xxx.xxx.xxx.xxx或xxx.com -k _
   pm2 start hbbr
   ```
@@ -89,7 +89,7 @@ Registered email required (-m option). Please pay and register on https://rustde
 
 - 或：编辑启动脚本`rustdesk-start.sh`：
 
-  ```shell
+  ```bash
   #!/bin/sh
   workdir=$(dirname "$0")
   
@@ -102,17 +102,17 @@ Registered email required (-m option). Please pay and register on https://rustde
 
   并授权：
 
-  ```shell
+  ```bash
   chmod +x ~/rustdesk-server/rustdesk-start.sh
   ```
 
 - 设置自启动服务`rustdesk-autostart.service`：
 
-  ```shell
+  ```bash
   sudo nano /etc/systemd/system/rustdesk-autostart.service
   ```
 
-  ```shell
+  ```bash
   [Unit]
   Description=rustdesk-autostart Server 
   After=network-online.target
@@ -128,7 +128,7 @@ Registered email required (-m option). Please pay and register on https://rustde
 
 - 设置开机启动并启动脚本：
 
-  ```shell
+  ```bash
   sudo systemctl enable rustdesk-autostart.service
   sudo systemctl daemon-reload
   sudo systemctl start rustdesk-autostart.service
@@ -136,7 +136,7 @@ Registered email required (-m option). Please pay and register on https://rustde
 
   查看是否启动成功：
 
-  ```shell
+  ```bash
   ps -ef | grep hbb
   ```
 
