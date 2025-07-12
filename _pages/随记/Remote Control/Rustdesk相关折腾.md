@@ -73,72 +73,72 @@ Registered email required (-m option). Please pay and register on https://rustde
 ## 中转服务器方案2：直接安装组件
 - 下载rustedesk-server及npm、pm2：
 
-  ```bash
-  wget https://hub.gitmirror.com/https://github.com/rustdesk/rustdesk-server/releases/download/1.1.14/rustdesk-server-linux-amd64.zip
-  unzip rustdesk-server-linux-amd64.zip
-  sudo apt install npm
-  sudo npm install -g pm2
-  ```
+```bash
+wget https://hub.gitmirror.com/https://github.com/rustdesk/rustdesk-server/releases/download/1.1.14/rustdesk-server-linux-amd64.zip
+unzip rustdesk-server-linux-amd64.zip
+sudo apt install npm
+sudo npm install -g pm2
+``` 
 - 进入`amd64`，执行：
 
-  ```bash
-  pm2 start hbbs -- -r xxx.xxx.xxx.xxx或xxx.com -k _
-  pm2 start hbbr
-  ```
+```bash
+pm2 start hbbs -- -r xxx.xxx.xxx.xxx或xxx.com -k _
+pm2 start hbbr
+```
 - 端口放行，设置客户端ID Server和Relay Server；
 
 - 或：编辑启动脚本`rustdesk-start.sh`：
 
-  ```bash
-  #!/bin/sh
-  workdir=$(dirname "$0")
-  
-  cd $workdir
-  nohup $workdir/hbbs -k _ >> $workdir/nohup.out 2>&1 &
-  nohup $workdir/hbbr -k _ >> $workdir/nohup.out 2>&1 &
-  
-  exit 0
-  ```
+```bash
+#!/bin/sh
+workdir=$(dirname "$0")
 
-  并授权：
+cd $workdir
+nohup $workdir/hbbs -k _ >> $workdir/nohup.out 2>&1 &
+nohup $workdir/hbbr -k _ >> $workdir/nohup.out 2>&1 &
 
-  ```bash
-  chmod +x ~/rustdesk-server/rustdesk-start.sh
-  ```
+exit 0
+```
+
+- 并授权：
+
+```bash
+chmod +x ~/rustdesk-server/rustdesk-start.sh
+```
 
 - 设置自启动服务`rustdesk-autostart.service`：
 
-  ```bash
-  sudo nano /etc/systemd/system/rustdesk-autostart.service
-  ```
+```bash
+sudo nano /etc/systemd/system/rustdesk-autostart.service
+```
 
-  ```bash
-  [Unit]
-  Description=rustdesk-autostart Server 
-  After=network-online.target
-  
-  [Service]
-  Type=simple
-  ExecStart=/home/ecs-assist-user/rustdesk/rustdesk-start.sh
-  RemainAfterExit=yes
-  
-  [Install]
-  WantedBy=multi-user.target
-  ```
+```bash
+[Unit]
+Description=rustdesk-autostart Server 
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/home/ecs-assist-user/rustdesk/rustdesk-start.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
+```
 
 - 设置开机启动并启动脚本：
 
-  ```bash
-  sudo systemctl enable rustdesk-autostart.service
-  sudo systemctl daemon-reload
-  sudo systemctl start rustdesk-autostart.service
-  ```
+```bash
+sudo systemctl enable rustdesk-autostart.service
+sudo systemctl daemon-reload
+sudo systemctl start rustdesk-autostart.service
+```
 
-  查看是否启动成功：
+- 查看是否启动成功：
 
-  ```bash
-  ps -ef | grep hbb
-  ```
+```bash
+ps -ef | grep hbb
+```
 
 
 
