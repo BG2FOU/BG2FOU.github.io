@@ -12,6 +12,5 @@ bookmark: true
 
 ## ZeroTier简介
 略
-## 自建Planet中转节点
-按照以下链接操作：https://www.cnblogs.com/xiaotie666/p/18928992/zerotier
+
 
