@@ -102,3 +102,24 @@ bookmark: true
 - What snacks do you like to eat? 
   - I usually go for something simple, like yogurt or a piece of fruit. If I'm  craving something a little more indulgent, I might have a small bag  of biscuits. It’s a pretty good compromise, I think. 
 
+### Taking photos
+
+- How often do you take photos?
+  - I take photos very often! I use the camera on my phone, and I  always have my phone on me（随身携带手机）, so I take photos on.  a daily basis. I like to take photos with my friends, when I am at pretty  places and when I order good food! 
+- Do you like taking selfies? 
+  - I like taking photos of myself! I often take selfies on days when I  look good or when I am wearing an interesting outfit. I like to keep a  record of how I look so I take a lot of photos of myself and enjoy doing  so! 
+- What is your favorite family photo? 
+  - I do not have a favourite family photo. There are so many  wonderful photos of my family that it is impossible to choose just one  that is my favourite! I like all my family photos; each one is lovely for  its own reasons.
+- Do you want to improve your photography skills?
+  - I would like to learn how to take better photos. I take a lot of  photos but there is always room to improve! It would be great to have  a better understanding of lighting and shadow when it comes to  taking photos. 
+
+## Part 2
+
+### Describe an outdoor sport you would like to do 
+
+You should say:  What it is; When/where you would like to do it; With whom you would like to do it; And explain why you would like to do it.
+
+- As part of ‘Revamp Corners,’ we’ve been trying to promote healthier  lifestyles in the community. That got me thinking about outdoor activities,  and I’ve become really interested in rock climbing. I've always admired  people who can scale these massive rock faces with such grace and  strength. It looks incredibly challenging, both physically and mentally.  I’d love to try it out during the spring or autumn, when the weather isn’t  too hot or too cold. There’s a fantastic climbing center with both indoor  and outdoor walls about an hour’s drive from the city. I’d want to go with  a group of friends, especially my friend Xiaoming, who is a really  experienced hiker and loves adventure sports. It would be great to have  someone knowledgeable to guide me and ensure my safety.  What appeals to me about rock climbing is the problem-solving aspect.  It’s not just about strength; it’s about planning your route, figuring out  the best holds, and trusting your body to execute the climb. I think it  would be an incredible way to push my limits, build confidence, and  connect with nature at the same time. 
+
+### Describe
+
