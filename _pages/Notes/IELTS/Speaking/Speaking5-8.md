@@ -90,6 +90,9 @@ bookmark: true
   - Just yesterday, actually. My schoolmate was trying to learn a  complicated guitar chord, and he was getting really frustrated. He  finally managed to get it right, and I immediately told him how  impressed I was with his perseverance. It was wonderful to see his  face light up, and I think it encouraged him to keep practicing.
 - Do you think parents should often praise their children? 
   - Absolutely! I think praise is crucial for a child’s development. It’s  not about showering them with empty compliments, but genuinely  acknowledging their efforts and achievements, no matter how small.  It builds their self-esteem and encourages them to take risks and try  new things. However, it’s important to praise effort rather than  innate ability to foster a growth mindset. 
+- Have you ever been praised or encouraged by your teacher?
+  - 
+
 
 ### Snacks
 
