@@ -91,7 +91,9 @@ bookmark: true
 - Do you think parents should often praise their children? 
   - Absolutely! I think praise is crucial for a child’s development. It’s  not about showering them with empty compliments, but genuinely  acknowledging their efforts and achievements, no matter how small.  It builds their self-esteem and encourages them to take risks and try  new things. However, it’s important to praise effort rather than  innate ability to foster a growth mindset. 
 - Have you ever been praised or encouraged by your teacher?
-  - 
+  - Yes, absolutely! I still remember my biology teacher in high school praising a project I did on ecosystems. She said, 'Your research shows real depth-I can tell you put genuine effort into this.' It wasn’t just about the grade; her words made me feel seen and motivated.Later, when I struggled with a chemistry exam, that same teacher encouraged me: 'Don’t let one setback define you-focus on progress.' Her belief in me pushed me to improve. That mix of recognition and gentle guidance had a lasting impact—it taught me that effort matters and resilience pays off.
+
+
 
 
 ### Snacks
