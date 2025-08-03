@@ -1,27 +1,40 @@
 document.addEventListener('DOMContentLoaded', function() {
-  // 获取所有需要懒加载的图片
-  const lazyImages = document.querySelectorAll('.img-loading');
+  // 只针对文章内容区域的图片
+  const articleContent = document.querySelector('.article-content');
+  if (!articleContent) return;
+
+  const articleImages = articleContent.getElementsByTagName('img');
   
-  // 创建 IntersectionObserver 实例
-  const imageObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        loadImage(img);
-        observer.unobserve(img);
-      }
-    });
+  Array.from(articleImages).forEach(img => {
+    // 创建包装容器
+    const wrapper = document.createElement('div');
+    wrapper.className = 'img-wrapper';
+    
+    // 创建占位元素
+    const placeholder = document.createElement('div');
+    placeholder.className = 'img-placeholder';
+    
+    // 保存原始图片src
+    const originalSrc = img.src;
+    img.removeAttribute('src');
+    img.classList.add('img-loading');
+    
+    // 包装图片
+    img.parentNode.insertBefore(wrapper, img);
+    wrapper.appendChild(placeholder);
+    wrapper.appendChild(img);
+    
+    // 图片加载处理
+    img.onload = function() {
+      img.classList.add('img-loaded');
+      placeholder.style.display = 'none';
+    }
+    
+    img.onerror = function() {
+      wrapper.innerHTML = '<div class="img-error">图片加载失败</div>';
+    }
+    
+    // 设置src开始加载
+    img.src = originalSrc;
   });
-  
-  // 监控每个图片
-  lazyImages.forEach(img => {
-    imageObserver.observe(img);
-  });
-  
-  // 加载图片的函数
-  function loadImage(img) {
-    const src = img.getAttribute('data-src');
-    img.style.backgroundImage = `url('${src}')`;
-    img.classList.add('img-loaded');
-  }
 });

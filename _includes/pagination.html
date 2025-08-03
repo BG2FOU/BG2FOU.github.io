@@ -24,23 +24,15 @@
                             {% if check_localasset[0] == '' %}
                                 {%- assign thumbnail_url = thumbnail_url | prepend: site.baseurl -%}
                             {% endif %}
-                            <div class="img-wrapper">
-                                <div class="img-placeholder"></div>
-                                <a href="{{ sub_page.url | prepend: site.baseurl }}" 
-                                   class="thumbnail_post img-loading" 
-                                   data-src="{{ thumbnail_url }}"
-                                   loading="lazy" 
-                                   aria-label="thumbnail_post"></a>
-                            </div>
+                            <a href="{{ sub_page.url | prepend: site.baseurl }}" 
+                               class="thumbnail_post" 
+                               style="background-image: url('{{ thumbnail_url }}')"
+                               aria-label="thumbnail_post"></a>
                         {% else %}
-                            <div class="img-wrapper">
-                                <div class="img-placeholder"></div>
-                                <a href="{{ sub_page.url | prepend: site.baseurl }}" 
-                                   class="thumbnail_post empty img-loading" 
-                                   data-src="{{ '/assets/img/thumbnail/empty.jpg' | prepend: site.baseurl }}"
-                                   loading="lazy" 
-                                   aria-label="thumbnail_post"></a>
-                            </div>
+                            <a href="{{ sub_page.url | prepend: site.baseurl }}" 
+                               class="thumbnail_post empty" 
+                               style="background-image: url('{{ '/assets/img/thumbnail/empty.jpg' | prepend: site.baseurl }}')"
+                               aria-label="thumbnail_post"></a>
                         {% endif %}
                     </div>
                     <div class="box_contents">
