@@ -158,7 +158,7 @@ bookmark: true
     </tr>
     <tr>
       <td>齐齐哈尔市</td>
-      <td><span style="color:green;">龙沙区</span>、<span style="color:green;">建华区</span>、<span style="color:green;">铁锋区</span>、<span style="color:blue;">昂昂溪区</span>、<span style="color:blue;">富拉尔基区</span>、<span style="color:blue;">讷河市</span>、<span style="color:blue;">龙江县</span>、<span style="color:blue;">依安县</span>、<span style="color:blue;">甘南县</span>、<span style="color:blue;">富裕县</span>、<span style="color:blue;">克山县</span>、<span style="color:blue;">拜泉县、梅里斯达斡尔族区、碾子山区、泰来县、克东县</td>
+      <td><span style="color:green;">龙沙区</span>、<span style="color:green;">建华区</span>、<span style="color:green;">铁锋区</span>、<span style="color:blue;">昂昂溪区</span>、<span style="color:blue;">富拉尔基区</span>、<span style="color:blue;">讷河市</span>、<span style="color:blue;">龙江县</span>、<span style="color:blue;">依安县</span>、<span style="color:blue;">甘南县</span>、<span style="color:blue;">富裕县</span>、<span style="color:blue;">克山县</span>、<span style="color:blue;">拜泉县</span>、梅里斯达斡尔族区、碾子山区、泰来县、克东县</td>
     </tr>
     <tr>
       <td>牡丹江市</td>
@@ -170,7 +170,7 @@ bookmark: true
     </tr>
     <tr>
       <td>大庆市</td>
-      <td><span style="color:green;">萨尔图区</span>、<span style="color:green;">龙凤区</span>、<span style="color:green;">让胡路区</span>、<span style="color:blue;">红岗区</span>、<span style="color:blue;">大同区</span>、<span style="color:blue;">林甸县</span>、<span style="color:blue;">杜尔伯特蒙古族自治县、肇州县、肇源县</td>
+      <td><span style="color:green;">萨尔图区</span>、<span style="color:green;">龙凤区</span>、<span style="color:green;">让胡路区</span>、<span style="color:blue;">红岗区</span>、<span style="color:blue;">大同区</span>、<span style="color:blue;">林甸县</span>、<span style="color:blue;">杜尔伯特蒙古族自治县</span>、肇州县、肇源县</td>
     </tr>
     <tr>
       <td>伊春市</td>
@@ -178,7 +178,7 @@ bookmark: true
     </tr>
     <tr>
       <td>鸡西市</td>
-      <td><span style="color:green;">鸡冠区</span>、<span style="color:blue;">恒山区</span>、<span style="color:blue;">滴道区</span>、<span style="color:blue;">梨树区</span>、<span style="color:blue;">虎林市</span>、<span style="color:blue;">密山市</span>、<span style="color:blue;">鸡东县、城子河区、麻山区</td>
+      <td><span style="color:green;">鸡冠区</span>、<span style="color:blue;">恒山区</span>、<span style="color:blue;">滴道区</span>、<span style="color:blue;">梨树区</span>、<span style="color:blue;">虎林市</span>、<span style="color:blue;">密山市</span>、<span style="color:blue;">鸡东县</span>、城子河区、麻山区</td>
     </tr>
     <tr>
       <td>鹤岗市</td>
