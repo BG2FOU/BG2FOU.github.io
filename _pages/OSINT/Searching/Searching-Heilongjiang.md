@@ -123,15 +123,15 @@ bookmark: true
     <tr>
       <td>松花江地区</td>
       <td>黑L</td>
-      <td>-</td>
-      <td>-</td>
+      <td>已撤销</td>
+      <td>已撤销</td>
       <td>已撤销，并入哈尔滨市，车牌未改</td>
     </tr>
     <tr>
       <td>农垦系统</td>
       <td>黑R</td>
-      <td>-</td>
-      <td>-</td>
+      <td>已撤销</td>
+      <td>已撤销</td>
       <td>多在哈尔滨可见</td>
     </tr>
   </tbody>
