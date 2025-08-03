@@ -139,7 +139,7 @@ bookmark: true
 
 #### 1.1.2 县级行政区划
 
-![黑龙江省县级行政区划图](https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master/_pages/OSINT/Searching/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%A0%87%E5%87%86%E5%9C%B0%E5%9B%BE-%E6%94%BF%E5%8C%BA%E5%BD%A9%E8%89%B2%E7%AE%80%E5%9B%BE%E7%89%88%EF%BC%88%E5%8E%BF%E7%BA%A7%E8%BD%AE%E5%BB%93%EF%BC%89-8%E5%BC%80%E7%89%88-380%E4%B8%87-01.jpg)
+
 
 <table border="1">
   <thead>
@@ -202,7 +202,7 @@ bookmark: true
     </tr>
     <tr>
       <td>大兴安岭地区</td>
-      <td><span style="color:green;">加格达奇区</span>、<span style="color:green;">漠河市</span>、<span style="color:blue;">塔河县</span>、<span style="color:blue;">呼玛县</span>、松岭区、新林区、呼中区</span></td>
+      <td><span style="color:green;">加格达奇区</span>、<span style="color:green;">漠河市</span>、<span style="color:blue;">塔河县</span>、<span style="color:blue;">呼玛县</span>、松岭区、新林区、呼中区</td>
     </tr>
   </tbody>
 </table>
