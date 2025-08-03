@@ -4,7 +4,7 @@ tags:
     - Amateur Radio
     - APRS
     - Software
-date: "2025-8-2"
+date: "2025-8-3"
 thumbnail: "/assets/img/thumbnail/CRH1E-1063.png"
 bookmark: true
 ---
@@ -15,6 +15,7 @@ bookmark: true
 3. APRS台站地图: [APRS.TV](https://aprs.tv/)
 4. APRS台站地图: [APRS.FI](https://aprs.fi/)
 5. [D-PRS Calculator](https://www.aprs-is.net/DPRSCalc.aspx)
+
 ## 应用设置
 1. 设置呼号与上文得到的验证码, 此处呼号不带后缀;
 2. 设置基站的SSID: SSID决定了台站地图中显示的呼号的后缀;
