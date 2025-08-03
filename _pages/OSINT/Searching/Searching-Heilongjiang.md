@@ -1,5 +1,5 @@
 ---
-title: "图寻文档-黑龙江省"
+title: "图寻笔记-黑龙江省"
 tags:
     - OSINT
     - Searching
@@ -9,11 +9,12 @@ date: "2025-8-4"
 thumbnail: "/assets/img/thumbnail/CR400BF-GZ-5256.png"
 bookmark: true
 ---
-# 图寻文档-黑龙江省
+# 图寻笔记-黑龙江省
 ## 摘要
 黑龙江省，简称黑，中华人民共和国省级行政区，省会哈尔滨市，位于中国东北部，是中国位置最北、纬度最高的省份，北、东部与俄罗斯隔江相望，西部与内蒙古自治区相邻，南部与吉林省接壤。黑龙江省横跨东八区和东九区两个时区，西起东经121°11′，东至东经135°05′，南起北纬43°26′，北至北纬53°33′，东西跨14个经度，南北跨10个纬度。全省土地总面积47.3万平方千米（含加格达奇和松岭区），居中国第6位。边境线长2981.26千米，是亚洲与太平洋地区陆路通往俄罗斯和欧洲大陆的重要通道，是中国沿边开放的重要窗口。黑龙江省共辖12个地级市、1个地区。截至2024年末，黑龙江省常住总人口3029万人。
 黑龙江省地貌特征为“五山一水一草三分田”。地势大致是西北、北部和东南部高，东北、西南部低，主要由山地、台地、平原和水面构成。全省有黑龙江、松花江等河流，兴凯湖、镜泊湖等湖泊。黑龙江省属于寒温带与温带大陆性季风气候。旧石器时代晚期，黑龙江大地上即已出现了原始先民的足迹。康熙二十二年，清廷为抗击沙俄入侵，于瑷珲旧城设镇守黑龙江等处地方将军，划出宁古塔将军所辖地区，归黑龙江将军统辖，这是黑龙江自成一个军事、行政区域并以“黑龙江”命名的开端。黑龙江省是国家重要商品粮生产基地、重型装备生产制造基地、重要能源及原材料基地、北方生态安全屏障、向北开放新高地。黑龙江先后形成了以“鲜卑文化”“渤海文化”“金源文化”“满族文化”为代表四大古代文化源流和以“东北抗联精神”“北大荒精神”等为代表的近代文化元素。
 本文将系统介绍黑龙江省自然地理与人文地理环境，为图寻中国匹配中黑龙江省的辨识与猜测作参考。第一章介绍了黑龙江省的概况，包括行政区划、地理环境等。第二章介绍了黑龙江省各地市的具体街景，首先对各地市及郊县简介，其次以出租车、公交车、行道树、广告牌样式等为线索，辅以各类等判断技巧，帮助玩家进行黑龙江省内的区域猜测。
+
 ## 一、黑龙江省概述
 ### 1.1 行政区划
 #### 1.1.1 区号与车牌
@@ -138,80 +139,79 @@ bookmark: true
 </table>
 
 #### 1.1.2 县级行政区划
-![黑龙江省县级行政区划图](./img/黑龙江省标准地图-政区彩色简图版（县级轮廓）-8开版-380万-01.jpg)
+![黑龙江省县级行政区划图](https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master/_pages/OSINT/Searching/img/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%A0%87%E5%87%86%E5%9C%B0%E5%9B%BE-%E6%94%BF%E5%8C%BA%E5%BD%A9%E8%89%B2%E7%AE%80%E5%9B%BE%E7%89%88%EF%BC%88%E5%8E%BF%E7%BA%A7%E8%BD%AE%E5%BB%93%EF%BC%89-8%E5%BC%80%E7%89%88-380%E4%B8%87-01.jpg)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>黑龙江省县级行政区划</title>
-</head>
-<body>
-    <h1 align="center">黑龙江省县级行政区划</h1>
-    <table border="1" align="center">
-        <tr>
-            <th>地级行政区</th>
-            <th>县级行政区（市辖区、县级市、县）</th>
-        </tr>
-        <tr>
-            <td>哈尔滨市</td>
-            <td><span style="color:green;">道里区</span>、<span style="color:green;">南岗区</span>、<span style="color:green;">道外区</span>、<span style="color:green;">平房区</span>、<span style="color:green;">松北区</span>、<span style="color:green;">香坊区</span>、<span style="color:green;">呼兰区</span>、<span style="color:blue;">阿城区</span>、<span style="color:blue;">双城区</span>、<span style="color:blue;">尚志市</span>、<span style="color:blue;">五常市</span>、<span style="color:blue;">依兰县</span>、<span style="color:blue;">方正县</span>、<span style="color:blue;">宾县</span>、<span style="color:blue;">巴彦县</span>、<span style="color:blue;">木兰县</span>、<span style="color:blue;">通河县</span>、<span style="color:blue;">延寿县</span></td>
-        </tr>
-        <tr>
-            <td>齐齐哈尔市</td>
-            <td><span style="color:green;">龙沙区</span>、<span style="color:green;">建华区</span>、<span style="color:green;">铁锋区</span>、<span style="color:blue;">昂昂溪区</span>、<span style="color:blue;">富拉尔基区</span>、<span style="color:blue;">讷河市</span>、<span style="color:blue;">龙江县</span>、<span style="color:blue;">依安县</span>、<span style="color:blue;">甘南县</span>、<span style="color:blue;">富裕县</span>、<span style="color:blue;">克山县</span>、<span style="color:blue;">拜泉县、梅里斯达斡尔族区、碾子山区、泰来县、克东县</span></td>
-        </tr>
-        <tr>
-            <td>牡丹江市</td>
-            <td><span style="color:blue;">东安区</span>、<span style="color:blue;">阳明区</span>、<span style="color:blue;">爱民区</span>、<span style="color:blue;">西安区</span>、绥芬河市、海林市、宁安市、穆棱市、东宁市、林口县</td>
-        </tr>
-        <tr>
-            <td>佳木斯市</td>
-            <td><span style="color:green;">前进区</span>、<span style="color:green;">向阳区</span>、<span style="color:green;">东风区</span>、<span style="color:green;">郊区</span>、<span style="color:blue;">同江市</span>、<span style="color:blue;">抚远市</span>、富锦市、桦南县、桦川县、汤原县</td>
-        </tr>
-        <tr>
-            <td>大庆市</td>
-            <td><span style="color:green;">萨尔图区</span>、<span style="color:green;">龙凤区</span>、<span style="color:green;">让胡路区</span>、<span style="color:blue;">红岗区</span>、<span style="color:blue;">大同区</span>、<span style="color:blue;">林甸县</span>、<span style="color:blue;">杜尔伯特蒙古族自治县、肇州县、肇源县</span></td>
-        </tr>
-        <tr>
-            <td>伊春市</td>
-            <td><span style="color:green;">伊美区</span>、<span style="color:blue;">乌翠区</span>、<span style="color:green;">美溪区</span>、<span style="color:blue;">友好区</span>、<span style="color:blue;">西林区</span>、<span style="color:green;">铁力市</span>、<span style="color:blue;">汤旺县</span>、<span style="color:blue;">丰林县</span>、金林区、嘉荫县、大箐山县、南岔县</td>
-        </tr>
-        <tr>
-            <td>鸡西市</td>
-            <td><span style="color:green;">鸡冠区</span>、<span style="color:blue;">恒山区</span>、<span style="color:blue;">滴道区</span>、<span style="color:blue;">梨树区</span>、<span style="color:blue;">虎林市</span>、<span style="color:blue;">密山市</span>、<span style="color:blue;">鸡东县、城子河区、麻山区</span></td>
-        </tr>
-        <tr>
-            <td>鹤岗市</td>
-            <td><span style="color:green;">向阳区</span>、<span style="color:green;">工农区</span>、<span style="color:green;">南山区</span>、<span style="color:blue;">萝北县</span>、<span style="color:blue;">绥滨县</span>、兴安区、东山区、兴山区</td>
-        </tr>
-        <tr>
-            <td>双鸭山市</td>
-            <td><span style="color:green;">尖山区</span>、岭东区、四方台区、宝山区、集贤县、友谊县、宝清县、饶河县</td>
-        </tr>
-        <tr>
-            <td>七台河市</td>
-            <td><span style="color:green;">新兴区</span>、<span style="color:green;">桃山区</span>、<span style="color:green;">茄子河区</span>、勃利县</td>
-        </tr>
-        <tr>
-            <td>绥化市</td>
-            <td><span style="color:green;">北林区</span>、<span style="color:green;">安达市</span>、<span style="color:green;">肇东市</span>、<span style="color:blue;">海伦市</span>、<span style="color:blue;">望奎县</span>、<span style="color:blue;">兰西县</span>、<span style="color:blue;">青冈县</span>、<span style="color:blue;">庆安县</span>、<span style="color:blue;">明水县</span>、<span style="color:blue;">绥棱县</span></td>
-        </tr>
-        <tr>
-            <td>黑河市</td>
-            <td><span style="color:green;">爱辉区</span>、<span style="color:blue;">北安市</span>、<span style="color:blue;">五大连池市</span>、<span style="color:blue;">嫩江市</span>、<span style="color:blue;">逊克县</span>、<span style="color:blue;">孙吴县</span></td>
-        </tr>
-        <tr>
-            <td>大兴安岭地区</td>
-            <td><span style="color:green;">加格达奇区</span>、<span style="color:blue;">呼玛县</span>、<span style="color:blue;">塔河县</span>、<span style="color:green;">漠河市、松岭区、新林区、呼中区</span></td>
-        </tr>
-    </table>
-</body>
-</html>
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2" style="background-color: lightgray;">黑龙江省公路百度街景覆盖情况</th>
+    </tr>
+    <tr>
+        <th>地级行政区</th>
+        <th>县级行政区（市辖区、县级市、县）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>哈尔滨市</td>
+        <td><span style="color:green;">道里区</span>、<span style="color:green;">南岗区</span>、<span style="color:green;">道外区</span>、<span style="color:green;">平房区</span>、<span style="color:green;">松北区</span>、<span style="color:green;">香坊区</span>、<span style="color:green;">呼兰区</span>、<span style="color:blue;">阿城区</span>、<span style="color:blue;">双城区</span>、<span style="color:blue;">尚志市</span>、<span style="color:blue;">五常市</span>、<span style="color:blue;">依兰县</span>、<span style="color:blue;">方正县</span>、<span style="color:blue;">宾县</span>、<span style="color:blue;">巴彦县</span>、<span style="color:blue;">木兰县</span>、<span style="color:blue;">通河县</span>、<span style="color:blue;">延寿县</span></td>
+    </tr>
+    <tr>
+        <td>齐齐哈尔市</td>
+        <td><span style="color:green;">龙沙区</span>、<span style="color:green;">建华区</span>、<span style="color:green;">铁锋区</span>、<span style="color:blue;">昂昂溪区</span>、<span style="color:blue;">富拉尔基区</span>、<span style="color:blue;">讷河市</span>、<span style="color:blue;">龙江县</span>、<span style="color:blue;">依安县</span>、<span style="color:blue;">甘南县</span>、<span style="color:blue;">富裕县</span>、<span style="color:blue;">克山县</span>、<span style="color:blue;">拜泉县、梅里斯达斡尔族区、碾子山区、泰来县、克东县</span></td>
+    </tr>
+    <tr>
+        <td>牡丹江市</td>
+        <td><span style="color:blue;">东安区</span>、<span style="color:blue;">阳明区</span>、<span style="color:blue;">爱民区</span>、<span style="color:blue;">西安区</span>、绥芬河市、海林市、宁安市、穆棱市、东宁市、林口县</td>
+    </tr>
+    <tr>
+        <td>佳木斯市</td>
+        <td><span style="color:green;">前进区</span>、<span style="color:green;">向阳区</span>、<span style="color:green;">东风区</span>、<span style="color:green;">郊区</span>、<span style="color:blue;">同江市</span>、<span style="color:blue;">抚远市</span>、富锦市、桦南县、桦川县、汤原县</td>
+    </tr>
+    <tr>
+        <td>大庆市</td>
+        <td><span style="color:green;">萨尔图区</span>、<span style="color:green;">龙凤区</span>、<span style="color:green;">让胡路区</span>、<span style="color:blue;">红岗区</span>、<span style="color:blue;">大同区</span>、<span style="color:blue;">林甸县</span>、<span style="color:blue;">杜尔伯特蒙古族自治县、肇州县、肇源县</span></td>
+    </tr>
+    <tr>
+        <td>伊春市</td>
+        <td><span style="color:green;">伊美区</span>、<span style="color:blue;">乌翠区</span>、<span style="color:green;">美溪区</span>、<span style="color:blue;">友好区</span>、<span style="color:blue;">西林区</span>、<span style="color:green;">铁力市</span>、<span style="color:blue;">汤旺县</span>、<span style="color:blue;">丰林县</span>、金林区、嘉荫县、大箐山县、南岔县</td>
+    </tr>
+    <tr>
+        <td>鸡西市</td>
+        <td><span style="color:green;">鸡冠区</span>、<span style="color:blue;">恒山区</span>、<span style="color:blue;">滴道区</span>、<span style="color:blue;">梨树区</span>、<span style="color:blue;">虎林市</span>、<span style="color:blue;">密山市</span>、<span style="color:blue;">鸡东县、城子河区、麻山区</span></td>
+    </tr>
+    <tr>
+        <td>鹤岗市</td>
+        <td><span style="color:green;">向阳区</span>、<span style="color:green;">工农区</span>、<span style="color:green;">南山区</span>、<span style="color:blue;">萝北县</span>、<span style="color:blue;">绥滨县</span>、兴安区、东山区、兴山区</td>
+    </tr>
+    <tr>
+        <td>双鸭山市</td>
+        <td><span style="color:green;">尖山区</span>、岭东区、四方台区、宝山区、集贤县、友谊县、宝清县、饶河县</td>
+    </tr>
+    <tr>
+        <td>七台河市</td>
+        <td><span style="color:green;">新兴区</span>、<span style="color:green;">桃山区</span>、<span style="color:green;">茄子河区</span>、勃利县</td>
+    </tr>
+    <tr>
+        <td>绥化市</td>
+        <td><span style="color:green;">北林区</span>、<span style="color:green;">安达市</span>、<span style="color:green;">肇东市</span>、<span style="color:blue;">海伦市</span>、<span style="color:blue;">望奎县</span>、<span style="color:blue;">兰西县</span>、<span style="color:blue;">青冈县</span>、<span style="color:blue;">庆安县</span>、<span style="color:blue;">明水县</span>、<span style="color:blue;">绥棱县</span></td>
+    </tr>
+    <tr>
+        <td>黑河市</td>
+        <td><span style="color:green;">爱辉区</span>、<span style="color:blue;">北安市</span>、<span style="color:blue;">五大连池市</span>、<span style="color:blue;">嫩江市</span>、<span style="color:blue;">逊克县</span>、<span style="color:blue;">孙吴县</span></td>
+    </tr>
+    <tr>
+        <td>大兴安岭地区</td>
+        <td><span style="color:green;">加格达奇区</span>、<span style="color:blue;">呼玛县</span>、<span style="color:blue;">塔河县</span>、<span style="color:green;">漠河市、松岭区、新林区、呼中区</span></td>
+    </tr>
+  </tbody>
+</table>
+
 
 该表中，绿色表示该行政区有百度街景大范围覆盖，蓝色表示有百度街景小范围覆盖或点覆盖（仅覆盖以火车站/汽车站为核心的区域），红色表示有腾讯街景覆盖，黄色表示有二者均有覆盖。此外，黑龙江的一些景区也有百度街景覆盖，除哈尔滨市区、大庆市区、齐齐哈尔市区等高覆盖率区域内的景区外，其余景区覆盖点将在分市区章节介绍。
 
 #### 1.1.3 百度街景在黑龙江省的覆盖
-百度街景在黑龙江省覆盖范围较小，仅有部分县区有街景数据，且数据仅更新到2016年。
+百度街景在黑龙江省覆盖范围较小，仅有部分县区有街景数据，且数据仅更新到2019年。
 
 以下高等级公路有百度街景覆盖：
 <table border="1">
@@ -273,7 +273,7 @@ bookmark: true
 
 #### 1.1.4 腾讯街景在黑龙江省的覆盖
 
-腾讯街景在黑龙江省覆盖范围较小，仅有部分县区有街景数据，且数据仅更新到2016年。
+腾讯街景在黑龙江省覆盖范围较小，仅有部分县区有街景数据，且数据仅更新到 年。
 
 #### 1.1.5 街景车
 参考图寻文档：[黑龙江街景车](https://www.yuque.com/u41373588/yegpbz/rc5a419oeg6p8hfr?#)
@@ -381,6 +381,7 @@ bookmark: true
 主要景点有圣·索菲亚教堂、中央大街、太阳岛、亚布力滑雪旅游度假区、冰雪大世界、松花江等。哈尔滨市下辖道里区、南岗区、道外区、平房区、松北区、香坊区、呼兰区、阿城区、双城区9个市辖区，依兰县、方正县、宾县、巴彦县、木兰县、通河县、延寿县7个县，代管尚志市、五常市2个县级市。
 
 哈尔滨市所辖的县区仅有中心区附近有街景覆盖，如尚志市、巴彦县、宾县等；
+
 ### 2.2 齐齐哈尔市
 简介：齐齐哈尔，别称鹤城、卜奎，黑龙江省第二大城市，地处松嫩平原和黑、吉、蒙三省区交汇处，是中国重要工业基地和商品粮基地。1936年，伪满洲国建立齐齐哈尔市公署，为齐齐哈尔设市之始。
 
@@ -396,39 +397,48 @@ bookmark: true
 
 牡丹江的镜泊湖为5A级景区，其附近亦有百度街景覆盖且为可移动道路式。
 
-牡丹江还有名为林区的建制，“林区石油”可在街景中见到；
+牡丹江海林有部分地区归属森工总局管辖，称为“大海林林业局”，著名景点雪乡就在此处，“森工石油”可在[腾讯街景](https://tuxun.fun/replay-pano?gameId=868332e0-6dec-11f0-a556-9fb000adaff2&round=2)中见到；
+
 ### 2.4 佳木斯市
 简介：佳木斯市，坐落在松花江、黑龙江、乌苏里江汇流三江平原腹地，是中国陆地最东端地级行政区，最早迎接太阳升起地方，有“华夏东极”和“东方第一城”之称。佳木斯与对俄罗斯边境线382公里，拥有7个国家一类口岸，是中国对俄开放口岸最多地区。
 
 佳木斯地处世界三大黑土平原之一的三江平原腹地，地势平坦，沃野千里，黑壤有机质含量高于全国平均值5-6倍，粮食产量颇丰，有“东北大米之乡”之称。
 
 主要景点有三江自然保护区、街津山、大亮子河等。佳木斯市下辖向阳区、前进区、东风区、郊区4个市辖区，富锦市、同江市、抚远市3个县级市，桦南县、桦川县、汤原县3个县。
+
 ### 2.5 大庆市
 简介：大庆市，别称油城，是中国重要石油生产和石化工业基地，拥有我国最大陆上油田，被誉为“中国石油之都”。此外还是我国重要乳业基地，北方温泉之乡，天然百湖之城。
 
 主要景点有连环湖、龙凤湿地、铁人王进喜纪念馆等。大庆市下辖萨尔图区、龙凤区、让胡路区、红岗区、大同区5个市辖区，肇州县、肇源县、林甸县3个县，1个杜尔伯特蒙古族自治县。
+
 ### 2.6 伊春市
 简介：伊春市，别称伊逊、林都、林城，位于黑龙江省东北部，北部与俄罗斯阿穆尔州、犹太州隔黑龙江相望。伊春地处小兴安岭林区腹地，有世界上最大红松原始林，是中国北方重要生态旅游城市，被誉为“中国林都”。
 
 主要景点有茅兰沟森林公园、汤旺河国家公园、五营森林公园、南岔仙翁山、日月峡、茅兰沟等。伊春市下辖伊美区、乌翠区、友好区、金林区4个市辖区，嘉荫县、汤旺县、丰林县、大箐山县、南岔县5个县，代管铁力市1个县级市。
+
 ### 2.7 鸡西市
 简介：鸡西市，别称煤城、石墨之都，地处黑龙江东南部，以乌苏里江和松阿察河为界与俄罗斯隔水相望，是东北地区最大煤城，以盛产石墨著称，被称为“中国石墨之都”，是国家重要能源基地。鸡西是中国东北边陲开发较早地区，早在6000多年前，满族祖先肃慎人就在这里创造了古代渔猎文明——新开流文化。
 
 主要景点有兴凯湖、珍宝岛、神顶峰，月牙湖，乌苏里江，虎头要塞、麒麟山等。鸡西市下辖鸡冠区、恒山区、滴道区、梨树区、城子河区、麻山区6个市辖区，虎林市、密山市2个县级市，鸡东县1个县。
+
 ### 2.8 鹤岗市
 简介：鹤岗市，又名兴山，北部与俄罗斯隔江相望，是重要能源工业城市，黑龙江省重要口岸边境城市，因煤而兴、因煤而建资源型城市。鹤岗是辽金时代北方少数民族政治、经济、文化活动中心地域，阿骨打发迹地和黑水女真故乡。
 
 主要景点有奥里米城址、中兴古城遗址、龙江三峡、金顶山、普陀山、太平沟黄金古镇、金顶山石林、苇场湿地等。鹤岗市下辖向阳区、工农区、南山区、兴安区、东山区、兴山区6个市辖区，萝北县、绥滨县2个县。
+
 ### 2.9 双鸭山市
 简介：双鸭山市，别称煤城，地处黑龙江省东北部，完达山山脉北麓和三江平原腹地，南面是连绵群山，东隔乌苏里江与俄罗斯相望。双鸭山市是黑龙江省重要煤炭、电力、化工、钢铁和粮食生产基地，被誉为“黑土湿地之都、绿色生态之城”。
 
 主要景点有凤林古城、炮台山遗址、七星河、青山森林公园等。双鸭山市下辖尖山区、岭东区、四方台区、宝山区4个市辖区，集贤县、友谊县、宝清县、饶河县4个县。
+
 ### 2.10 七台河市
 简介：七台河市，地处黑龙江省东部，完达山山脉西端，属于低山丘陵，是东北最大优质焦煤和焦炭生产基地，被称为“中国焦煤之都”。主要景点有西大圈森林公园、石龙山、桃山湖、极灵寺、佛宝寺等。七台河市下辖新兴区、桃山区、茄子河区3个市辖区，勃利县1个县。
 
 ### 2.11 绥化市
 简介：绥化市，别称北团林子，位于黑龙江省中部，满语安顺吉祥之意，素有“北国大粮仓”“塞北江南”“北方光伏产业城”之称。主要景点有望龙山、双河、庙山、林枫故居等。绥化市下辖北林区1个市辖区，肇东市、安达市、海伦市3个县级市，绥棱县、青冈县、庆安县、兰西县、望奎县、明水县6个县。
+
 ### 2.12 黑河市
 简介：黑河市，古称瑷珲，地处大兴安岭东端，小兴安岭北部，境内群山连绵起伏，与俄罗斯阿穆尔州首府隔黑龙江相望，是鄂伦春族、达斡尔族等少数民族聚居地。主要景点有五大连池、瑷珲古城遗址、金代古城遗址、胜山等。黑河市下辖爱辉区1个市辖区，孙吴县、逊克县2个县，代管北安市、五大连池市、嫩江市3个县级市。
+
 ### 2.13 大兴安岭地区
 简介：大兴安岭地区，地处黑龙江省西北部，是中国最北端地级行政区，有“神州北极”“森林宝库”等美誉。境内有北极村、呼中、雅克萨古战场、映山红滑雪场、双河等景区，在漠河北极村，可观赏到北极光和极昼、极夜奇观。大兴安岭地区下辖加格达奇区、松岭区、新林区、呼中区4个市辖区，漠河市1个县级市，呼玛县、塔河县2个县。
