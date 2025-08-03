@@ -10,6 +10,7 @@
         {{ page.title }}
     {% endif %}
 </title>
+<meta name="loading" content="eager">
 {% seo %}
 
 <link rel="shortcut icon" type="image/png" href="{{ site.logo_img | prepend: site.baseurl }}">
@@ -103,7 +104,18 @@ content="{% if page.description %}{{ page.description | strip_html | strip_newli
     onload="renderMathInElement(document.body, {
       delimiters: [
         {left: '$$', right: '$$', display: true},
-        {left: '$', right: '$', display: false}
+        {left: '$', right: '$', display: false},
+        {left: '\\[', right: '\\]', display: true},
+        {left: '\\(', right: '\\)', display: false}
       ],
-      ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'option', 'table']
-    });"></script>
+      throwOnError: false,
+      errorColor: '#cc0000',
+      strict: false,
+      trust: true,
+      macros: {
+        '\\rm': '\\mathrm',
+        '\\operatorname': '\\mathrm'
+      },
+      ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'option']
+    });">
+</script>
