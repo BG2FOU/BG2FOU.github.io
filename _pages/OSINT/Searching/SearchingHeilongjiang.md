@@ -159,11 +159,11 @@ bookmark: true
     </tr>
     <tr>
       <td>齐齐哈尔市</td>
-      <td><span style="color:green;">龙沙区</span>、<span style="color:green;">建华区</span>、<span style="color:green;">铁锋区</span>、<span style="color:blue;">昂昂溪区</span>、<span style="color:blue;">富拉尔基区</span>、<span style="color:blue;">讷河市</span>、<span style="color:blue;">龙江县</span>、<span style="color:blue;">依安县</span>、<span style="color:blue;">甘南县</span>、<span style="color:blue;">富裕县</span>、<span style="color:blue;">克山县</span>、<span style="color:blue;">拜泉县</span>、梅里斯达斡尔族区、碾子山区、泰来县、克东县</td>
+      <td><span style="color:green;">龙沙区</span>、<span style="color:green;">建华区</span>、<span style="color:green;">铁锋区</span>、<span style="color:blue;">昂昂溪区</span>、<span style="color:blue;">富拉尔基区</span>、<span style="color:blue;">讷河市</span>、<span style="color:blue;">龙江县</span>、<span style="color:blue;">依安县</span>、<span style="color:blue;">甘南县</span>、<span style="color:blue;">富裕县</span>、<span style="color:blue;">克山县</span>、<span style="color:blue;">拜泉县</span>、<span style="color:red;">梅里斯达斡尔族区</span>、<span style="color:red;">泰来县</span>、碾子山区、克东县</td>
     </tr>
     <tr>
       <td>牡丹江市</td>
-      <td><span style="color:blue;">东安区</span>、<span style="color:blue;">阳明区</span>、<span style="color:blue;">爱民区</span>、<span style="color:blue;">西安区</span>、<span style="color:red;">海林市</span>、绥芬河市、宁安市、穆棱市、东宁市、林口县</td>
+      <td><span style="color:blue;">东安区</span>、<span style="color:blue;">阳明区</span>、<span style="color:blue;">爱民区</span>、<span style="color:blue;">西安区</span>、<span style="color:red;">海林市</span>、<span style="color:red;">宁安市</span>、绥芬河市、穆棱市、东宁市、林口县</td>
     </tr>
     <tr>
       <td>佳木斯市</td>
@@ -203,7 +203,7 @@ bookmark: true
     </tr>
     <tr>
       <td>大兴安岭地区</td>
-      <td><span style="color:green;">加格达奇区</span>、<span style="color:green;">漠河市</span>、<span style="color:blue;">塔河县</span>、<span style="color:blue;">呼玛县</span>、松岭区、新林区、呼中区</td>
+      <td><span style="color:green;">加格达奇区</span>、<span style="color:green;">漠河市</span>、<span style="color:blue;">塔河县</span>、<span style="color:blue;">呼玛县</span>、<span style="color:red;">松岭区</span>、<span style="color:red;">新林区</span>、呼中区</td>
     </tr>
   </tbody>
 </table>
@@ -221,55 +221,68 @@ bookmark: true
     <tr>
       <th>公路名称</th>
       <th>覆盖情况</th>
+      <th>大致走向</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>G1京哈高速</td>
-      <td>K1164(距双城出口10km)~学府路主线出入口立交桥终点</td>
+      <td>哈尔滨市双城区K1164(距双城出口10km)~哈尔滨市香坊区G1学府路主线出入口立交桥终点</td>
+      <td>西南-东北</td>
     </tr>
     <tr>
       <td>G1001哈尔滨绕城高速</td>
-      <td>环线全程</td>
+      <td>全程</td>
+      <td>环线</td>
     </tr>
     <tr>
       <td rowspan="2">G10绥满高速</td>
-      <td>K452~哈尔滨绕城高速立交K459</td>
+      <td>哈尔滨市阿城区K452~哈尔滨市香坊区哈尔滨绕城高速立交K459</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
-      <td>沙水湾(与G1001共线终点)K512~对青山收费站K522</td>
+      <td>哈尔滨市松北区沙水湾枢纽(与G1001共线终点)K512~哈尔滨市松北区对青山收费站K522</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
       <td>G1111鹤哈高速</td>
-      <td>哈尔滨北~赵家收费站K446</td>
+      <td>哈尔滨市松北区赵家互通K446~哈尔滨市呼兰区哈尔滨北互通</td>
+      <td>北-南</td>
     </tr>
     <tr>
       <td>G45大广高速</td>
-      <td>萨尔图机场起点~南三路K27</td>
+      <td>大庆市萨尔图区萨尔图机场起点~大庆市龙凤区南三路互通K27</td>
+      <td>北-南</td>
     </tr>
     <tr>
-      <td>哈尔滨机场高速</td>
+      <td>S93哈尔滨机场高速</td>
       <td>全程</td>
+      <td>东-西</td>
     </tr>
     <tr>
       <td>G102京抚线</td>
-      <td>双城区~G1学府路主线出入口立交桥</td>
+      <td>哈尔滨市双城区~哈尔滨市香坊区G1学府路主线出入口立交桥</td>
+      <td>西南-东北</td>
     </tr>
     <tr>
       <td>G202吉黑公路</td>
-      <td>朝阳立交桥~周家站</td>
+      <td>哈尔滨市双城区周家站~哈尔滨市香坊区朝阳立交桥</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
       <td>G221哈同公路</td>
-      <td>哈尔滨东收费站~下穿哈牡高速线附近</td>
+      <td>哈尔滨市道外区哈尔滨东主线出入口~哈尔滨市香坊区下穿哈牡高速线附近</td>
+      <td>西-东</td>
     </tr>
     <tr>
       <td>G301绥满公路</td>
-      <td>哈红公路进乡街~新华镇</td>
+      <td>哈尔滨市香坊区新华镇~哈尔滨市香坊区南直路立交</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
-      <td>S102</td>
+      <td>S102机场路</td>
       <td>机场高架段</td>
+      <td>东-西</td>
     </tr>
   </tbody>
 </table>
@@ -281,60 +294,113 @@ bookmark: true
 <table border="1">
   <thead>
     <tr>
-      <th colspan="2" style="background-color: lightgray;">黑龙江省高等级公路腾讯街景覆盖情况</th>
+      <th colspan="3" style="background-color: lightgray;">黑龙江省高等级公路腾讯街景覆盖情况</th>
     </tr>
     <tr>
       <th>公路名称</th>
       <th>覆盖情况</th>
+      <th>大致走向</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>G1京哈高速</td>
-      <td>省界(拉林河大桥)~学府路主线出入口立交桥终点</td>
+      <td>省界(拉林河大桥)K1137~哈尔滨市香坊区学府路主线出入口立交桥终点</td>
+      <td>西南-东北</td>
     </tr>
     <tr>
       <td>G1001哈尔滨绕城高速</td>
-      <td>环线全程</td>
+      <td>全程</td>
+      <td>环线</td>
     </tr>
     <tr>
-      <td rowspan="2">G10绥满高速</td>
-      <td>九合园(与G11共线起点)K146~哈尔滨绕城高速立交K459</td>
+      <td rowspan="4">G10绥满高速</td>
+      <td>牡丹江市阳明区九合园枢纽(与G11共线起点)K146~哈尔滨市哈尔滨绕城高速立交K459</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
-      <td>沙水湾(与G1001共线终点)K512~</td>
+      <td>哈尔滨市松北区沙水湾枢纽(与G1001共线终点)K512~绥化市肇东市肇东互通K575</td>
+      <td>东南-西北</td>
+    </tr>
+    <tr>
+      <td>大庆市龙凤区大庆互通K626~大庆市龙凤区城北互通K654</td>
+      <td>东南-西北</td>
+    </tr>
+    <tr>
+      <td>齐齐哈尔市铁锋区龙华互通K771~齐齐哈尔市梅里斯达斡尔族区共和互通K794</td>
+      <td>东-西</td>
+    </tr>
+    <tr>
+      <td>G1011哈同高速</td>
+      <td>哈尔滨市道外区哈尔滨东主线出入口~佳木斯市郊区佳木斯西互通K327</td>
+      <td>西南-东北</td>
+    </tr>
+    <tr>
+      <td>G11鹤大高速</td>
+      <td>牡丹江市西安区三道互通K391~牡丹江市宁安市镜泊湖互通K489</td>
+      <td>北-南</td>
     </tr>
     <tr>
       <td>G1111鹤哈高速</td>
-      <td>哈尔滨北~</td>
+      <td>哈尔滨市松北区赵家互通K446~哈尔滨市呼兰区哈尔滨北互通</td>
+      <td>北-南</td>
     </tr>
     <tr>
       <td>G45大广高速</td>
-      <td>萨尔图机场起点~</td>
+      <td>大庆市萨尔图区萨尔图机场起点~大庆市龙凤区龙凤主线收费站K32</td>
+      <td>北-南</td>
     </tr>
     <tr>
-      <td>哈尔滨机场高速</td>
+      <td>G4512双嫩高速</td>
+      <td>齐齐哈尔市铁锋区龙华互通K236~齐齐哈尔市泰来县大兴互通K296</td>
+      <td>东北-西南</td>
+    </tr>
+    <tr>
+      <td>S93哈尔滨机场高速</td>
       <td>全程</td>
+      <td>西-东</td>
     </tr>
     <tr>
       <td>G102京抚线</td>
-      <td>省界~呼兰河口湿地公园附近</td>
+      <td>省界~哈尔滨市呼兰区呼兰河口湿地公园附近</td>
+      <td>南-北</td>
     </tr>
     <tr>
-      <td>G202吉黑公路</td>
-      <td>朝阳立交桥~</td>
+      <td>G111京漠线</td>
+      <td>大兴安岭地区加格达奇区~大兴安岭地区漠河市北极村</td>
+      <td>西南-东北</td>
+    </tr>    
+    <tr>
+      <td rowspan="2">G202吉黑公路</td>
+      <td>哈尔滨市五常市拉林满族镇~哈尔滨市香坊区朝阳立交桥</td>
+      <td>东南-西北</td>
+    </tr>
+    <tr>
+      <td>哈尔滨市松北区大耿家~绥化市兰西县榆林镇</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
       <td>G221哈同公路</td>
-      <td>哈尔滨东收费站~</td>
+      <td>哈尔滨市道外区哈尔滨东收费站~佳木斯市郊区友谊路</td>
+      <td>西-东</td>
     </tr>
     <tr>
-      <td>G301绥满公路</td>
-      <td>哈红公路进乡街~</td>
+      <td rowspan="3">G301绥满公路</td>
+      <td>牡丹江市阳明区磨刀石镇~哈尔滨市香坊区哈红公路进乡街</td>
+      <td>东南-西北</td>
     </tr>
     <tr>
-      <td>S102</td>
+      <td>哈尔滨市松北区大耿家~绥化市肇东市五站镇</td>
+      <td>东南-西北</td>
+    </tr>
+    <tr>
+      <td>大庆市让胡路区广电桥~大庆市杜尔伯特蒙古族自治县</td>
+      <td>东南-西北</td>
+    </tr>
+    <tr>
+      <td>S102机场路</td>
       <td>机场高架段</td>
+      <td>东-西</td>
     </tr>
   </tbody>
 </table>
