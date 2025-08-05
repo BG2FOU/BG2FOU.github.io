@@ -41,7 +41,7 @@ services:
       - 21116:21116/udp
       - 21118:21118
     volumes:
-      - /home/ecs-assist-user/rustdesk/root:/root
+      - /home/USERNAME/rustdesk/root:/root
     networks:
       - rustdesk-net
     depends_on:
@@ -56,7 +56,7 @@ services:
       - 21117:21117
       - 21119:21119
     volumes:
-      - /home/ecs-assist-user/rustdesk/root:/root
+      - /home/USERNAME/rustdesk/root:/root
     networks:
       - rustdesk-net
     restart: unless-stopped
@@ -121,7 +121,7 @@ After=network-online.target
 
 [Service]
 Type=simple
-ExecStart=/home/ecs-assist-user/rustdesk/rustdesk-start.sh
+ExecStart=/home/USERNAME/rustdesk/rustdesk-start.sh
 RemainAfterExit=yes
 
 [Install]
