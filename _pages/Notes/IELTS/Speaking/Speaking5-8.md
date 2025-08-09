@@ -14,31 +14,31 @@ bookmark: true
 
 - When did you start using the internet?
 
-  - I first started using the internet when I was around 11 years old, when I was a primary student. We had a dial-up connection at home back then – it was painfully slow! I remember mainly using it for basic homework research at the school library whenever I could get access, and occasionally at home for very simple things. It felt quite novel and exciting at the time, even though it was much more limited than it is today. I have quite fond memories of those early experiences.
+  - I first started using the internet when I was around 11 years old, when I was a primary student. We had a dial-up connection at home back then - it was painfully slow! I remember mainly using it for basic homework research at the school library whenever I could get access, and occasionally at home for very simple things. It felt quite novel and exciting at the time, even though it was much more limited than it is today. I have quite fond memories of those early experiences.
 
 - How often do you go online?
 
-  - I go online every single day – it’s absolutely vital for both my daily routine and staying connected. On weekdays, I’d estimate I spend around **3–4 hours online**, split between work tasks, studying, and personal use. On weekends, it might be a bit less unless I’m streaming a film or researching something. I rely heavily on my phone for quick searches and messages, but switch to my laptop for deeper tasks like writing or coursework. It’s become such an essential utility that I can’t imagine life without it!
+  - I go online every single day - it’s absolutely vital for both my daily routine and staying connected. On weekdays, I’d estimate I spend around **3-4 hours online**, split between work tasks, studying, and personal use. On weekends, it might be a bit less unless I’m streaming a film or researching something. I rely heavily on my phone for quick searches and messages, but switch to my laptop for deeper tasks like writing or coursework. It’s become such an essential utility that I can’t imagine life without it!
 
 - How does the internet influence people?
 
-  - Oh, it influences us *massively*—both positively and negatively. On one hand, it’s revolutionized everything: instant access to knowledge, easier communication across the globe, and tools for work or education. For example, anyone can learn skills online now—like cooking or coding!
+  - Oh, it influences us *massively* - both positively and negatively. On one hand, it’s revolutionized everything: instant access to knowledge, easier communication across the globe, and tools for work or education. For example, anyone can learn skills online now - like cooking or coding!
 
     On the other hand, it can be distracting. I’ve noticed people (myself included!) sometimes scroll mindlessly instead of focusing on real-life moments. It’s also easier to feel overwhelmed by too much information.
 
-    So overall? It’s a double-edged sword—incredibly useful, but we need to use it wisely.
+    So overall? It’s a double-edged sword - incredibly useful, but we need to use it wisely.
 
 - Do you think you spend too much time online?
 
-  - Honestly, I *do* wonder sometimes if I’m online more than I should be. While it’s essential for work and keeping in touch, I’ll admit I occasionally fall into the trap of mindless scrolling—especially when I’m tired or procrastinating. I’ve noticed it can eat into time I’d rather spend on hobbies or just relaxing offline.
+  - Honestly, I *do* wonder sometimes if I’m online more than I should be. While it’s essential for work and keeping in touch, I’ll admit I occasionally fall into the trap of mindless scrolling - especially when I’m tired or procrastinating. I’ve noticed it can eat into time I’d rather spend on hobbies or just relaxing offline.
 
-    That said, I’m trying to be more intentional. I use app timers to limit social media, and I make a point to ‘detox’ on weekends—like hiking or reading physical books. It’s a balance, but I’m getting better at recognizing when to disconnect.
+    That said, I’m trying to be more intentional. I use app timers to limit social media, and I make a point to ‘detox’ on weekends - like hiking or reading physical books. It’s a balance, but I’m getting better at recognizing when to disconnect.
 
 - What would you do without the internet?
 
-  - Honestly? It’d be a huge adjustment at first—I’d miss it terribly for daily tasks! But I’d adapt. For **work or studies**, I’d rely on physical libraries, books, and in-person consultations. **Socially**, I’d prioritize face-to-face meetups, handwritten letters (which could be quite charming!), or phone calls. And for **leisure**, I’d dive deeper into offline hobbies—like hiking, painting, or playing board games with friends.
+  - Honestly? It’d be a huge adjustment at first - I’d miss it terribly for daily tasks! But I’d adapt. For **work or studies**, I’d rely on physical libraries, books, and in-person consultations. **Socially**, I’d prioritize face-to-face meetups, handwritten letters (which could be quite charming!), or phone calls. And for **leisure**, I’d dive deeper into offline hobbies - like hiking, painting, or playing board games with friends.
 
-    Ironically, I might even feel *more* present. No notifications constantly pulling at my attention! I’d probably explore my city more, rediscover old hobbies like journaling, and value slower, intentional interactions. It’d force me to be resourceful—like using maps instead of GPS or shopping locally.
+    Ironically, I might even feel *more* present. No notifications constantly pulling at my attention! I’d probably explore my city more, rediscover old hobbies like journaling, and value slower, intentional interactions. It’d force me to be resourceful - like using maps instead of GPS or shopping locally.
 
     Sure, it’d be inconvenient sometimes, but humans thrived for centuries without it. I’d see it as a chance to reconnect with the tangible world.
 
@@ -48,7 +48,7 @@ bookmark: true
   - Yes, I absolutely love singing! It’s a fantastic way to express myself  and relieve stress. Even if I’m not particularly good at it, it just  makes me feel good. I find it incredibly liberating to just let loose and  sing along to my favorite songs. It’s a great mood booster, honestly.
 - Have you ever learnt how to sing?
   - Yes, I took singing lessons for about a year when I was in high  school. It was really helpful in learning proper breathing techniques  and vocal control. I didn’t become a professional singer, but it  definitely improved my technique and gave me more confidence.
-  - No, I haven’t. I’ve always thought about it, but I never really got  around to it. I’m more of a self-taught singer – I just listen to a lot  of music and try to imitate the artists I like. 
+  - No, I haven’t. I’ve always thought about it, but I never really got  around to it. I’m more of a self-taught singer - I just listen to a lot  of music and try to imitate the artists I like. 
 - Who do you want to sing for?
   - Definitely for my family and friends. I love the feeling of sharing  music with the people I care about. I often sing at family gatherings  or when we’re having a fun night in. Seeing their smiles and  knowing I’ve brought them joy is the best feeling.
   - Honestly, I’m mostly singing for myself. It’s a personal thing, and  I don’t really care about performing for an audience. It’s just a  way for me to relax and express my emotions. 
@@ -59,7 +59,7 @@ bookmark: true
 ### Text messages
 
 - How often do you send messges?
-  - I'd say I'm a pretty frequent texter, actually. It's definitely my  preferred way to communicate with friends and family, especially  since we're all so busy. I probably send at least 10-15 messages a  day – it really depends. Work related messages are also a big part  of my daily communication. It's just quick and convenient. 
+  - I'd say I'm a pretty frequent texter, actually. It's definitely my  preferred way to communicate with friends and family, especially  since we're all so busy. I probably send at least 10-15 messages a  day - it really depends. Work related messages are also a big part  of my daily communication. It's just quick and convenient. 
 - ls sending messages popular in your country?
   - Absolutely, texting is incredibly popular in China. It ’ s almost  ubiquitous. With the widespread use of smartphones and  messaging apps like WeChat, people of all ages communicate  primarily through text. It's much more common to send a text than  to make a phone call, even for important things.
 - Did you send more messages when you were younger? 
@@ -78,7 +78,7 @@ bookmark: true
 - Are there any differences between how Chinese name their  children now and in the past? 
   - Definitely. In the past, Chinese names often reflected family lineage,  social status, or aspirations for the child’s future. They were often  chosen based on characters with auspicious meanings. Now, while  many still consider these factors, there's a lot more freedom and  creativity. People are more willing to choose names that simply  sound beautiful or reflect their personal tastes. 
 - Are there any names that are more popular than others in  China?
-  - Yes, there are definitely trends. Names like Zihao (子豪) and Yihan  (亦涵) have been very popular for boys in recent years, while names  like Xinyi (心怡) and Zihan (子涵) are common for girls. These  names often convey positive meanings like intelligence, kindness,  and beauty.
+  - Yes, there are definitely trends. Names like *Zihao* (子豪) and *Yihan*  (亦涵) have been very popular for boys in recent years, while names  like *Xinyi* (心怡) and *Zihan* (子涵) are common for girls. These  names often convey positive meanings like intelligence, kindness,  and beauty.
 
 ### Praising/encouragement
 
@@ -91,7 +91,7 @@ bookmark: true
 - Do you think parents should often praise their children? 
   - Absolutely! I think praise is crucial for a child’s development. It’s  not about showering them with empty compliments, but genuinely  acknowledging their efforts and achievements, no matter how small.  It builds their self-esteem and encourages them to take risks and try  new things. However, it’s important to praise effort rather than  innate ability to foster a growth mindset. 
 - Have you ever been praised or encouraged by your teacher?
-  - Yes, absolutely! I still remember my biology teacher in high school praising a project I did on ecosystems. She said, 'Your research shows real depth-I can tell you put genuine effort into this.' It wasn’t just about the grade; her words made me feel seen and motivated.Later, when I struggled with a chemistry exam, that same teacher encouraged me: 'Don’t let one setback define you-focus on progress.' Her belief in me pushed me to improve. That mix of recognition and gentle guidance had a lasting impact—it taught me that effort matters and resilience pays off.
+  - Yes, absolutely! I still remember my biology teacher in high school praising a project I did on ecosystems. She said, 'Your research shows real depth - I can tell you put genuine effort into this.' It wasn’t just about the grade; her words made me feel seen and motivated.Later, when I struggled with a chemistry exam, that same teacher encouraged me: 'Don’t let one setback define you-focus on progress.' Her belief in me pushed me to improve. That mix of recognition and gentle guidance had a lasting impact - it taught me that effort matters and resilience pays off.
 
 
 
@@ -112,13 +112,13 @@ bookmark: true
 - How often do you take photos?
   - I take photos very often! I use the camera on my phone, and I  always have my phone on me（随身携带手机）, so I take photos on.  a daily basis. I like to take photos with my friends, when I am at pretty  places and when I order good food! 
 - Do you like taking selfies? 
-  - I like taking photos of myself! I often take selfies on days when I  look good or when I am wearing an interesting outfit. I like to keep a  record of how I look so I take a lot of photos of myself and enjoy doing  so! 
+  - I like taking photos of myself! I often take selfies on days when I  look good or when I am wearing an interesting outfit. I like to keep a  record of how I look so I take a lot of photos of myself and enjoy doing so! 
 - What is your favorite family photo? 
   - I do not have a favourite family photo. There are so many  wonderful photos of my family that it is impossible to choose just one  that is my favourite! I like all my family photos; each one is lovely for  its own reasons.
 - Do you want to improve your photography skills?
   - I would like to learn how to take better photos. I take a lot of  photos but there is always room to improve! It would be great to have  a better understanding of lighting and shadow when it comes to  taking photos. 
 
-## Part 2
+## Part 2 & 3
 
 ### Describe an outdoor sport you would like to do 
 
@@ -126,5 +126,21 @@ You should say:  What it is; When/where you would like to do it; With whom you w
 
 - As part of ‘Revamp Corners,’ we’ve been trying to promote healthier  lifestyles in the community. That got me thinking about outdoor activities,  and I’ve become really interested in rock climbing. I've always admired  people who can scale these massive rock faces with such grace and  strength. It looks incredibly challenging, both physically and mentally.  I’d love to try it out during the spring or autumn, when the weather isn’t  too hot or too cold. There’s a fantastic climbing center with both indoor  and outdoor walls about an hour’s drive from the city. I’d want to go with  a group of friends, especially my friend Xiaoming, who is a really  experienced hiker and loves adventure sports. It would be great to have  someone knowledgeable to guide me and ensure my safety.  What appeals to me about rock climbing is the problem-solving aspect.  It’s not just about strength; it’s about planning your route, figuring out  the best holds, and trusting your body to execute the climb. I think it  would be an incredible way to push my limits, build confidence, and  connect with nature at the same time. 
 
-### Describe
+### Describe a website that sells second-hand items
+
+You should say:  What it is; How you found out about it; What you have bought from it; And explain whether you like it.
+
+- Auntie Chen, the project leader, is a big advocate for sustainable living.  She pointed me towards a website called *闲鱼*(*Xiányú* - literally *Idle Fish*). It’s a huge online marketplace in China for buying and selling  second-hand goods. It’s incredibly popular!  I first heard about it from her when we were brainstorming ideas for  upcycling old furniture for the ‘Revamp Corners’ project. She showed  me how to find affordable vintage items that could be restored and  reused. I’ve actually bought a few things from it myself - a beautiful old  wooden chest that I’ve been refinishing for my bedroom, and some  gardening tools for the community garden.  I really like *Xianyu* because it's so convenient and affordable. It’s also  great for finding unique and one-of-a-kind items. Plus, it promotes a  circular economy and reduces waste. It's a win-win situation! I think it’s  a brilliant platform that encourages people to give things a second life  rather than simply throwing them away.
+- Some people think it's a waste to buy too many clothes for children. What do you think?
+  - I completely agree. Children outgrow clothes incredibly fast - sometimes in just a few months. Buying excessive new outfits is financially impractical and environmentally unsustainable. Instead, focusing on fewer high-quality items or opting for second-hand options makes much more sense. It reduces waste and saves money for more important things like education or experiences.
+- How do people usually handle the clothes they don't want?
+  - Well, traditionally many would donate to charities or clothing bins. But increasingly - especially in cities - people turn to platforms like *Xianyu* or social media groups to resell or give away items. Some might repurpose old clothes into cleaning rags or crafts, while unfortunately, others still discard them with general waste, which is really wasteful.
+- Why do people buy second-hand clothes?
+  - I'd say there are three main reasons: First, **affordability** - you can get quality brands at a fraction of the original price. Second, **uniqueness** - vintage or pre-loved items often have character you won't find in fast-fashion stores. And third, **sustainability** - many people, like my friend Auntie Chen, consciously choose second-hand to reduce their environmental footprint and support the circular economy.
+- What problems will occur if people don't recycle?
+  - The consequences would be severe. Landfills would overflow much faster, releasing harmful greenhouse gases as items decompose. Resources like water and raw materials used in manufacturing would be depleted unnecessarily. Pollution would skyrocket - imagine microplastics from synthetic fabrics contaminating oceans or toxic chemicals from electronics leaching into soil. Ultimately, it damages ecosystems and accelerates climate change.
+- Should the government encourage people to recycle items?
+  - Absolutely, yes. While individual action helps, government initiatives create large-scale impact. They could fund public education campaigns, install more accessible recycling bins in communities, offer tax breaks for businesses using recycled materials, or even implement policies like extended producer responsibility - where manufacturers help fund recycling programs. This combined approach makes recycling easier and more systemic.
+- How do people in your country recycle various items they don't want?
+  - In China, methods are diversifying rapidly. For **clothing/furniture**, apps like *Xianyu* are hugely popular for reselling or giving items away. Many communities have **designated recycling stations** for paper, plastic, and electronics. **Informal collectors** still play a role in gathering recyclables from households. For **e-waste**, brands often offer take-back programs. Government-led **waste sorting schemes** in cities like Shanghai also push people towards more conscious disposal habits.
 
