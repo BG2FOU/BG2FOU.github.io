@@ -167,7 +167,7 @@ bookmark: true
     </tr>
     <tr>
       <td>佳木斯市</td>
-      <td><span style="color:green;">前进区</span>、<span style="color:green;">向阳区</span>、<span style="color:green;">东风区</span>、<span style="color:green;">郊区</span>、<span style="color:blue;">同江市</span>、<span style="color:blue;">抚远市</span>、富锦市、桦南县、桦川县、汤原县</td>
+      <td><span style="color:green;">前进区</span>、<span style="color:green;">向阳区</span>、<span style="color:green;">东风区</span>、<span style="color:green;">郊区</span>、<span style="color:yellow;">同江市</span>、<span style="color:yellow;">抚远市</span>、富锦市、桦南县、桦川县、汤原县</td>
     </tr>
     <tr>
       <td>大庆市</td>
@@ -175,7 +175,7 @@ bookmark: true
     </tr>
     <tr>
       <td>伊春市</td>
-      <td><span style="color:green;">伊美区</span>、<span style="color:blue;">乌翠区</span>、<span style="color:green;">美溪区</span>、<span style="color:blue;">友好区</span>、<span style="color:blue;">西林区</span>、<span style="color:green;">铁力市</span>、<span style="color:blue;">汤旺县</span>、<span style="color:blue;">丰林县</span>、金林区、嘉荫县、大箐山县、南岔县</td>
+      <td><span style="color:green;">伊美区</span>、<span style="color:blue;">乌翠区</span>、<span style="color:yellow;">美溪区</span>、<span style="color:yellow;">友好区</span>、<span style="color:blue;">西林区</span>、<span style="color:green;">铁力市</span>、<span style="color:blue;">汤旺县</span>、<span style="color:blue;">丰林县</span>、金林区、嘉荫县、大箐山县、南岔县</td>
     </tr>
     <tr>
       <td>鸡西市</td>
@@ -183,11 +183,11 @@ bookmark: true
     </tr>
     <tr>
       <td>鹤岗市</td>
-      <td><span style="color:green;">向阳区</span>、<span style="color:green;">工农区</span>、<span style="color:green;">南山区</span>、<span style="color:blue;">萝北县</span>、<span style="color:blue;">绥滨县</span>、兴安区、东山区、兴山区</td>
+      <td><span style="color:green;">向阳区</span>、<span style="color:green;">工农区</span>、<span style="color:green;">南山区</span>、<span style="color:yellow;">萝北县</span>、<span style="color:blue;">绥滨县</span>、兴安区、东山区、兴山区</td>
     </tr>
     <tr>
       <td>双鸭山市</td>
-      <td><span style="color:green;">尖山区</span>、岭东区、四方台区、宝山区、集贤县、友谊县、宝清县、饶河县</td>
+      <td><span style="color:green;">尖山区</span>、<span style="color:red;">集贤县</span>、岭东区、四方台区、宝山区、友谊县、宝清县、饶河县</td>
     </tr>
     <tr>
       <td>七台河市</td>
@@ -415,6 +415,12 @@ bookmark: true
       <td>大庆市让胡路区广电桥</td>
       <td>大庆市杜尔伯特蒙古族自治县</td>
       <td>东南-西北</td>
+    </tr>
+    <tr>
+      <td>G333亚雪公路</td>
+      <td>哈尔滨市尚志市绥满高速亚布力收费站</td>
+      <td>哈尔滨市尚志市亚布力森林度假酒店</td>
+      <td>北-南</td>
     </tr>
     <tr>
       <td>S102机场路</td>
