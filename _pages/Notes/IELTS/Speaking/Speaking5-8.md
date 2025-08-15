@@ -125,6 +125,21 @@ bookmark: true
 You should say:  What it is; When/where you would like to do it; With whom you would like to do it; And explain why you would like to do it.
 
 - As part of ‘Revamp Corners,’ we’ve been trying to promote healthier  lifestyles in the community. That got me thinking about outdoor activities,  and I’ve become really interested in rock climbing. I've always admired  people who can scale these massive rock faces with such grace and  strength. It looks incredibly challenging, both physically and mentally.  I’d love to try it out during the spring or autumn, when the weather isn’t  too hot or too cold. There’s a fantastic climbing center with both indoor  and outdoor walls about an hour’s drive from the city. I’d want to go with  a group of friends, especially my friend Xiaoming, who is a really  experienced hiker and loves adventure sports. It would be great to have  someone knowledgeable to guide me and ensure my safety.  What appeals to me about rock climbing is the problem-solving aspect.  It’s not just about strength; it’s about planning your route, figuring out  the best holds, and trusting your body to execute the climb. I think it  would be an incredible way to push my limits, build confidence, and  connect with nature at the same time. 
+- What are the differences between indoor sports and outdoor sports?
+  - The main differences lie in the environment and experience. Indoor sports, like basketball in a gym, offer a controlled setting—consistent lighting, temperature, and no weather disruptions. Outdoor sports, such as rock climbing or trail running, immerse you in nature with unpredictable elements like wind or terrain changes. This makes outdoor activities more adventurous but also demands greater adaptability, while indoor sports focus more on structured competition and convenience.
+
+- Which outdoor sports are popular in China?
+  - In China, badminton is hugely popular in parks, especially among families and retirees. Activities like tai chi and group dancing in public squares are also common for all ages. Among younger people, hiking and cycling have gained traction—places like the Great Wall or Yangshuo’s karst mountains attract adventure seekers. Urbanization has also boosted running in city greenways, reflecting a growing fitness culture.
+
+- Which sports are popular among elderly people?
+  - Elderly people often prefer low-impact, social sports. Tai chi is iconic—it’s gentle, improves balance, and groups practice together in parks at dawn. Square dancing (guangchang wu) is another favorite, combining music, dance, and community bonding. Less intense options like walking, gardening, or qigong are also widespread, helping seniors stay active without straining joints.
+
+- How do weather affect outdoor sports?
+  - Weather dramatically impacts safety and accessibility. For example, heavy rain makes rock climbing slippery and dangerous, while extreme heat risks dehydration during sports like soccer. Cold winters enable skiing in northern China but limit swimming or cycling. Even wind direction matters for sports like archery. This unpredictability forces athletes to plan meticulously or opt for indoor alternatives when conditions turn harsh.
+
+- Which sports can children do on rainy days?
+  - Children can switch to indoor sports like swimming (in covered pools), gymnastics, or martial arts in community centers. Schools often offer badminton or basketball in indoor courts too. For home-based activities, creative options like dance-offs, indoor obstacle courses, or even yoga keep them moving. These alternatives ensure kids stay active regardless of weather while building coordination and teamwork.
+
 
 ### Describe a website that sells second-hand items
 
