@@ -118,6 +118,43 @@ bookmark: true
 - Do you want to improve your photography skills?
   - I would like to learn how to take better photos. I take a lot of  photos but there is always room to improve! It would be great to have  a better understanding of lighting and shadow when it comes to  taking photos. 
 
+### Taking photos
+
+- Do you like taking photos?
+  - Actually yes! I use a camera Nikon Z5, I really enjoy capturing moments – especially when I’m outdoors or traveling. It’s a great way to preserve memories and see the world from different angles.
+- Where do you like to go to take photos?
+  - I especially love taking photos along the Songhua River at sunset. The way the sky turns fiery orange and pink, reflecting on the water, creates breathtaking scenery. It’s my favorite spot to capture nature’s beauty.
+- Do you like taking selfies?
+  - Not really, to be honest. I prefer taking candid shots of people or landscapes. Selfies feel a bit forced to me, though I’ll occasionally take one with friends for fun!
+- What's your favorite family photo?
+  - I do not have a favourite family photo. There are so many  wonderful photos of my family that it is impossible to choose just one  that is my favourite! I like all my family photos; each one is lovely for  its own reasons. 
+- Do you want to improve your photography skillls?
+  - Absolutely! I take a lot of  photos but there is always room to improve! It would be great to have  a better understanding of lighting and shadow when it comes to  taking photos.
+
+### Flowers
+
+- Do you love flowers?
+  - Yes, I appreciate flowers very much. I think they hold a lot of  symbolic meaning in many cultures, and they're often associated  with positive emotions like love, gratitude, and joy. Beyond that, their  vibrant colours and delicate forms are simply aesthetically pleasing.
+- Do you know anyone who loves flowers?
+  - Definitely. My grandmother is a huge flower enthusiast. She has a  beautiful garden filled with all sorts of blooms, and she spends hours  tending to them. She can tell you the name of every flower and its  specific needs. She’s actually inspired me to appreciate flowers more. 
+- Are there a lot of flowers where you live?
+  - Actually, there are quite a few. My city makes a real effort to maintain beautiful parks and gardens, so you can find flowers  blooming throughout the year. Especially in spring and summer, the  streets are lined with colourful flowerbeds. It really adds to the city’ s vibrancy.
+- Do you take photos of flowers in your daily life?
+  - I do, occasionally. I’m not a professional photographer by any  means, but if I come across a particularly beautiful flower, I’ll  definitely try to capture it on my phone. I love being able to look back  at those photos and remember the moment.
+- Do people in your country often send flowers to others?
+  - Yes, definitely. Sending flowers is a very common practice in China,  especially for special occasions like birthdays, Mother’s Day, or to  express condolences. Roses are particularly popular, but it really  depends on the occasion and the recipient.
+
+### Memory
+
+- Are you good at memorising things? 
+  - I wouldn't say I have a photographic memory, but I'm generally pretty  good at remembering faces and names. I think it's because I make  a conscious effort to really focus when I first meet someone, and I  try to associate their name with something memorable about them.  However, I’m terrible at memorizing dates and figures – I always  need to write those down.
+- Have you ever forgotten something important? 
+  - Oh, definitely! A few years ago, I completely forgot my best friend’ s birthday. I felt terrible! I was so caught up with work at the time that  it completely slipped my mind. It taught me a valuable lesson about  prioritizing personal relationships and making sure to mark important  dates in my calendar.
+- What do you need to remember in your daily life?
+  - Quite a lot, actually. Besides the usual things like appointments and  deadlines, I need to remember to take my daily vitamins, walk my  dog, and pick up groceries. I also have a lot of passwords to keep  track of, which is a real challenge! I'm trying to use a password manager to make things easier.
+- How do you remember important things?
+  - I rely heavily on my calendar and to-do list apps. I make it a habit to  review them every morning and evening, just to make sure nothing  slips through the cracks. Repetition is key for me – the more I see  something, the more likely I am to remember it.
+
 ## Part 2 & 3
 
 ### Describe an outdoor sport you would like to do 
@@ -158,4 +195,22 @@ You should say:  What it is; How you found out about it; What you have bought fr
   - Absolutely, yes. While individual action helps, government initiatives create large-scale impact. They could fund public education campaigns, install more accessible recycling bins in communities, offer tax breaks for businesses using recycled materials, or even implement policies like extended producer responsibility - where manufacturers help fund recycling programs. This combined approach makes recycling easier and more systemic.
 - How do people in your country recycle various items they don't want?
   - In China, methods are diversifying rapidly. For **clothing/furniture**, apps like *Xianyu* are hugely popular for reselling or giving items away. Many communities have **designated recycling stations** for paper, plastic, and electronics. **Informal collectors** still play a role in gathering recyclables from households. For **e-waste**, brands often offer take-back programs. Government-led **waste sorting schemes** in cities like Shanghai also push people towards more conscious disposal habits.
+
+### Describe an old person you know who has had an interesting life  
+
+You should say: Who this person is;  Where he/she lives;  What he/she has done in his/her life;  And explain how you feel about him/her;
+
+- Definitely Mrs. Li. She lives in our neighborhood and is in her 70s, but  she has more energy and enthusiasm than most people I know. She  spent most of her life as a horticulture teacher, inspiring generations of  students to appreciate the beauty of nature. She's not just a teacher;  she's a lifelong learner and a true advocate for environmental  stewardship. After retiring, she continued to garden, volunteer at local  schools, and travel extensively, visiting gardens all over the world, from  the meticulously manicured gardens of Europe to the lush rainforests  of South America. She’s also a talented painter and a skilled storyteller.  She’s a very positive and resilient person, having overcome some  personal challenges in her life with grace and strength. She’s always  willing to share her experiences and offer advice, and she’s a real  inspiration to me and to everyone in our community. I really admire her  passion for life, her dedication to her craft, and her willingness to  embrace new experiences.
+- How do people have a conversation with an elderly person?
+  - Well, I think the key is showing genuine respect and interest. You should be patient, listen actively without interrupting, and ask open-ended questions about their experiences – like their past, hobbies, or opinions. It's important to speak clearly but not talk down to them. Finding common ground, like shared interests or current events, can also make the conversation flow naturally. Most importantly, valuing their perspective and stories makes them feel appreciated.
+- What can young people learn from old people?
+  - Oh, tremendously much. Elderly people offer a wealth of life experience and wisdom that's hard to find elsewhere. Young people can learn valuable life lessons about resilience, navigating challenges, and building strong relationships. They often possess deep historical and cultural knowledge, understanding how things have changed. Practical skills and traditional crafts are another area. Perhaps most importantly, they can teach perspective – showing what truly matters in life over the long term, based on their own journeys.
+- Do you think old people can work better than young people?
+  - It's not really about being universally 'better' or 'worse'. Older and younger workers often have different, complementary strengths. Older workers typically bring immense experience, deep expertise in their field, strong problem-solving skills honed over time, reliability, and often better emotional stability and interpersonal skills. They might be slower at some physically demanding tasks or adapting to brand-new technologies instantly. Younger workers often bring fresh energy, faster adaptation to new tech, and innovative ideas. Ideally, workplaces benefit from having a mix of both ages.
+- What are the advantages of having people of different ages living in the same house?
+  - Living in a multi-generational household offers significant benefits. Firstly, there's practical support – older adults can help with childcare or household management, while younger members can assist with physical tasks or technology. Emotionally, it reduces loneliness and fosters a strong sense of belonging and family connection for everyone. It's a fantastic opportunity for knowledge sharing: grandparents pass down traditions, stories, and life skills, while younger generations often introduce new perspectives and tech skills. Children especially benefit from constant interaction with loving grandparents, gaining unique guidance and a sense of extended family history.
+- Has old people's life quality improved when compared to the past?
+  - Generally speaking, yes, I believe there have been significant improvements in many areas. Advances in healthcare mean people live longer, healthier lives with better management of chronic conditions. Financial security is often better due to improved pension systems and savings opportunities compared to decades ago. There are also more opportunities for leisure, travel, education, and pursuing hobbies in later life, like Mrs. Li travelling the world. Access to technology helps them stay connected and informed. However, it's not universal – some face financial hardship, inadequate care, or social isolation, especially in rapidly changing societies where traditional family support structures might weaken.
+- Do old people share the same interests as young people?
+  - While there are certainly differences, I think there's often more overlap than people assume. Interests like enjoying nature, appreciating music or art, reading, cooking, or even certain forms of exercise like walking or swimming can be shared across generations. Many older people today are quite active and engaged with current events, films, or even technology-driven hobbies. Of course, preferences in music genres, intensity of physical activity, or specific types of games might differ. But fundamentally, the desire for connection, enjoyment, learning, and meaningful activities is common to all ages. Finding those common interests, like gardening in Mrs. Li's case, can bridge the gap beautifully.
 
