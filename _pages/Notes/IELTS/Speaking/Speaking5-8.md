@@ -155,6 +155,17 @@ bookmark: true
 - How do you remember important things?
   - I rely heavily on my calendar and to-do list apps. I make it a habit to  review them every morning and evening, just to make sure nothing  slips through the cracks. Repetition is key for me – the more I see  something, the more likely I am to remember it.
 
+### Plants
+
+- Do you keep plants at home?
+  - Yes, I definitely do. I have a few small potted plants on my windowsill, mostly succulents and a snake plant. I chose them because they're low-maintenance and quite hard to kill. I also think they make my living space feel more fresh and alive.
+- What plant did you grow when you were young?
+  - I remember growing sunflowers when I was in primary school. It was a class project, and we planted the seeds in little pots. I was so excited to water it every day and watch it sprout and grow taller than me. It was a very rewarding experience that taught me a bit about patience.
+- Do you know anything about growing a plant?
+  - I know the basics. For instance, I understand that most plants need three key things: sunlight, water, and good soil. However, I've learned that overwatering is a common mistake, as it can cause the roots to rot. I'm not an expert, but I can keep a few resilient plants alive and healthy.
+- Do Chinese people send plants as gifts?
+  - Yes, it's a fairly common practice, especially for certain occasions. Plants like orchids or lucky bamboo are very popular gifts. They are often given for housewarmings, business openings, or during the New Year because they symbolize good fortune, prosperity, and growth. It's a thoughtful gift that represents good wishes.
+
 ## Part 2 & 3
 
 ### Describe an outdoor sport you would like to do 
