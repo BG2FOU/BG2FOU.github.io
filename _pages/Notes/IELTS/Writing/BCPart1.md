@@ -56,7 +56,35 @@ In summary, while illiteracy rates were consistently higher among women worldwid
 
 ## Table
 
+The table below shows how the UK unemployed spent their time last year.
 
+![Page-2-task-2](https://static.gelielts.cn/modules/writing_interface/ielts/assets/acw/Page-2-task-2.png)
+
+### 1 - 7分范文
+
+The table illustrates how unemployed individuals in the UK spent their time last year, comparing men and women, as well as morning and afternoon activities.
+
+Women dedicated more time to housework, particularly in the morning (49%), whereas only 19% of men did the same. Shopping was popular for both genders, but men were slightly more active in the morning. Job hunting was more common among men (22%), while social visits increased for both genders in the afternoon.
+
+Men were more likely to watch TV, garden, and remain idle in the afternoon. Meanwhile, women read more frequently, though both genders participated in this activity mostly in the afternoon. Playing sports and staying in bed were the least common activities, with men engaging in them more than women.
+
+Overall, men spent more time on leisure activities, while women focused on household responsibilities. The afternoon was generally a more active period for both groups.
+
+### 1 - 8分范文
+
+The table presents data on how unemployed men and women in the UK spent their time last year, categorizing their activities into morning and afternoon. Overall, a clear pattern emerges where women were more engaged in domestic and social activities, while men participated more in leisure and outdoor tasks.
+
+In the morning, household tasks were notably higher among women, with nearly half (49%) engaged in housework compared to just 19% of men. Similarly, shopping was a common activity, but with slight gender differences, 20% of men shopped in the morning, while 17% of women did so in the afternoon. Job hunting was also more common during the morning, with 22% of men and 16% of women participating.
+
+In the afternoon, men showed a greater tendency towards leisure activities, with 14% watching TV and 13% involved in gardening. Meanwhile, women spent more time on social interactions, with 17% visiting friends or relatives and 10% reading. Physical activities, including walking and sports, were more commonly pursued by men, but overall participation was relatively low across both genders.
+
+### 1 - 9分范文
+
+The table provides a detailed breakdown of how unemployed men and women in the UK allocated their time to various activities last year, distinguishing between morning and afternoon engagements. Overall, women spent significantly more time on domestic responsibilities, whereas men were more involved in job hunting and leisure pursuits.
+
+In the morning, housework was by far the most common activity among unemployed women, with nearly half (49%) engaging in it, compared to only 19% of men. Shopping habits showed a slight gender variation, as 20% of men preferred to shop in the morning, while 17% of women did so in the afternoon. Job hunting was more prevalent among men, with 22% actively searching for employment in the morning, whereas only 16% of women did the same.
+
+During the afternoon, men were more likely to engage in leisure and outdoor activities, with 14% watching television and 13% gardening. Women, by contrast, prioritized social activities, with 17% spending time socializing and 10% reading. Although physical activities such as walking and playing sports were more common among men, participation remained relatively low for both genders.
 
 ## Two sets of data
 
