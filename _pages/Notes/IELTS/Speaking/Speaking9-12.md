@@ -298,15 +298,36 @@ You should say:
 
 ### Describe an important old thing that your family has kept for a long time
 
-You should say: 
+You should say: What it is; How/when your family first got this thing; How long your family has kept it; And explain why this thing is important to your family.
+
+- 
+- What kind of old things do people like to keep?
+- Why do people keep old things?
+- What are the differences between the things old people keep and those young people keep?
+- What are the differences between the things that people keep today and the things that people kept in the past?
 
 ### Describe a creative person you admire
 
-You should say: 
+You should say: Who he/she is; How you knew him/her; Whar his/her greatest achievement is; And explain why you think he/she is creative.
+
+- 
+- Do you think children should learn to play musical instruments?
+- How do artists acquire inspiration?
+- Do you think pictures and videos in news reports are important?
+- What can we do to help children keep creative?
+- How does drawing help to enhance children's creativity?
+- What kind of jobs require creativity?
 
 ### Describe an exciting activity you have tried for the first time
 
-You should say: 
+You should say: What it is; When/where you did it; Why you thought it was exciting; And explain how you felt about it;
+
+- 
+- Why are some people unwilling to try new things?
+- Why are some people keen on doing dangerous activities?
+- Do you think that children adapt to new things more easily than adults?
+- What benefits does trying new things have for personal development?
+- How do you think social media influences people to try new activities?
 
 ### Describe a friend of yours who has a good habit
 
