@@ -104,10 +104,20 @@ bookmark: true
 ### Chatting
 
 - Do you like chatting with friends?
+  - Absolutely, I really enjoy catching up with my friends. It’s a great way to relax and share what’s going on in our lives. Whether it’s something exciting or just daily updates, it always makes me feel more connected.
+
 - What do you usually chat about with friends?
+  - We mostly talk about everyday things like work, studies, or hobbies. Sometimes we discuss movies or music we’ve recently discovered. And of course, we often share funny stories or personal experiences.
+
 - Do you prefer to chat with a group of people or with only one friend?
+  - It depends on the situation, but I generally prefer one-on-one conversations. They feel more personal and meaningful, and it’s easier to talk about things in depth. Group chats are fun too, especially when we're making plans or just having laughs.
+
 - Do you prefer to communicate face-to-face or via social media?
+  - I definitely prefer face-to-face communication when possible. It feels more genuine and you can pick up on body language and tone. That said, social media is super convenient for staying in touch with friends who are far away.
+
 - Do you argue with friends?
+  - Occasionally, yes, but it’s usually over small things like where to eat or what movie to watch. I try to keep things respectful and listen to their perspective. In the end, we always find a way to sort it out and stay friends.
+
 
 ### Growing vegetables/fruits
 
@@ -254,7 +264,13 @@ You should say: Who he/she is; When/where you listen to his/her music/singing; W
 
 ### Describe a time when someone apologized to you
 
-You should say: 
+You should say: When it was; Who this person is, Why he or she apologized to you; And how you felt about it.
+
+- 
+- Do you think people should apologize for anything wrong they do?
+- Do people in your country like to say "sorry"?
+- On what occasion do people usually apologize to others?
+- Why do some people refuse to say "sorry" to others?
 
 ### Describe a time when the electricity suddenly went off
 
@@ -276,25 +292,81 @@ You should say:
 
 You should say: 
 
-### Describe an area/subject of science that you are interested in
+### Describe an area/subject of science that you are interested in and would like to learn more about
 
-You should say: 
+You should say: Which area/subject it is; When and where you came to know this area/subject; How you get information about this area/subject; And explain why you are interested in this area/subject.
+
+- The branch of science that fascinates me immensely and I’d love to delve deeper into is **Aerospace Science and Technology**, specifically the field of **micro/nano-satellites** and their **guidance, navigation, and control (GNC) systems**.
+
+  I first came to know about this area during my sophomore year in university. I attended a guest lecture series hosted by our engineering department, where a professor from School of Astronautics gave a captivating talk on the advancements in China's space program. He showcased how microsatellites, some no bigger than a shoebox, are revolutionizing space exploration by making it more affordable and accessible.
+
+  Since then, I’ve been actively seeking information about this subject. I primarily get my updates from online platforms. I follow dedicated journals like "Acta Astronautica" and the websites of space agencies like NASA and ESA. I’m also subscribed to several science communication channels on YouTube, such as "Scott Manley" and "Everyday Astronaut," which break down complex topics like orbital mechanics and attitude control in a very digestible way. Furthermore, I use academic databases like Google Scholar to read papers on specific GNC algorithms.
+
+  The reason I’m so interested in this field is twofold. Firstly, I find the miniaturization of technology utterly fascinating. The idea that we can pack sophisticated sensors, propulsion systems, and computers into such a small package to perform tasks once reserved for massive, expensive satellites is a testament to human ingenuity. Secondly, the **guidance, navigation, and control** aspect is like the brain of the satellite. I'm intrigued by the complex algorithms that allow these tiny satellites to maintain their precise orientation (attitude) and orbit in the harsh environment of space, avoiding collisions and fulfilling their missions. This intersection of cutting-edge software and hardware represents, for me, the pinnacle of engineering and a key to unlocking the future of space commerce and research.
+
+- Why do some children not like learning science at school?
+
+  - I think the main reason is that science is sometimes presented as a collection of dry facts and complicated formulas to be memorized, rather than a dynamic process of discovery. If the teaching method lacks hands-on experiments or fails to connect the concepts to real-world, exciting applications, it can easily seem abstract and boring to children. A poor foundation or a fear of finding it too difficult can also deter them early on.
+
+- Is it important to study science at school?
+
+  - Absolutely, it's fundamental. Studying science isn't just about learning facts; it's about cultivating a way of thinking. It teaches students critical thinking, problem-solving, and how to analyze evidence objectively. These skills are valuable in any career. Furthermore, it helps everyone understand the world around them, from how their smartphone works to making informed decisions about climate change or public health issues.
+
+- Which science subject is the most important for children to learn?
+
+  - It's difficult to single out one as the "most" important, as they often interconnect. However, if I had to choose, I'd say a strong foundation in **general science** that introduces key concepts from biology, chemistry, and physics is crucial at a young age. This gives children a broad understanding of the natural world. Later, perhaps **computer science** is becoming increasingly vital due to our digital age, but a well-rounded knowledge is ideal.
+
+- Should people continue to study science after graduating from school?
+
+  - Yes, I believe they should. Scientific discovery doesn't stand still; it's constantly evolving. Continuing to engage with science, even informally through documentaries, news articles, or podcasts, helps people stay informed about new technologies, medical breakthroughs, and environmental challenges. This lifelong learning is essential for being an engaged and responsible citizen in a world increasingly shaped by science and technology.
+
+- How do you get to know about scientific news?
+
+  - I use a combination of sources. I have a few go-to websites like "Science Daily" and "Phys.org" for quick updates. I also follow specific scientists and science communicators on social media platforms like Twitter. For deeper dives, I listen to podcasts like "The Infinite Monkey Cage" or watch documentaries. This multi-source approach helps me get a balanced and engaging view of the latest developments.
+
+- Should scientists explain the research process to the public?
+
+  - Yes, without a doubt. Transparency is key to building public trust, especially for research that uses public funding or addresses controversial topics. Explaining the process – the hypotheses, the peer-review, the methods – demystifies science and helps people understand that it's a rigorous, self-correcting process, not just a set of opinions. This engagement is crucial for combating misinformation and ensuring broad support for scientific endeavors.
 
 ### Describe a book you read that you found useful
 
-You should say: 
+You should say: What it is; When you read it; Why you think it is useful; And explain how you felt about it.
+
+- 
+- What are the types of books that young people like to read?
+- What's the difference between the reading habits of old people and young people?
+- What's the difference between paper books and e-books?
+- Some people say that it is easier for children who start reading from a young age to succeed. Do you agree?
 
 ### Describe a time when you broke something
 
-You should say: 
+You should say: What it was; When/where that happened; How you broke it; And explain what you did after  that.
+
+- 
+- What kind of things are more likely to be broken by people at home?
+- What kind of people like to fix things by themselves?
+- Do you think clothes produced in the factory are of better quality than those made by hand?
+- Do you think handmade clothes are more valuable?
 
 ### Describe a time you saw something interesting on social media
 
-You should say: 
+You should say: When it was; Where you saw it; What you saw; And explain why you think it was interesting.
+
+- 
+- Why do people like to use social media?
+- What kinds of things are popular on social media?
+- What are the advantages and disadvantages of using social media?
+- What do you think of making friends on social network?
 
 ### Describe the time when you first talked in a foreign language
 
-You should say: 
+You should say: Where you were; Who you were with; What you talked about; And explain how you felt about it.
+
+- 
+- At what age should children start learning a foreign language?
+- Which skill is more important, speaking or writing?
+- Does a person still need to learn other languages if he or she is good at English?
+- Do you think minortiy languages will disappear?
 
 ### Describe an important old thing that your family has kept for a long time
 
