@@ -37,69 +37,149 @@ bookmark: true
 ### Having a break
 
 - How often do you take a rest or a break?
+  - I try to take short breaks every couple of hours, especially when I'm studying or working. It's important to pause and recharge to maintain productivity. I usually have a longer rest period in the evening to fully unwind.
+
 - What do you usually do when you are resting?
+  - It depends, but I often listen to music or watch an episode of a light-hearted TV show. Sometimes I'll just scroll through social media or have a quick chat with a family member. The key for me is to do something that takes my mind off work completely.
+
 - Do you take a nap when you are taking your rest?
+  - Occasionally, but it's not a daily habit for me. I only take a nap if I'm feeling exceptionally tired or didn't get enough sleep the night before. I try to keep it short, around 20 minutes, to avoid feeling groggy afterwards.
+
 - How do you feel after taking a nap?
+  - If it's a short power nap, I usually feel refreshed and more alert, ready to focus on my tasks again. However, if I nap for too long, I sometimes feel even more drowsy and disoriented. So, I find the length of the nap is really crucial to how I feel afterward.
+
 
 ### Sharing
 
 - Did your parents teach you to share when you were a child?
+  - Absolutely, my parents placed a big emphasis on sharing from a very young age. They taught me to share my toys with my siblings and friends during playdates. It was a fundamental value in our household to be generous and considerate of others.
+
 - What kind of things do you like to share with others?
+  - I really enjoy sharing food, like a delicious dessert or a snack, with my friends. I also like sharing interesting articles or videos I find online. It’s a great way to start a conversation and connect over something enjoyable.
+
 - What kind of things are not suitable for sharing?
+  - I believe personal belongings like toothbrushes or passwords are definitely not suitable for sharing. Also, I think it's unwise to share confidential information or gossip about someone else. Protecting your own and others' privacy is very important.
+
 - Do you have anything to share with others recently?
+  - Yes, just recently I shared some exciting news about a promotion I got at work with my close friends. I also shared a fantastic new book I finished reading by lending it to my colleague. It was a gripping novel that I thought she'd love too.
+
 - Who is the first person you would like to share good news with?
+  - Without a doubt, my mother is always the first person I want to tell. She's my biggest supporter and is always genuinely happy for my achievements. Sometimes, if it's news about friends, I might share it with my best friend first.
+
 - What kind of news do you share with your friend?
+  - I mostly share positive news, like personal achievements or fun plans for the future. For instance, I’d tell them about a upcoming trip or a success I had at university. We also share smaller, funny things that happen in our daily lives.
+
 
 ### Doing something well
 
 - Do you have an experience that you did something well?
+  - Yes, I do. I once developed a small web application for our university's volunteer association to help them manage their activities and members more efficiently. I was solely responsible for the entire project, from design to coding and deployment. Although it was a simple application, it worked smoothly and was well-received by the volunteers. I felt a great sense of accomplishment because my skills created something genuinely useful for others.
+
 - Do you have an experience that your teacher thought you did a good job?
+  - Certainly. In my final year at university, I did a research project on non-cooperative target recognition, which was quite challenging. I spent a lot of time on it and presented my findings to my professor. He was quite impressed with the depth of my research and the innovative methods I used. He praised my hard work and analytical skills, which was incredibly encouraging and made all the effort feel worthwhile.
+
 - Do you often tell your friends when they do something well?
+  - Absolutely. I believe it's very important to acknowledge the efforts and achievements of my friends. For example, if a friend delivers a great presentation or creates a beautiful piece of art, I'll be the first to compliment them. It’s not about flattery, but about offering genuine support and encouragement. I think celebrating each other's successes is a key part of a strong and healthy friendship.
+
 - How do you feel when someone praises you for doing something well?
+  - I feel really happy and motivated when someone praises my work. It’s a wonderful feeling to know that my hard work has been noticed and appreciated by others. It definitely boosts my confidence and inspires me to take on new challenges and continue to improve myself. While I can be a little shy at times, the positive feeling of being valued is always very encouraging.
+
 
 ### Shoes
 
 - Do you like buying shoes? How often?
+  - Absolutely, I do enjoy buying shoes. However, I wouldn't say I'm an obsessive shopper. I probably buy a new pair every few months, or whenever I need something specific for a new season or a particular occasion.
+
 - Have you ever bought shoes online?
+  - Yes, I have purchased shoes online on several occasions. It's incredibly convenient to browse through countless styles from home. But I'm a bit cautious about sizing, so I prefer to stick to brands whose fit I'm already familiar with.
+
 - How much money do you usually spend on shoes?
+  - It really depends on the type of shoe. For everyday sneakers, I might spend around [100-300 RMB]. However, for a high-quality pair of boots or formal shoes that will last for years, I'm willing to invest more, perhaps up to [600 RMB] or so.
+
 - Which do you prefer, fashionable shoes or comfortable shoes?
+  - Without a doubt, I prioritise comfort. There's no point in wearing stylish shoes if you're in pain all day. That said, I always try to find a pair that offers a good balance – something that is both comfortable and has a design I like.
+
 
 ### Rules
 
 - Are there any rules for students at your school?
+  - Yes, definitely. Like most schools, we have a number of rules to maintain order. For instance, there are strict rules about punctuality, attendance, and wearing a uniform. We're also expected to be respectful to both teachers and fellow students.
+
 - Do you think students would benefit more from more rules?
+  - Not necessarily. I believe we already have a sufficient number of essential rules. While rules are important for safety and structure, too many can feel restrictive and might stifle students' independence and creativity. It's about finding a healthy balance.
+
 - Do you have a teacher who does his or her job very well?
+  - Absolutely. My history teacher stands out because she is incredibly passionate. She doesn't just read from the textbook; she uses engaging stories and debates to make the subject come alive. Her dedication truly inspires us to learn.
+
 - Do you think school rules are generally fair?
+  - For the most part, yes, I do. I think the main rules are designed to be fair and to create a positive environment for everyone. However, there might be an occasional minor rule that seems a bit outdated or unnecessary, but overall, the system is quite just.
+
 
 ### Public places
 
 - Have you ever talked with someone you don't know in public places?
+  - Yes, occasionally. For example, I once chatted with a tourist who asked for directions at a subway station. We ended up discussing local attractions, and it was quite pleasant. However, such interactions are rare unless there’s a specific reason to start a conversation.
+
 - Do you wear headphones in public places?
+  - Absolutely. I often wear headphones when commuting or in crowded areas like cafes. They help me focus on music or podcasts while blocking out background noise. Plus, it subtly signals that I’m occupied, which avoids unnecessary interruptions.
+
 - Would you like to see more public places near where you live?
+  - Definitely. I’d love to have more green spaces, like parks or community gardens, in my neighborhood. They’d provide residents with areas to relax, exercise, and socialize. Additionally, a modern public library or cultural center would greatly benefit our community.
+
 - Do you prefer indoor or outdoor public spaces?
+  - I generally prefer outdoor spaces, especially parks or waterfront areas, because they offer fresh air and natural scenery. However, indoor spaces like museums or libraries are also appealing for their quiet and comfortable environments. It really depends on my mood and the weather.
+
 - Are public places in your city usually crowded?
+  - It varies. Popular spots like downtown shopping districts or transit hubs tend to be crowded, especially during weekends or rush hours. But there are also quieter public areas, like local parks or less central cafes, where you can avoid large crowds.
+
 
 ### Crowded place
 
 - Is the city where you live crowded?
+  - Overall, I would say it is quite crowded, especially in the city center and during peak hours. The public transport and main shopping streets are often packed with people. However, the residential area where I live is relatively peaceful and not as busy.
+
 - Is there a crowded place near where you live?
+  - Yes, there is a large shopping mall about a ten-minute walk from my apartment. It's always bustling with shoppers, particularly on weekends and during holiday seasons. The food court and cinema there are especially packed in the evenings.
+
 - Do you like crowded places?
+  - Not particularly, to be honest. I find large crowds can be a bit overwhelming and stressful at times. I prefer quieter, more spacious environments where I can relax and think clearly. Although, I don't mind a lively atmosphere occasionally, like at a concert or festival.
+
 - Do most people like crowded places?
+  - I think it really depends on the person and the situation. Some people thrive in busy, social environments like night markets or sporting events. However, many others, especially those who seek peace or need to focus, tend to avoid them. It's really a matter of personal preference.
+
 - When was the last time you were in a crowded place?
+  - The last time was just a few days ago. I went to the central train station to meet a friend arriving from another city. It was extremely crowded with commuters during the evening rush hour, making it a bit difficult to navigate through the crowd.
+
 
 ### Staying with old people
 
 - Have you ever worked with old people?
+  - Yes, I have. I once volunteered at a community centre where I helped organise weekly social activities for elderly residents. I assisted with setting up events and sometimes just chatted with them over tea. It was a very rewarding experience that gave me a new perspective.
+
 - Are you happy to work with people who are older than you?
+  - Absolutely, I'm very happy to. I find that older colleagues often have a wealth of experience and knowledge that I can learn from. They usually offer valuable advice and a different, more patient perspective on problem-solving.
+
 - What are the benefits of being friend or working with old people?
+  - The main benefits are gaining wisdom and life lessons that you can't find in textbooks. They often have fascinating stories and a calmer, more measured approach to challenges. Furthermore, they can offer tremendous emotional support and guidance.
+
 - Do you enjoy spending time with old people?
+  - Yes, I genuinely do. I regularly visit my grandparents and always enjoy hearing their stories about the past. I find their company calming and their advice incredibly insightful, which makes the time spent with them both enjoyable and enriching.
+
 
 ### Going out
 
 - Do you bring food or snacks with you when going out?
+  - Yes, I often do, especially if I'm going to be out for a long time. I usually pack some fruit or a granola bar to avoid buying expensive or unhealthy snacks while I'm out. It's a habit that helps me save money and also ensures I have something healthy to eat.
+
 - Do you always take your mobile phone with you when going out?
+  - Absolutely, I never leave home without it. My phone is essential for navigation, communication, and paying for things. It also gives me peace of mind knowing I can call for help in case of an emergency.
+
 - Do you prefer going out alone or with friends?
+  - It really depends on my purpose. If I need to run errands or focus, like shopping for something specific, I prefer going alone. However, for social activities like seeing a movie or having dinner, I definitely enjoy going with friends more.
+
 - What do you usually do when you go out on weekends?
+  - On weekends, I often go out to relax and socialize. I might meet friends for coffee, go shopping, or see a film. Sometimes, I prefer to visit a park or a museum for a more quiet and cultural experience.
+
 
 ### Chatting
 
