@@ -520,7 +520,7 @@ You should say: What it is; How/when your family first got this thing; How long 
 
 ### Describe a creative person you admire
 
-You should say: Who he/she is; How you knew him/her; Whar his/her greatest achievement is; And explain why you think he/she is creative.
+You should say: Who he/she is; How you knew him/her; What his/her greatest achievement is; And explain why you think he/she is creative.
 
 - 
 - Do you think children should learn to play musical instruments?
