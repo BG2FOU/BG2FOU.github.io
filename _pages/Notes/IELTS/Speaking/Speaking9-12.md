@@ -274,23 +274,83 @@ You should say: When it was; Who this person is, Why he or she apologized to you
 
 ### Describe a time when the electricity suddenly went off
 
-You should say: 
+You should say: When/where it happened; How long it lasted; What you did during that time; And explain how you felt about it.
+
+- 
+- Which is better, electric bicycles or ordinary bicycles?
+- Do you think electric bicycles will replace ordinary bicycles in the future?
+- Which is better, electric cars or petrol cars?
+- How did people manage to live without electricity in ancient world?
 
 ### Describe an interesting traditional story
 
-You should say: 
+You should say: What the story is about; When/how you knew it; Who told you the story; And explain how you felt when you first heard it.
+
+- 
+- What kind of stories do children like?
+- What are the benefits of bedtime stories for children?
+- Why do most children like listening to stories before bedtime?
+- What can children learn from stories?
+- Do all stories for children have happy endings?
+- Is a good storyline important for a movie?
 
 ### Describe a great dinner you and your friend or family members enjoyed
 
-You should say: 
+You should say: What you had; Who you had the dinner with; What you talked about during the dinner; And explain why you enjoyed it.
+
+- 
+- What do people often talk about during meals?
+- Do people prefer to eat out at restaurants or eat at home during the Spring Festival?
+- What food do you eat on special occasions, like during the Spring Festival or the Mid-autumn Festival?
+- Why do people like to have meals together during important festivals?
+- Is it a hassle to prepare a meal at home?
+- People are spending less and less time having meals with their families these days. Is this good or bad?
+
+### Describe an interesting building you saw during a trip
+
+You should say: Where you saw it; What it looks like; What you have known about it; And explain why you think it is interesting.
+
+- 
+- Should all scenic spots charge an entry fee?
+- Is visiting scenic spots the best choice for us while travelling?
+- Why do some people like to live in big cities?
+- Is it necessary for tourists to go to visit landmarks?
+- Which do most people prefer, living in a bungalow or in a tall building?
+
+### Describe an important decision made with the help of other people
+
+You should say: What the decision was; Why you made the decision; Who helped you make the decision; And how you felt about it.
+
+- 
+- What kind of decisions do you think are meaningful?
+- What important decisions should be made by teenagers themselves?
+- Why are some people unwilling to make quick decisions?
+- Do people like to ask for advice about their personal life or their work?
+- Why do people like to ask others for advice?
 
 ### Describe a toy you liked in your childhood
 
-You should say: 
+You should say: What kind of toy it is; When you received it; How you played it; And how you felt about it.
+
+- 
+- How do advertisements influence children?
+- Should advertising aimed at kids be prohibited?
+- What's the difference between the toys kids play now and those they played in the past?
+- Do you think parents should buy more toys for their kids or spend more time with them?
+- What's the difference between the toys boys play with and girls play with?
+- What are the advantages and disadvantages of modern toys?
 
 ### Describe a successful sportsperson you admire
 
-You should say: 
+You should say: Who he/she is; What you know about him/her; What he/she is like in real life; What achievement he/she has made; And explain why you admire him/her.
+
+- 
+- Should students have physical education and do sports at school?
+- What qualities should an athlete have?
+- Is talent important in sports?
+- Is it easy to identify children's talents?
+- What is the most popular sport in your country?
+- Why are there so few top athletes?
 
 ### Describe an area/subject of science that you are interested in and would like to learn more about
 
