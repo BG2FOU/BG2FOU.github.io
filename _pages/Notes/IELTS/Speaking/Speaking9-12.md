@@ -113,6 +113,9 @@ bookmark: true
 
 - Do you think school rules are generally fair?
   - For the most part, yes, I do. I think the main rules are designed to be fair and to create a positive environment for everyone. However, there might be an occasional minor rule that seems a bit outdated or unnecessary, but overall, the system is quite just.
+- Do you prefer to have more or fewer rules at school?
+  - I reckon we've got a fair few rules already. While they're vital for keeping things safe and structured, piling on more can really stifle individuality. It's all about striking that sweet spot where boundaries encourage, rather than box in, students' creativity and independence.
+
 
 
 ### Public places
@@ -131,6 +134,9 @@ bookmark: true
 
 - Are public places in your city usually crowded?
   - It varies. Popular spots like downtown shopping districts or transit hubs tend to be crowded, especially during weekends or rush hours. But there are also quieter public areas, like local parks or less central cafes, where you can avoid large crowds.
+- Do you often go public places with your friends?
+  - Absolutely! Recently, I've been exploring local museums and libraries more often. They offer a traquil escape, perfect for unwinding with friends. We often grab a coffee nearby and chat for hours, making the most of these accessible community hubs.
+
 
 
 ### Crowded place
@@ -179,6 +185,12 @@ bookmark: true
 
 - What do you usually do when you go out on weekends?
   - On weekends, I often go out to relax and socialize. I might meet friends for coffee, go shopping, or see a film. Sometimes, I prefer to visit a park or a museum for a more quiet and cultural experience.
+- Do you often bring cash with you when you go out?
+  - Not really. I rarely carry cash these days. In China, mobile payment is incredibly prevalent. I can pay for practically anything using my smartphone. The only thing I need to worry about is my phone running out of battery, which is a valid concern, to be honest.
+
+- How often do you use cash?
+  - Well, for the past 5 years, I've virtually abandoned cash. Contactless payments via my phone are just too convenient to pass up. It's become second nature to just tap and go, whether I'm grabbing a coffee or settling a bill. Plus, I can easily track my spending.
+
 
 
 ### Chatting
@@ -270,12 +282,31 @@ bookmark: true
 
 You should say: Who he/she is; What the business is; What products it sells; And explainb what you have learned from him/her.
 
-- 
+- I’d like to talk about my uncle, Mr. Zhang, who runs a family bakery in my hometown. He inherited the business from his father about fifteen years ago, and since then, he has managed it together with his wife and son.
+
+  The business is a small bakery located near a residential area. It’s quite well-known among the locals for its fresh bread and traditional Chinese pastries. The main products they sell include freshly baked bread, cakes, mooncakes, steamed buns, and a variety of local snacks. During festival seasons, they also make special treats like rice dumplings for the Dragon Boat Festival and mooncakes for the Mid-autumn Festival.
+
+  From my uncle, I have learned a lot, especially about the importance of hard work and persistence. Running a family business is not easy. He has to wake up very early every day to prepare the dough and supervise the baking process. He also needs to manage the accounts, deal with suppliers, and sometimes handle difficult customers. Despite all these challenges, he always stays positive and treats everyone with kindness, which has earned him a good reputation in the community. I’ve also learned about the value of teamwork, as every member of his family plays a crucial role in the business. Their cooperation is what keeps the bakery running smoothly and successfully.
 - Would you like to start a family business?
+
+  - Personally, I think starting a family business is an attractive idea because it allows you to work closely with your loved ones and create something meaningful together. However, I am also aware of the potential risks and challenges, such as conflicts among family members. So, I might consider it in the future if I have a good business idea and a supportive family.
+
 - What are the advantages and disadvantages of family business?
+
+  - The main advantage is trust. Since family members usually trust each other, cooperation can be more efficient. Also, family businesses often have strong values and a long-term vision. On the downside, personal relationships can make it hard to deal with problems objectively, and disagreements may affect both the business and family harmony.
+
 - How do you think family business differ from regular companies?
+
+  - Family businesses often have a more flexible management style and focus on long-term stability rather than short-term profits. They also tend to value relationships and reputation more than regular companies, which might be more profit-driven and formal in their structure.
+
 - Which industries commonly have family business in your country?
+
+  - In China, family businesses are common in industries like restaurants, retail shops, agriculture, and small-scale manufacturing. Many local food businesses and traditional crafts are also run by families and passed down from generation to generation.
+
 - What challenges do family business face in modern society?
+
+  - Modern society brings challenges like increased competition from large corporations and online businesses. It’s also hard for family businesses to keep up with rapid technological changes. Succession is another big issue—sometimes the younger generation is not interested in taking over the business, which can threaten its survival.
+
 
 ### Describe a natural talent you want to improve
 
@@ -291,12 +322,31 @@ You should say: What it is; When you discovered it; How you want to improve it; 
 
 You should say: What it is; When you saw it; Where you saw it; And explain why you want to know more about it.
 
-- 
+- The wild animal I’ve always been fascinated by and would love to learn more about is the **snow leopard**. I first saw this majestic creature a few years ago in a **documentary on television**. It was aired one evening during a wildlife special, and I was completely captivated by its elusive and mysterious nature.
+
+  The documentary showcased snow leopards in their natural habitat, the high-altitude mountains of Central Asia, particularly the Himalayas. I remember seeing breathtaking footage of a snow leopard gracefully navigating steep, rocky cliffs in search of prey, its thick fur blending perfectly with the snowy environment. The way it moved with such agility and precision left a deep impression on me.
+
+  The reason I want to know more about the snow leopard is because it is such an enigmatic and endangered species. Despite being a top predator, it is incredibly shy and rarely seen, which adds to its mystique. I’m curious about its behavior, such as how it adapts to such harsh, cold environments and how it communicates with other snow leopards. Moreover, I’d like to understand the conservation efforts being made to protect this species from threats like poaching and habitat loss. Learning more about the snow leopard would not only satisfy my personal curiosity but also help me appreciate the importance of preserving such incredible animals for future generations.
 - Why are some people more willing to protect wild animals than others?
+
+  - I believe people’s willingness to protect wild animals often depends on their level of awareness and empathy. Those who are more educated about environmental issues or have had personal experiences with nature, such as visiting national parks or watching documentaries, tend to feel a stronger connection to wildlife. Additionally, cultural and ethical values play a role—some people grow up in environments where respecting nature is deeply ingrained. On the other hand, those who are less exposed to these influences might not fully understand the importance of conservation.
+
 - Do you think it's important to take children to the zoo to see animals?
+
+  - Yes, I think it can be quite important, as zoos provide children with a unique opportunity to see animals up close and learn about them in an engaging way. This can inspire a sense of wonder and curiosity about the natural world, which might encourage them to care about conservation later in life. However, it’s crucial that zoos prioritize animal welfare and natural habitats so that children can see animals in settings that respect their well-being. Educational programs at zoos can also enhance the experience by teaching children about biodiversity and environmental protection.
+
 - What is your favorite wild animal?
+
+  - My favorite wild animal is the snow leopard, for the reasons I mentioned earlier. I’m drawn to its elegance, adaptability, and the sense of mystery that surrounds it. It represents the beauty and fragility of wildlife in extreme environments, and I find it truly inspiring.
+
 - Have you ever watched wildlife documentaries on TV?
+
+  - Yes, I absolutely love watching wildlife documentaries. They are not only entertaining but also highly educational. Programs like BBC’s *Planet Earth* and *Blue Planet* have given me a deeper appreciation for the diversity of life on Earth and the challenges animals face due to environmental changes. I think documentaries are a powerful tool for raising awareness about conservation issues.
+
 - How do you think climate change affects wild animals?
+
+  - Climate change has a profound impact on wild animals in various ways. For instance, rising temperatures can alter habitats, making it difficult for species to survive in their traditional environments. Polar animals like penguins and polar bears are losing their icy homes, while other animals might struggle to find food or water due to changing weather patterns. Additionally, climate change can disrupt migration cycles and breeding seasons, threatening the long-term survival of many species. It’s a critical issue that requires global attention and action.
+
 
 ### Describe a good friend who is important to you
 
@@ -424,13 +474,37 @@ You should say: What kind of toy it is; When you received it; How you played it;
 
 You should say: Who he/she is; What you know about him/her; What he/she is like in real life; What achievement he/she has made; And explain why you admire him/her.
 
-- 
+- The successful sportsperson I truly admire is Yao Ming. He is a retired Chinese professional basketball player who played for the Houston Rockets in the NBA. I first knew about him when I was in middle school. His games were broadcast all the time, and he was a national hero.
+
+  From what I know, Yao Ming was not just a giant on the court, standing at 2.29 meters, but also a giant in terms of his impact. He was selected by the Houston Rockets as the first pick in the 2002 NBA draft, which was a huge deal in China. He went on to become an 8-time NBA All-Star and was eventually inducted into the Basketball Hall of Fame, a massive achievement.
+
+  In real life, from his interviews and public appearances, he seems like a very humble, intelligent, and humorous person. He has a famous meme face that came from a press conference, which perfectly shows his good-natured personality. He is also a dedicated philanthropist, running the Yao Foundation to help children in need through sports and education.
+
+  I admire him for many reasons. It's not just about his incredible basketball skills. I admire his perseverance; he battled through numerous career-threatening injuries but always fought to come back. More importantly, he acted as a cultural bridge between China and the United States, introducing Chinese culture to the West and popularizing basketball in China. He handled immense pressure with grace and became a global ambassador for the sport. For me, he is the definition of a role model who achieved greatness both on and off the court.
 - Should students have physical education and do sports at school?
+
+  - Absolutely. I think PE classes and sports are a crucial part of a well-rounded education. In today's world, where children spend so much time sitting in front of screens, physical activity is essential for their health. Beyond the physical benefits, sports teach invaluable life skills like teamwork, discipline, leadership, and how to handle both victory and defeat gracefully.
+
 - What qualities should an athlete have?
+
+  - A top athlete needs a combination of physical and mental qualities. Physically, they need strength, speed, and stamina tailored to their sport. But I believe the mental qualities are even more important. They must have unwavering determination, the discipline to train relentlessly every day, and incredible mental toughness to perform under extreme pressure. Resilience is also key, as they have to bounce back from injuries and losses.
+
 - Is talent important in sports?
+
+  - Yes, talent is definitely important. It's the natural ability that gives someone a head start—they might be naturally faster, stronger, or more coordinated. This raw potential is the foundation. However, talent alone is never enough. The world is full of talented people who didn't succeed. It's the combination of talent with relentless hard work, dedication, and proper coaching that creates a top athlete.
+
 - Is it easy to identify children's talents?
+
+  - I don't think it's always easy. Some talents, like a child who can run exceptionally fast, might be obvious from a young age. But other talents can be hidden or take time to develop. A child might have great strategic thinking for a sport like chess, or incredible endurance that isn't immediately apparent. The best way to discover these talents is to encourage children to try a wide variety of sports and activities so they can find what they're truly passionate about and good at.
+
 - What is the most popular sport in your country?
+
+  - In China, I would say basketball is one of the most popular sports, especially among young people. Its popularity surged because of Yao Ming's success in the NBA. You can see basketball courts in almost every school and community. Besides basketball, table tennis is also incredibly popular. It's considered our national sport, and we have many world-class players.
+
 - Why are there so few top athletes?
+
+  - Becoming a top athlete is like trying to reach the peak of a very steep pyramid. The base is wide, with millions of people playing the sport, but the top is incredibly narrow. It requires an extraordinary combination of factors: exceptional natural talent, an insane work ethic, access to world-class coaching and facilities, and a bit of luck to avoid career-ending injuries. The level of sacrifice is immense—they dedicate their entire lives to training from a very young age. It's this extreme level of competition and demand that makes being a top athlete so rare.
+
 
 ### Describe an area/subject of science that you are interested in and would like to learn more about
 
@@ -522,13 +596,35 @@ You should say: What it is; How/when your family first got this thing; How long 
 
 You should say: Who he/she is; How you knew him/her; What his/her greatest achievement is; And explain why you think he/she is creative.
 
-- 
+- The creative person I admire the most is Hayao Miyazaki, the world-renowned Japanese animation director and co-founder of Studio Ghibli. I first got to know him through his films. I remember watching "My Neighbor Totoro" when I was a child, and I was completely captivated by the magical world he created. Since then, I've watched almost all of his movies, and each one feels like a unique piece of art.
+
+  For me, his greatest achievement isn't just a single award, like the Oscar he won for "Spirited Away," but rather his entire body of work and the studio he built. He elevated animation from something considered just for kids into a serious and respected art form for all ages. Studio Ghibli has become a symbol of high-quality, heartfelt storytelling that has touched audiences globally.
+
+  I think he is incredibly creative for several reasons. Firstly, his imagination is boundless. He creates these intricate, fantastical worlds that are completely original yet feel believable and immersive. Think of the bathhouse for spirits in "Spirited Away" or the moving castle in "Howl's Moving Castle." Secondly, his creativity is rooted in deep human emotions and complex themes. His stories often explore environmentalism, pacifism, and the challenges of growing up, but he does it with such subtlety and nuance. Finally, his visual artistry is breathtaking. The hand-drawn animation, the detailed backgrounds, and the unique character designs are all part of his creative genius. He doesn't just tell a story; he paints it, making every frame a masterpiece. His ability to blend fantasy with reality is what truly makes him a creative master in my eyes.
 - Do you think children should learn to play musical instruments?
+
+  - Yes, absolutely. I believe learning a musical instrument is incredibly beneficial for children. It not only teaches them discipline and patience but also enhances their cognitive skills, like memory and coordination. Furthermore, it provides them with a powerful outlet for emotional expression, which is crucial for their mental development. It’s a wonderful way to cultivate an appreciation for art and culture from a young age.
+
 - How do artists acquire inspiration?
+
+  - I think artists draw inspiration from a wide variety of sources. Often, it comes from the world around them—the beauty of nature, the hustle and bustle of a city, or the expression on a person's face. Personal experiences, emotions, memories, and dreams are also rich sources of inspiration. Additionally, many artists find inspiration in the work of others, by visiting museums, reading books, or listening to music. It’s a process of being observant and open to the world.
+
 - Do you think pictures and videos in news reports are important?
+
+  - Yes, they are essential. Visuals make news reports far more impactful and credible. A photo or a video clip can convey the reality of a situation—be it a natural disaster or a political protest—in a way that words alone cannot. They evoke an emotional response from the audience, helping people connect with the story on a human level. Visual evidence makes the news more transparent and easier to understand.
+
 - What can we do to help children keep creative?
+
+  - To nurture creativity in children, we should encourage their curiosity and allow them to explore their interests freely. It's important to provide them with tools for creativity, like art supplies or building blocks, without dictating how they should be used. We should also praise their effort and process, not just the final product, to build their confidence. Finally, exposing them to diverse experiences, like visiting museums, spending time in nature, and reading different kinds of books, can broaden their minds and fuel their imagination.
+
 - How does drawing help to enhance children's creativity?
+
+  - Drawing is a powerful tool for enhancing creativity. It allows children to translate their thoughts and imagination into a visual form, creating new worlds and characters from scratch. This process encourages problem-solving, as they have to figure out how to represent their ideas on paper. It also sharpens their observation skills, as they learn to notice details, shapes, and colors in the world around them in order to draw them accurately.
+
 - What kind of jobs require creativity?
+
+  - While we often associate creativity with artistic jobs like painters, writers, or designers, I believe it's a vital skill in almost every field. For instance, software engineers and scientists need creativity to solve complex problems and design innovative solutions. Entrepreneurs need it to develop new business ideas. Even teachers require creativity to find engaging ways to explain difficult concepts to their students. Any job that involves problem-solving, innovation, and original thinking depends heavily on creativity.
+
 
 ### Describe an exciting activity you have tried for the first time
 
