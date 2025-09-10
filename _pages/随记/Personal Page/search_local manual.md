@@ -23,7 +23,7 @@ by BG2FOU
 
 ![search_manual_1](https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master/_pages/%E9%9A%8F%E8%AE%B0/Personal%20Page/img/search_manual_1.png)
 
-需要的文件如下：程序本体`search_v1.4.exe`，word版志愿时长模板`volunteer_template.docx`，数据库文件`0831.csv`；
+需要的文件如下：程序本体`search_v1.4.exe`，word版志愿时长模板`volunteer_template.docx`，数据库文件`db.csv`；
 
 ```
 HIT-Volunteer/
@@ -31,6 +31,8 @@ HIT-Volunteer/
 ├── volunteer_template.docx
 ├── db.csv
 ```
+
+注意：绝对禁止更改`volunteer_template.docx`的文件内容/格式/文件名！
 
 ## 1. 读取数据库与设置输出目录
 
