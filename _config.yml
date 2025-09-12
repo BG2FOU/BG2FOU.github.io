@@ -7,10 +7,11 @@ profile_img: "/assets/img/BG2FOU.jpg"
 email: BG2FOU@outlook.com
 github_username: BG2FOU
 twitter_username: twitter
-bilibili_username: 354757342
+bilibili_uid: 354757342
 instagram_username: instagram
 linkedin_username: linkedin
 facebook_username: facebook
+qrz_callsign: BG2FOU
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
