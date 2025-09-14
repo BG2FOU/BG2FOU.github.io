@@ -1,0 +1,1 @@
+import{u as o}from"./MapboxPanel/stores/deviceStore-C0BIN_ip.js";import{w as s}from"../../vendor-UN2rW63P.js";const i={__name:"localStorage",setup(a){const r=o();return s(()=>r.propsMap,e=>{const t=JSON.stringify(e);localStorage.setItem("itemsProp",t)},{deep:!0}),(e,t)=>null}};export{i as _};

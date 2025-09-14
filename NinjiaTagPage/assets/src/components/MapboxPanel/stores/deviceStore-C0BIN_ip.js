@@ -1,0 +1,1 @@
+import{N as s,r as e}from"../../../../vendor-UN2rW63P.js";const i=s("devices",()=>{const o=e({}),r=e(new Map),a=e(new Map);return{propsMap:o,itemstoKeysMap:r,keystoItemsMap:a,readLocalstorage:()=>{if(localStorage.getItem("itemsProp")){const t=localStorage.getItem("itemsProp");if(!t){console.warn("No items found in localStorage");return}return JSON.parse(t)}}}});export{i as u};

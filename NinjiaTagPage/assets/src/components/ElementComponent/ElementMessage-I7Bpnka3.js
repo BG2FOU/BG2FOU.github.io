@@ -1,0 +1,1 @@
+import{E as e}from"../../../vendor-UN2rW63P.js";const u={__name:"ElementMessage",setup(c,{expose:o}){return o({popup:(s,r)=>{r||e(s),["success","success","info"].includes(r)&&e({message:s,type:r}),r=="error"&&e.error(s)}}),(s,r)=>null}};export{u as _};
