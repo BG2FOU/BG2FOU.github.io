@@ -1,3 +1,17 @@
+<div class="site-legal-wrap">
+    {%- if site.copyright_text or site.beian -%}
+    <div class="site-legal">
+        {%- if site.copyright_text -%}
+            {{ site.copyright_text }}
+        {%- else -%}
+            COPYRIGHT ©BG2FOU BG2FNV
+        {%- endif -%}
+        {%- if site.beian -%}
+            &nbsp;|&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank">{{ site.beian }}</a>
+        {%- endif -%}
+    </div>
+    {%- endif -%}
+
 <script defer src="{{ '/assets/js/background.js' | prepend: site.baseurl }}"></script>
 <script defer src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>

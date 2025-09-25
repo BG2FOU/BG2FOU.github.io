@@ -12,6 +12,10 @@ instagram_username: instagram
 linkedin_username: linkedin
 facebook_username: facebook
 qrz_callsign: BG2FOU
+ 
+# Site legal / ICP
+beian: 闽ICP备2025114531号
+copyright_text: COPYRIGHT ©BG2FOU
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
