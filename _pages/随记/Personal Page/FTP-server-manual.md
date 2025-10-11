@@ -45,7 +45,7 @@ by BG2FOU
 
 ![FTP_manual_2](https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master/_pages/%E9%9A%8F%E8%AE%B0/Personal%20Page/img/FTP_manual_2.png)
 
-下一步“选择指定网络位置”，在“”中输入ftp://server.bg2fou.top:21021并点击下一步；
+下一步“选择指定网络位置”，在“Internet地址或网络地址”中输入ftp://server.bg2fou.top:21021并点击下一步；
 
 ![FTP_manual_3](https://testingcf.jsdelivr.net/gh/BG2FOU/BG2FOU.github.io@master/_pages/%E9%9A%8F%E8%AE%B0/Personal%20Page/img/FTP_manual_3.png)
 
