@@ -157,8 +157,8 @@ window.addEventListener('load', function(){
         });
     });
 
-    // Initialize/Change Giscus theme
-    var giscusTheme = "light";
+    // Initialize Giscus theme
+    var giscusTheme = "preferred_color_scheme";
 
     const giscus_repo = document.querySelector('meta[name="giscus_repo"]').content;
     const giscus_repoId = document.querySelector('meta[name="giscus_repoId"]').content;
@@ -166,12 +166,6 @@ window.addEventListener('load', function(){
     const giscus_categoryId = document.querySelector('meta[name="giscus_categoryId"]').content;
 
     if (giscus_repo !== undefined) {
-        let currentTheme = localStorage.getItem('theme');
-
-        if (currentTheme === 'dark'){
-            giscusTheme = "noborder_gray";
-        }
-
         let giscusAttributes = {
             "src": "https://giscus.app/client.js",
             "data-repo": giscus_repo,
@@ -179,10 +173,13 @@ window.addEventListener('load', function(){
             "data-category": giscus_category,
             "data-category-id": giscus_categoryId,
             "data-mapping": "pathname",
+            "data-strict": "0",
             "data-reactions-enabled": "1",
             "data-emit-metadata": "1",
+            "data-input-position": "bottom",
             "data-theme": giscusTheme,
-            "data-lang": "en",
+            "data-lang": "zh-CN",
+            "data-loading": "lazy",
             "crossorigin": "anonymous",
             "async": "",
         };
