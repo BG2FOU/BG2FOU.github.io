@@ -860,22 +860,64 @@ So I’d say it’s worth it. They don’t need to learn anything too hard. Just
 > 好吧,我想谈谈我的朋友亚历克斯,他是一个非常足智多谋的人。他确实是我认识的最有创造力、最跳出框框的思想家之一,总是以新的视角应对挑战。几个月前,我在工作中为一个复杂的数据分析项目而苦苦挣扎。我花了几天时间试图弄清楚如何简化流程,但我尝试的一切似乎都陷入了死胡同。说实话,我感到非常不知所措和沮丧。就在那时,亚历克斯介入了。他甚至不在我的部门,但他无意中听到我在喝咖啡休息时发泄这件事。他主动提出要看看,我一开始有点怀疑,认为这对他来说太专业了。但他坚持说,他喜欢好的拼图。他所做的确实非常出色。他没有专注于现有的软件,而是建议了一种完全不同的方法,使用开源工具和他当场编写的自定义脚本的组合。这是我甚至没有考虑过的事情。他的解决方案不仅自动化了很大一部分工作,为我节省了无数时间,而且还提供了比我最初的方法更准确的结果。我完全被他的聪明才智所震撼。他将看似不相关的概念联系起来并设计出如此优雅的解决方案的能力令人难以置信地鼓舞人心。它确实教会了我超越传统方法并拥抱创造性的解决问题。
 
 - Do you think children are born smart or they learn to become smart?
-> 
+> I think it’s both, but learning matters more. Some kids are naturally quicker, and that’s real. But it’s not the whole story.
+If a child only relies on talent, they can stop improving. Then they get passed very fast.
+For example, some kids learn quickly at the start. They feel confident, so they don’t practice much later. On the other hand, some kids are not fast at first. But they keep practicing and asking questions, so they improve a lot.
+So I think “smart” is mostly built. Kids become smarter through habits, effort, and good support.
+我觉得两者都有，但更关键的还是后天学习。有些孩子确实天生反应快，这没问题，但这不是全部。
+如果一个孩子只靠天赋，他很容易就不继续努力了，然后进步就停住了，很快就会被别人追上。
+比如有的孩子一开始学得快，就觉得自己很行，后面反而不怎么练；但也有些孩子起步没那么快，却一直练、一直提问，最后进步更明显。
+所以我更倾向于：所谓聪明大多是“练出来的”。习惯、努力和环境支持，才是真正拉开差距的东西。
 
 - How do children become smart at school?
-> 
+> Children become smart at school mainly by building good learning habits. It’s not only about listening to the teacher.
+A smart student knows how to learn. They ask questions when they don’t understand. They also review and fix mistakes. Feedback from teachers and classmates helps a lot.
+For example, some students keep a mistake notebook. They write down what went wrong and how to do it next time. Another example is group discussion. When you explain your idea to others, you understand it better.
+Over time, learning becomes easier. Kids improve faster, and they feel more confident.
+我觉得孩子在学校变聪明，主要靠养成好的学习习惯，而不只是“坐着听老师讲”。
+真正聪明的学生往往更会学习：不懂就问，会复习，也会改错。老师和同学的反馈也很关键，会让进步变快。
+比如有些学生会做错题本，把哪里错了、下次怎么做写清楚；或者通过小组讨论把思路讲出来，你一讲就更清楚了。
+时间久了，学习会变得更轻松，进步也更快，孩子也更自信。
 
 - Why are some people well-rounded and others only good at one thing?
-> 
+> I think a big reason is the reward system. People often become what their environment pushes them to be.
+If a school or family praises many different skills, children try more things. They join activities, learn basic skills, and become more well-rounded. But if the system only cares about one score or one talent, people focus on that one thing. They spend most of their time there.
+Of course, personality matters too. Some people are naturally curious. Others like to go deep.
+So it’s really about where time goes. Wide practice builds a wide skill set. Long focus builds one strong skill.
+我觉得很大一个原因是“奖励机制”。环境夸什么、奖励什么，人就会往哪儿用力。
+如果学校或家庭更认可多种能力，孩子就更愿意去尝试，参加活动、练基础，慢慢就更全面。可如果系统只看一个分数或一个特长，人就会把大部分时间都投在那一件事上。
+当然性格也有影响。有的人天生好奇，什么都想试；也有人就喜欢钻深，把一件事做透。
+所以本质还是时间流向。时间分得广，能力面就更宽；时间集中砸一处，单点就会更强。
 
 - Why does modern society need talents of all kinds?
-> 
+> Modern society needs all kinds of talents because life is more complex now. One type of skill can’t solve everything.
+We rely on teamwork and specialization. Different jobs support each other. If one part is missing, the whole system slows down.
+For example, to build an app, you need programmers. You also need designers. Another example is running a big event. You need someone to plan it, and you need people to execute it.
+So having many different talents makes society stronger. It also makes innovation faster, because ideas come from different angles.
+现代社会需要各种各样的人才，因为现在的生活和问题都更复杂了，靠一种能力解决不了所有事。
+我们其实是靠分工合作在运转。不同岗位互相支撑，少了任何一环，整个系统都会慢下来。
+比如做一个App，需要程序员，也需要设计师；再比如办一场大型活动，需要人策划，也需要人执行。
+所以人才越多样，社会运转越稳，也更容易创新，因为不同的人会从不同角度带来想法。
 
 - Do you think smart children are happier than other children?
-> 
+> Not necessarily. Smart children aren’t automatically happier.
+If being smart always meant being happy, life would be easier for them. But in real life, they often face higher expectations. That can create more pressure.
+Happiness usually comes from support and relationships. A warm family and good friends matter a lot. Smart kids can also overthink. They may worry more than others.
+So intelligence is a benefit, but it’s not the key. A balanced life and emotional support are what really make children happier.
+我觉得不一定，聪明并不自动等于更快乐。
+如果聪明就一定更快乐，那他们应该更轻松。但现实里聪明的孩子往往被期待更多，所以压力也更大。
+而快乐更多来自支持系统，比如家庭氛围和朋友关系。聪明的孩子也可能更容易想太多，所以更容易焦虑。
+所以智力是一种优势，但不是决定因素。真正影响幸福感的，还是平衡的生活和情绪支持。
 
 - Is it important for schools to identify and develop each student's talents?
-> 
+> Yes, I think it’s important for schools to identify and develop each student’s talents. School shouldn’t only focus on exam scores.
+When a student’s talent is noticed, they feel more motivated. They also gain confidence, and learning feels less painful.
+Schools can do this in practical ways. They can offer more electives and clubs. Teachers can also give specific feedback and real chances, like projects or competitions.
+For example, students who are good at speaking can try debating or hosting. Students who are good with hands-on work can join robotics or lab projects.
+我觉得很重要，学校不应该只盯着分数。
+当一个学生的天赋被看见，他会更有动力，自信也会更强，学习也不那么痛苦。
+学校其实可以用很实际的方式去做，比如多一些选修课和社团。老师也可以给更具体的反馈和机会，比如做项目、参加比赛。
+比如表达能力强的学生可以去辩论或做主持。动手能力强的学生可以做机器人或者实验类项目。
 
 ### 对家庭重要的东西
 - Describe something important that has been kept in your family for a long time.
@@ -1031,22 +1073,56 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 好吧,让我告诉你一个每个人都兴高采烈的时刻,那是在我朋友莎拉的24岁生日派对上。事情发生在几个月前,在市中心一家舒适的乡村主题餐厅举行,她非常喜欢这家餐厅。甚至在主要活动开始之前,气氛就已经沸腾了。当晚的亮点,也是所有微笑的原因,是我们都秘密花钱买的一份惊喜礼物。莎拉一直梦想着去日本旅行,所以我们为她提供了完整的旅行套餐,包括机票和住宿。当她打开礼物的包装看到门票时,她睁大了眼睛,脸上绽放出巨大的、真诚的微笑。在场的每个人看到她的反应,也都忍不住笑了,有些人甚至为她高兴得热泪盈眶,聚会气氛非常欢乐。她最初的震惊很快变成了压倒性的兴奋,整个晚上她都在热情地谈论即将到来的旅行。这种能量具有感染力,感觉每个人不仅在庆祝她的生日,也在庆祝她的梦想成真。我们都度过了一段美好的时光,分享故事和笑声直到深夜。我记得那天晚上我感到非常高兴和振奋。目睹如此纯粹的喜悦并成为实现某人梦想的一部分,真是令人温馨。看到这么多人真诚地快乐和微笑,这一切都是出于一个共同的原因,是一次美好的经历,绝对给我留下了持久的印象。
 
 - Do you think people who like to smile are more friendly?
-> 
+> In general, yes, people who smile a lot look more friendly. A smile is a simple signal. It tells others, “I’m open.” It also makes the atmosphere feel lighter. So it’s easier to start a conversation.
+But I don’t think we should judge only by smiling. Some people smile because it’s a habit. It doesn’t always mean they are warm and helpful. And some people don’t smile much, especially when they are shy. They can still be kind and reliable once you know them.
+So I’d say smiling is a plus. It helps with first impressions. But real friendliness shows up in actions, like listening, being patient, and showing respect.
+一般来说会的，爱笑的人通常看起来更友好。微笑是一种很简单的信号，会让别人觉得你更开放，气氛也更轻松，所以更容易聊起来。
+但我也不觉得能只靠微笑下结论。有些人爱笑只是习惯，不一定真的热情；也有人不怎么笑，可能是害羞或者不太会表达，但相处久了其实很善良、很靠谱。
+所以我觉得微笑是加分项，尤其是第一印象上很占优势。但真正的友好还是看行动，比如愿不愿意听你说、有没有耐心、以及是否尊重别人。
 
 - Why do most people smile in photographs?
-> 
+> I think most people smile in photos because they want to look good. A smile usually makes your face look softer. It also makes you look more positive and energetic. So it feels like the safest choice.
+Another reason is social. When you take a group photo, smiling helps the picture look warm. It shows a good mood. If one person looks serious, the whole photo can feel a bit awkward.
+Also, photos are often used as memories. People want to record happy moments, not stress. So smiling becomes a habit. It’s simple, and it rarely goes wrong.
+我觉得大多数人拍照会笑，主要是因为想让照片更好看。微笑会让脸看起来更柔和，也更有精神、更积极，所以它就是最稳的选择。
+还有一个原因是社交。拍合照的时候大家都笑，照片会更温暖、更有氛围。如果有一个人特别严肃，整张照片可能就会有点尴尬。
+另外照片很多时候是用来留回忆的。大家更想记录开心的瞬间，而不是压力和疲惫。所以久而久之，笑就变成了一个习惯：简单，而且不容易出错。
 
 - Do women smile more than men? Why?
-> 
+> In many situations, yes, women seem to smile more than men. But I don’t think it’s a fixed rule. A big reason is social expectations. Women are often expected to look warm and approachable. Smiling helps with that.
+Men can face a different expectation. People may expect them to look serious or “strong.” Because of that, some men keep a more neutral face, even when they are friendly.
+You can see this in daily life. In customer service or small talk, women often smile to make the moment feel easier. Men may choose a calmer expression instead. So I’d say the difference is more about culture and habits. Personality matters too.
+很多场合里，我觉得女性“看起来”确实更常笑一点，但我不认为这是绝对规律。一个很大的原因是社会期待不一样。女性经常被期待显得更温和、更好相处，微笑就是最简单的方式。
+男性有时候面对的期待不同，别人可能希望他们看起来更严肃、更稳，所以有些男性就会更常保持中性表情，但这不代表他们不友好。
+在生活里也挺常见的，比如服务场景或者日常寒暄，女生更容易用笑来缓和气氛；男生可能用比较平静的表情来回应。所以我觉得差异更多来自文化和习惯，性格当然也占很大部分。
 
 - Do people smile more when they are younger or older?
-> 
+> I think people often smile more when they are younger. Younger people usually have more social situations. They meet new people at school or at work. Smiling helps them connect. It also makes them look friendly.
+But older people can smile a lot too. Their smile may look calmer. It may come from feeling more relaxed and confident. They don’t always need to smile to “fit in,” so they may not smile as often in public.
+So I’d say younger people smile more in daily life. Older people may smile less often, but their smiles can feel more genuine. In the end, it depends on stress and the social environment.
+我觉得总体来说年轻人更常笑一点。因为年轻人的社交场景更多，在学校或工作里会遇到很多人，微笑更像一种“社交工具”，能更快拉近距离，也显得更友好。
+但年纪大的人也会笑很多，只是那种笑更平静，更多来自放松和自信。他们不一定需要靠微笑去融入，所以在公共场合可能不会那么常挂着笑。
+所以我会说，日常里年轻人更爱笑；年长者可能笑得没那么频繁，但往往更自然、更真实。最后还是看压力和社交环境，而不是只看年龄。
 
 - Is smiling important in your culture?
-> 
+> Yes, I’d say smiling is quite important in my culture. It’s a simple way to show friendliness. But it also depends on the situation.
+In serious moments, people may not smile much, and that feels normal. Some people also don’t smile a lot with strangers, especially in big cities. They just want to keep a bit of distance.
+For example, in service jobs, a smile is seen as polite. And when you meet friends, smiling makes the atmosphere more relaxed.
+Overall, smiling can soften relationships and make communication smoother. But if you smile too much, it can look fake, and that can be awkward.
+我觉得在我的文化里，微笑挺重要的，它是一种很简单的友好信号。但也确实要看场合，不是一直笑。
+在比较严肃的场景里，大家不怎么笑其实很正常。还有一些人面对陌生人也不会太热情，尤其在大城市，大家会保持一点距离感。
+比如服务行业，微笑通常代表礼貌。跟朋友见面笑一下，氛围也会更放松。
+总体来说，微笑能把关系变软一点，让沟通更顺。但如果笑得太多，别人可能觉得不真诚，反而会尴尬。
 
 - Are there any occasions when people need to pretend to smile?
-> 
+> Yes, I think there are. Sometimes people do a polite smile, even if they don’t really feel like it.
+At work, it can be part of being professional, especially in service jobs. In social situations, a small smile can also keep things smooth and avoid awkward moments.
+If people never do that, their mood shows on their face all the time. That can make others uncomfortable, and the atmosphere can get tense.
+So I think a “pretend smile” is sometimes a social tool. It helps people get through the moment. But it shouldn’t be overdone, because it can look fake.
+我觉得有的，有些场合确实需要那种“礼貌性微笑”，哪怕你当下不太想笑。
+在工作里，尤其是服务行业，这算是一种职业表现。社交场合也一样，轻轻笑一下，能把气氛撑住，不至于尴尬。
+如果一个人完全不装，情绪都写在脸上，别人可能会不舒服，场面也更容易僵住。
+所以我觉得适度的“假笑”有时候就是一种社交工具，帮你把当下过掉。但也别过度，不然会显得很假。
 
 ### 喜欢画画的孩子
 - Describe a child who loves drawing/painting.
@@ -1059,22 +1135,62 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 嗯,我想谈谈我认识的一个非常喜欢画画的孩子,那是我邻居的孩子,一个可爱的女孩,名叫莉莉。她富有想象力,性格非常充满活力,总是充满活力和好奇心。我记得有一个特别的例子,当时她画了一幅令人惊叹的梦幻森林画,里面有会说话的动物和发光的花朵。这是为了参加当地的一场艺术比赛,令每个人,尤其是她的,她竟然获得了一等奖!我认为她对绘画的热情源于很小的时候;她总是对颜色和形状着迷。她的父母告诉我,她甚至在能正常行走之前就开始涂鸦,这自然而然地演变成对艺术表达的深深热爱。对她来说,绘画不仅仅是一种爱好;这是一种将她的内心世界带入生活的方式,这确实令人鼓舞。
 
 - What is the right age for a child to learn drawing?
-> 
+> I think children can start learning drawing quite early. Even toddlers can begin with simple crayons. At that age, it should feel like play, not a lesson.
+Drawing helps kids in a few ways. It improves hand control. It also helps them express ideas. Many children can’t explain feelings well with words, so drawing is a good outlet.
+But I don’t think parents should push too hard too early. If the class is too strict, kids may feel stressed. They may even think they are “bad at it.” Then they might lose interest.
+So for me, the best age is very young, like preschool. Keep it fun and simple. If the child enjoys it, they can learn more skills later.
+我觉得孩子学画画可以很早开始，越早越好，但一定要“玩着学”，不要一上来就搞得很正规。甚至幼儿用蜡笔随便涂涂画画，其实就已经是在学了。
+画画能帮孩子提升手部控制，也能帮助他们表达想法。有些小孩用语言说不清自己的情绪，但用画就能表达出来。
+不过我不建议太早就压强度。如果课程太严，孩子会有压力，甚至会觉得“我画得不好”，然后就不想画了。
+所以我觉得学画画的合适年龄是学龄前就可以开始。重点是开心和兴趣，技巧以后慢慢补就行。
 
 - Why do most children draw more often than adults do?
-> 
+> I think children draw more often because drawing feels natural to them. They have more free time. They also have stronger curiosity. For kids, drawing is like play. They don’t worry too much about doing it “perfectly.”
+Children also use drawing to communicate. Sometimes they can’t explain ideas with words. A picture is easier. For example, when they feel bored in class, they may doodle. When they want to share an idea, they may draw it instead of writing a long message.
+Adults are different. They are busy, and they often feel tired after work. They also judge themselves more. Many adults worry about looking childish, so they stop drawing.
+我觉得孩子更常画画，是因为对他们来说这件事更自然。孩子空闲时间更多，好奇心也更强，而且画画对他们就是“玩”，不会太在意画得完不完美。
+孩子还会用画画来表达。很多时候他们用语言说不清想法，一张图反而更容易。比如上课无聊就会涂鸦；想表达一个点子时，可能会直接画出来，而不是写一大段。
+成年人就不一样了。大家更忙，下班也更累，而且更容易自我评判。很多成年人还会担心“画画显得幼稚”，所以就不画了。
 
 - Why do some people visit galleries or museums instead of viewing artworks online?
-> 
+> Some people go to galleries or museums because it feels more real. You are standing in front of the original work, and it feels special.
+Also, many details are hard to see on a screen. In person, you can see the real size, the real colors, and the surface of the artwork.
+Another reason is attention. In a museum, people are more likely to slow down and look carefully. Online, it’s easy to get distracted and just scroll away.
+And for many people, it’s not only about the art. It’s also about the whole experience. They can join a guided tour, see a special exhibition, or spend time with friends.
+有些人去美术馆或博物馆，是因为线下更真实，感受也更强。你站在原作面前，会觉得很特别。
+而且很多细节在屏幕上不容易看清。现场能看到真实的大小、颜色，以及作品表面的质感。
+还有一个原因是注意力。在博物馆里，人更容易慢下来认真看；但线上很容易分心，刷两下就划走。
+另外对很多人来说，看展不只是看画。更重要的是整体体验，比如参加导览、看特展，或者和朋友一起逛。
 
 - Do you think galleries and museums should be free of charge?
-> 
+> I think basic entry should be free, at least for public museums. It makes culture easier to reach for everyone.
+If tickets are too expensive, some people will just stop going. Students and low-income families are the first to be affected.
+But I don’t think everything has to be free. Museums still need money for security, cleaning, and protecting the artworks. They also need to repair old pieces from time to time.
+So a good balance is free regular entry, and paid special exhibitions. People can choose what they want, and museums can still run well.
+我觉得基础门票最好免费，至少公立博物馆可以这样做。这样文化资源更容易被所有人接触到。
+如果票价太贵，一些人就会不去了，学生和低收入家庭影响最大。
+但我也不觉得所有内容都必须免费。博物馆需要钱来做安保、清洁、保护展品，还要定期修复一些老作品。
+所以比较好的方式是常规展免费、特展收费。观众可以自己选择，博物馆也能更稳定地运营。
 
 - How do art works inspire people?
-> 
+> Artworks inspire people because they connect with our feelings. They also show us new possibilities.
+For example, a line in a film or a scene in a painting can remind you of your own life. It can make you think, “Maybe I can do it differently.”
+Art also helps people name their emotions. When you can describe your feelings, you feel less alone. You may become braver to speak up or try something new.
+In the end, art can give people a push. It can bring confidence, and it can lead to real action.
+艺术能启发人，是因为它能和我们的情绪产生连接。它也会让我们看到新的可能性。
+比如电影里一句台词，或者一幅画里的一个画面，会让你想到自己的生活。你会开始想：我是不是也能换一种方式来做。
+艺术还会帮人把情绪说清楚。当你能描述自己的感受时，你就没那么孤单。你也会更敢表达，或者更敢去尝试新东西。
+说到底，艺术会推你一把。它能带来信心，也可能真的促成行动。
 
 - What are the differences between reading a book and visiting a museum?
-> 
+> To me, the biggest difference is the way you take in information. Reading a book is deeper, and you control the pace. Visiting a museum is more visual and more “in the moment.”
+That said, they can work really well together. A museum can spark your interest first. Then a book can fill in the details later, or you can do it the other way around.
+For example, a history book can give you a clear timeline. You can understand the background step by step. In a museum, seeing real objects can be more powerful, because the details feel real.
+So if you want a systematic understanding, reading is usually better. If you want a quick and vivid experience, a museum is a great choice.
+我觉得最大差别是信息获取方式不一样。读书更偏深度，而且节奏你自己控制。逛博物馆更直观，也更有那种现场感。
+但这两件事其实很互补。你可以先去博物馆被“点燃兴趣”，回来再用书把细节补齐。反过来也行，先读一点再去看展，理解会更深。
+比如读历史书，你能把时间线和背景捋得很清楚。逛博物馆看到真东西，冲击感更强，很多细节会一下子变得真实。
+所以如果你想系统理解，读书更合适。如果你想快速、有画面感地感受一下，博物馆会更适合。
 
 ### 常做计划的人
 - Describe a person who makes plans a lot and is good at planning.
@@ -1087,22 +1203,69 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 嗯,我想谈论的人是我的一个大学室友,实际上是我最好的朋友,名叫莎拉。本科期间,我们一起生活了四年。她天生是一个非常有组织性和一丝不苟的人。她总是清楚自己想要实现什么以及如何实现目标。她制定过的最令人印象深刻的计划,也是真正让我着迷的计划,是她全面的职业发展计划。这不仅仅是一个模糊的想法;这是她在大学最后一年制定的一份详细的路线图,概述了她未来五到十年的目标。我记得她的远见和奉献精神让我感到非常惊讶。她的计划涵盖了一切,从她需要获得的具体技能到她想工作的公司,甚至她想要获得的认证。目睹她有条不紊的方法确实激励了我更有战略性地思考自己的未来,从那时起我就尝试采用她的一些规划习惯。
 
 - Do you think it’s important to plan ahead?
-> 
+> Yes, I think it’s important to plan ahead. It helps you stay organized and feel calmer.
+When I have a plan, I know what I should do first. I don’t waste time on random things. It also makes me less stressed because I can see a clear direction.
+But I don’t think planning means planning every minute. Life changes, so I always leave some space.
+For example, before an exam, I set a simple weekly plan and I leave time for review. Before a trip, I book the main things like transport and a hotel. Then I decide the smaller details later.
+So overall, planning ahead is useful. It usually makes things easier and smoother.
+我觉得提前规划很重要。它能让你更有条理，也更安心。
+当我有计划时，我知道先做什么，不会把时间浪费在一些乱七八糟的事上。而且我能看到一个明确方向，所以压力也会小一点。
+但我不觉得规划等于把每一分钟都安排死。生活会变，所以我会留一点空间。
+比如考试前我会做一个简单的周计划，并留出复习时间；旅行前我会先订好交通和酒店这种关键的，其他小细节后面再决定。
+所以总体来说，提前规划很有用。它通常会让事情更轻松、更顺。
 
 - What activities do we need to plan ahead?
-> 
+> I think we need to plan ahead for activities with many “fixed rules”. If there are time slots or deadlines, you can’t just do it anytime.
+Small things can be spontaneous, of course. But once an activity depends on other people or a system, last-minute plans often fail.
+For example, seeing a doctor usually needs an appointment. Another example is taking an exam or applying for a visa. These things have clear dates and steps.
+If you plan early, you avoid stress and mistakes. If you wait until the last minute, you may miss the chance and waste a whole day.
+我觉得真正需要提前计划的活动，通常都有很多“固定规则”。只要有预约、名额、截止时间，你就不能想去就去。
+当然，小事可以随性一点。但一旦事情要依赖别人或系统，临时安排往往就会翻车。
+比如看医生通常要预约。还有像考试或者办签证这种事情，流程和日期都很明确。
+提前规划的话，就更稳，也更不容易踩坑；但拖到最后一刻，很可能错过窗口，最后白跑一趟。
 
 - Do you think children should plan their future careers?
-> 
+> I think children should plan a little, but they shouldn’t lock in one job. It’s better to plan the path, not the exact title.
+Having a direction is helpful. It makes kids more active, and it helps parents guide them.But career choices are based on real experience. Most children don’t have that yet, so one early decision can be unrealistic.
+A better idea is to plan skills and exploration. For example, they can build communication skills, writing skills, or basic tech skills. They can also choose school subjects and clubs to test what they like.
+So yes, planning is useful. Just keep it flexible and practical.
+我觉得孩子可以做一点规划，但不应该把某一个职业“定死”。更好的做法是规划路径，而不是锁定一个职位名称。
+有方向当然是好事，会让孩子更主动，也方便家长给建议。
+但职业选择需要真实体验支撑。大多数孩子还没有这些体验，所以太早做决定往往不太现实。
+更好的方式是规划能力和探索。比如先把沟通、写作、基础技术这些能力练起来，同时通过选课和社团去验证自己喜欢什么、擅长什么。
+所以我支持“有规划”。只是要保持灵活，而且要接地气。
 
 - Should children ask their teachers or parents for advice when making plans?
-> 
+> Yes, I think children should ask for advice. It can save them a lot of time and mistakes.
+Ideally, they should ask both teachers and parents. Teachers usually know study plans better. They can suggest subjects, skills, and a good learning pace.
+Parents are helpful in a different way. They know the child’s personality and daily habits. They can also give practical advice about time, stress, and family plans.
+For example, if a child is choosing courses or preparing for exams, teachers are the best people to ask. If the child feels pressure or needs a better routine, parents can help more.
+So I’d say ask both. Then make a final choice by yourself.
+我觉得孩子应该去问建议。这样能少走弯路，也能少犯一些低级错误。
+最理想的是老师和父母都问，但问的方向不一样。老师通常更懂学习规划，能建议选什么科目、练哪些能力、节奏怎么安排。
+父母的帮助点不一样。他们更了解孩子的性格和日常习惯，也能给一些更现实的建议，比如时间怎么分配、压力怎么扛、家里有哪些安排。
+比如选课、备考这种事，问老师更靠谱；如果孩子压力很大，或者想调整作息，父母可能更能帮上忙。
+所以我觉得两边都听一听最好。最后自己做决定。
 
 - Is making study plans popular among young people?
-> 
+> Yes, I think making study plans is quite popular among young people. It becomes even more common when they have big exams.
+A plan gives people a sense of control. It makes study feel less scary. Also, many people like checking tasks off a list. It feels satisfying.
+For example, students often make weekly plans when they prepare for exams. Many of them also use apps to track tasks or use a timer.
+But plans can also backfire. If the plan is too full, people feel stressed and guilty. Then they may stop following it.
+我觉得挺流行的，尤其是遇到大考的时候，会更明显。
+计划会给人一种“我能掌控”的感觉，学习就没那么吓人了。而且很多人很喜欢把任务打勾，那种完成感挺上头的。
+比如备考的时候，很多学生会做周计划；也有人用App记任务，或者用计时器来逼自己专注。
+但计划也可能适得其反。如果排得太满，人就会压力大、内疚感强，最后反而容易直接放弃执行。
 
 - Do you think choosing a college major is closely related to a person’s future career?
-> 
+> Yes, it’s related, but it doesn’t decide your whole future. Your major gives you a base, and it affects your first few steps.
+For some majors, the link is very strong. Medicine and law are good examples. You need the right training, so your major matters a lot.
+But for many jobs, employers care more about skills and experience. People build these through internships, projects, and self-study. So changing direction is possible.
+So choosing the right major can make life easier at the start. If you choose a different one, it’s not the end. You just need extra time to build the skills you lack.
+我觉得专业和未来工作是有关联的，但它不会决定你的一辈子。专业能打一个基础，也会影响你前几步走得顺不顺。
+有些专业联系很强，比如医学、法律，你需要对应的训练路径，所以专业真的很关键。
+但很多工作里，公司更看技能和经验。很多能力是通过实习、项目和自学练出来的，所以后面转方向也不是不可能。
+所以选对专业会让起步更轻松；但选得不完全对也没关系，只是你要多花时间把缺的能力补起来。
 
 ### 想拥有的科技产品
 - Describe a piece of technology (not a phone) that you would like to own.
@@ -1115,22 +1278,64 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 好吧,如果我必须选择一项我真正想拥有的技术,那肯定是家庭NAS或网络附加存储。我的意思是,这是我考虑了一段时间的事情。这不仅仅是任何外部硬盘驱动器;它是一个连接到我的家庭网络的专用设备,为我的所有数字文件提供集中位置。对我来说,主要吸引力是它巨大的存储容量,可以根据需要扩展,以及通过互联网连接从任何地方访问我的数据的能力。你知道,在这个数字时代,我们积累了很多宝贵的记忆--照片、视频、重要的文件。我当前的设置涉及多个外部驱动器,老实说,有点混乱。NAS将完全简化这一过程,充当所有不可替代时刻的可靠备份系统,确保它们的安全可靠。最终,拥有一台NAS会给我带来一种深刻的安心感。一想到丢失多年的家庭照片或重要工作文件就相当令人畏惧,因此拥有一个强大的自动化备份解决方案将显着缓解这种焦虑。这不仅仅是存储的问题;这还关系到保护我的数字生活和安全感。
 
 - What technology do young people like to use?
-> 
+> Young people usually like technology that is fast and easy to use. They also like things that are fun.
+So mobile phone features are the biggest one. Many young people use social apps and short-video apps every day. They also use their phones for payments and for study.
+Besides phones, they like small smart devices. For example, wireless earbuds are very popular because they are convenient. Smart watches are also common, because they help people track steps and messages.
+These technologies make life easier. But they can also be distracting, so it’s easy to spend too much time on them.
+年轻人通常喜欢那种又快又省事的科技，而且最好还能带点娱乐。
+所以最核心的还是手机相关功能。很多年轻人每天都用社交App和短视频App，也会用手机支付、学习。
+除了手机，他们也很喜欢一些小型智能设备。比如无线耳机很受欢迎，因为方便；智能手表也挺常见，可以看消息、记步数。
+这些东西确实让生活更轻松，但也更容易让人分心，一不小心就用太久。
 
 - What are the differences between the technology of the past and that of today?
-> 
+> The biggest difference is that today’s technology is faster and smarter. It’s also more connected to our daily life.
+In the past, many devices did only one job. They were also less connected, so people relied more on offline ways. Today, many things are online, and one device can do many tasks.
+For example, people used to use a phone just for calls. They also used paper maps when they got lost. Now a smartphone can do navigation, payment, messaging, and entertainment.
+This change makes life more convenient and efficient. But it also makes people more dependent on tech, and privacy can become a bigger issue.
+最大的区别是：现在的科技更快、更智能，也更融入日常生活。
+过去很多设备功能比较单一，而且互相不怎么连接，所以人更多依赖线下方式。现在很多事情都在线上，一个设备就能完成很多任务。
+比如以前手机主要就是打电话，迷路就看纸质地图。现在一部智能手机就能导航、支付、聊天、娱乐。
+这些变化让生活更方便、更高效。但同时人也更依赖科技，隐私问题也会更突出。
 
 - What are the differences between online and face-to-face communication?
-> 
+> I don’t think it’s about which one is better. They solve different problems.
+Online communication is efficient. You can send messages anytime, and you can talk to many people at once. You also have a record, so it’s easy to check details later.
+But face-to-face communication is stronger for emotions. You get instant feedback, and you can feel the atmosphere. It’s also harder to hide your real feelings in person.
+So for small things, online is enough. For bigger issues or emotional talks, meeting in person is usually safer and clearer.
+我觉得差别不在于“哪种更好”，而是它们在解决不同的问题。
+线上沟通效率很高。你随时可以发消息，也可以一次和很多人沟通，而且还有记录，细节之后也方便翻出来确认。
+但面对面更适合处理情绪。你能马上看到反馈，也能感受到氛围，而且线下更难把真实情绪藏住。
+所以小事线上就够了；但遇到更重要、或者带情绪的事情，当面聊通常更稳、更清楚。
 
 - Do you think technology has changed the way people communicate?
-> 
+> Yes, definitely. Technology has changed the way people communicate a lot. It makes communication faster and easier.
+Without these tools, we would mainly rely on face-to-face talks and phone calls. That takes more time, so people probably wouldn’t communicate as often.
+Now we can message anyone anytime, so staying connected is much easier. But text messages don’t show tone clearly. That’s why misunderstandings can happen.
+Overall, it helps people stay in touch. At the same time, we need to choose our words more carefully.
+我觉得肯定改变了，而且变化挺大，主要就是更快更方便了。
+如果没有这些工具，我们主要就靠见面或者打电话。那种沟通更费时间，所以频率也会低很多。
+现在随时都能发消息，保持联系变得很容易。但文字信息很难把语气表达清楚，所以也更容易产生误会。
+总体来说，技术让联系更容易维持，但我们也得更注意措辞和沟通方式。
 
 - What negative effects does technology have on people’s relationships?
-> 
+> Yes, definitely. Technology has changed the way people communicate a lot. It makes communication faster and easier.
+Without these tools, we would mainly rely on face-to-face talks and phone calls. That takes more time, so people probably wouldn’t communicate as often.
+Now we can message anyone anytime, so staying connected is much easier. But text messages don’t show tone clearly. That’s why misunderstandings can happen.
+Overall, it helps people stay in touch. At the same time, we need to choose our words more carefully.
+是的，没错。科技极大地改变了人们的沟通方式，让交流变得更快捷、更便利。
+如果没有这些工具，我们主要得依靠面对面交谈和打电话。那样耗时更多，人们可能就不会如此频繁地交流了。
+现在我们随时都能给任何人发消息，保持联系变得容易得多。但文字信息无法清晰地传达语气，因此可能导致误解。
+总体而言，科技帮助人们保持联络。与此同时，我们需要更加谨慎地斟酌措辞。
 
 - What are the differences between making friends in real life and online?
-> 
+> To me, the biggest difference is speed and depth. Online friendships start fast, but they can stay on the surface. Real-life friendships grow slower, but they usually feel more solid.
+That said, you can still make real friends online. It just takes time, and trust needs to be built. If you can meet in person later, it often becomes much stronger.
+For example, in real life, you become friends by sharing the same daily life, like school or work. Online, people often connect through common interests first, like games or a hobby group.
+So online is great for meeting more people. Real life is better for building a long-term bond. Either way, you need time and effort.
+我觉得最大差别是速度和深度不一样。线上交朋友很快，但很容易停在表面。线下交朋友慢一点，但通常更稳、更真实。
+不过我也承认，线上也能交到真朋友，只是更需要时间去建立信任。如果后面能见个面，关系往往会更扎实。
+比如线下朋友很多是一起上学、一起工作，在共同经历里慢慢熟起来。线上朋友一般先从共同兴趣开始，比如同一个圈子、同一个爱好群，聊着聊着才变熟。
+所以线上更适合扩圈认识人，线下更适合把关系做深、做长久。无论哪种，最后都离不开时间和投入。
 
 ### 外国的短期停留
 - Describe a place in a foreign country you would like to stay or work for a short time. 
@@ -1162,22 +1367,58 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 嗯,我记得有一个特殊的时刻,我的一个好朋友在他的学术道路上真的很挣扎。他感觉自己陷入了学业的十字路口。事实上,这发生在上学期,当时我们都在大学二年级。他面临着一个关于专业化的重大决定,这给他带来了很大的压力和不确定性。我建议他彻底研究与不同专业相关的就业市场和未来职业前景。我建议他研究需要哪些技能以及各个领域如何发展,而不是只关注他的眼前利益。我还鼓励他与已经在这些领域工作的校友交谈。在接受了我的建议后,他花了好几周的时间深入研究和网络。这确实帮助他对自己的选择有了更清晰的看法。最终,他选择了与未来机会相匹配的专业,现在他对学习更加自信和积极。很高兴看到他找到了自己的方向。
 
 - Should people prepare before giving advice?
-> 
+> Yes, I think people should prepare a little before giving advice. At least, they should understand the situation first. If you don’t, your advice can be wrong. It can also sound careless.
+A small preparation can make a big difference. You can ask a few questions. You can find out what the person really wants. You can also learn what limits they have, like time or money. Then your advice becomes more practical.
+Also, it’s better to offer options. Don’t give one “perfect answer” like you know everything. Give two possible choices and explain them. That feels more respectful. So yes, preparation is important. It helps you give advice that actually works.
+我觉得应该准备一下，起码先把情况搞清楚。你不了解背景就开口，很容易说错，还可能显得很敷衍，甚至误导对方。
+其实一点点准备就够了，比如先问几个问题，搞清楚对方真正想要什么，以及他有什么限制，比如时间或预算。这样你的建议会更落地。
+而且我觉得最好给选择，而不是一句话定死，像你什么都懂一样。给两种可能的方案，再简单解释一下，会更尊重对方。所以我认为准备很重要，它能让建议更有效。
 
 - Is it good to ask advice from strangers online?
-> 
+> I think it can be good to ask strangers online for advice, but you need to be careful. The good part is speed. You can get many opinions quickly. You may also learn new ideas you didn’t think of.
+However, strangers don’t know you. Their advice may not fit your situation. Some people also give wrong information, on purpose or by mistake. So I think it’s better for low-risk topics, like choosing a phone or planning a trip. For big things, like money decisions or health problems, online advice should not be your main source.
+So overall, online advice can be useful. Treat it as a reference. Compare different answers. Then make your own decision.
+我觉得可以向网上陌生人问建议，但要小心一点。好处是速度快，你能很快看到很多观点，也可能学到一些你没想到的思路。
+但问题是陌生人不了解你，他们的建议不一定适合你的情况。也有人会乱说，可能是误导，也可能是自己也不懂。所以我更建议用在低风险的话题上，比如选手机或者规划旅行。涉及钱和健康这种大事，就别把网上建议当主依据。
+所以总体来说，网上建议有用，但只能当参考。多看几条、多对比一下，最后还是自己做决定。
 
 - What are the personalities of people whose job is to give advice to others?
-> 
+> People whose job is to give advice usually need to be patient and calm. They meet different people every day. They also hear many problems, so they can’t get emotional too easily.
+They also need to be good listeners. They should ask the right questions. They should understand what the real issue is. Then they can give advice that fits. For example, a good advisor won’t rush. They will listen first and check the details. They may also offer a few options instead of one strong opinion.
+Finally, they need to speak clearly. Advice is useless if people don’t understand it. So I’d say the key personalities are patience, empathy, and clear communication.
+我觉得做“给别人建议”这种工作的人，性格上通常要比较稳，也要会听。因为他们每天会接触不同的人，也会听到很多问题，如果自己很容易情绪化，就很难帮到别人。
+同时他们一定得是好听众，会问对问题，才能抓到真正的核心。比如一个好的咨询者不会急着下结论，而是先听完、再核对细节。然后给出几种可选方案，而不是用很强势的口吻只推一种。
+最后还需要表达清楚。建议再好，别人听不懂也没用。所以我觉得关键性格就是耐心、同理心、还有清晰表达。
 
 - What are the problems if you ask too many people for advice?
-> 
+> If you ask too many people for advice, the biggest problem is confusion. Different people have different experiences. They also have different values. So their advice can easily conflict.
+Then decision-making becomes harder. You keep comparing opinions. You may start to doubt yourself. That can create a lot of stress. It can also slow you down, because you keep waiting for “one more opinion.”
+Another issue is relationships. If you follow one person’s advice, the others may feel ignored. They may think you don’t respect them. So asking too many people can cause small conflicts.
+So I think it’s better to ask a few trusted people. Then you take responsibility and make the final call.
+如果你问太多人建议，最大的问题就是把自己搞乱。每个人经历不同、价值观也不同，所以他们给的建议很容易互相矛盾。
+这样一来，你反而更难做决定。你会不停对比、不断怀疑自己，压力也会上来。还可能越问越拖，因为你总觉得“再听一个人的意见也许就明白了”。
+另外也会影响关系。你最后采纳了A的建议，B和C可能会觉得被忽视，觉得你不尊重他们，容易产生小摩擦。
+所以我更建议问少数几个你信任的人，然后自己负责，自己做最后决定。
 
 - Why do some people think it is better to ask for advice from friends than from parents?
-> 
+> I think it’s because friends feel more relatable. Talking to them feels less stressful.
+Friends are often in a similar stage of life, so they understand the situation better. With parents, some people worry about being judged or controlled. They don’t want to turn a simple question into a lecture.
+For example, when it comes to relationships or social issues, many people prefer asking friends first. And for study or career choices, friends sometimes give more “real-life” advice, because they’re facing the same problems.
+In the end, friends’ advice is easier to take in. Parents’ advice can be more long-term and stable, though. Ideally, people can listen to both and then decide.
+我觉得主要是因为朋友更“同频”，聊起来压力更小。
+朋友的经历通常更接近，很多问题他们更懂。跟父母聊的时候，有些人会担心被批评或者被管得太多，所以会更谨慎，甚至不太敢说太细。
+比如感情或者社交方面的事，很多人会先找朋友聊。学习或职业选择上，朋友有时候也能给更“接地气”的建议，因为大家面对的是同一批现实问题。
+但说到底，朋友的建议更容易入口，父母的建议可能更长线、更稳。最理想是两边都听一下，然后自己做决定。
 
 - When would old people ask young people for advice?
-> 
+> Older people usually ask young people for advice when it involves something new, especially technology.
+For example, they might ask how to use a smartphone app, how to order things online, or how to book a doctor’s appointment. They may also ask about new platforms or trends, because young people are more up to date.
+Young people are often faster with these things. They can show the steps clearly. And many older adults don’t want to feel left behind, so they ask for help.
+In the end, this kind of advice reduces the information gap. It also helps older people stay more independent, and it can make the generation gap smaller.
+我觉得老人找年轻人请教，通常是在问题跟“新东西”有关的时候，尤其是科技类的东西。
+比如怎么用手机、怎么用某个 APP、怎么网购，或者怎么线上挂号之类的。还有一些新的平台、新的潮流玩法，老人也可能会问，因为年轻人更跟得上。
+年轻人做这些事通常更熟练，操作也更快，而且能一步步教清楚。很多老人也不想被时代落下，所以会主动问。
+总体来说，这样能减少信息差，让老人更独立，代沟也会小一点。
 
 ### 完美工作
 - Describe a perfect job you would like to have in the future.
@@ -1190,22 +1431,68 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 嗯,我未来绝对希望拥有的完美工作就是成为一名卫星姿态和轨道控制子系统设计师。该角色主要涉及设计和优化卫星轨道,这是一个高度专业化和技术领域。这个职位真正吸引我的是为国家重大项目做出贡献的绝佳机会。想象一下,成为突破太空探索和技术界限的事情的一部分!对我来说,这份工作不仅仅是一份职业;它是为了为我的国家的进步和科学进步做出切实的贡献。这是一种超越个人成就的深刻目标感。
 
 - What kind of job can be called a 'dream job'?
-> 
+> To me, a dream job isn’t the easiest job or the best-paid job. It’s a job you don’t hate waking up for.
+A dream job fits your personality and your strengths. You feel you’re good at it, and you can keep improving. It also needs a life outside work. If a job destroys your health or your time, it’s hard to call it a dream.
+For example, if someone enjoys talking to people, they may love a job like sales. If someone prefers quiet focus, they may enjoy coding.
+So I think a dream job is really about fit and sustainability. It feels meaningful, and you can do it for years without burning out.
+对我来说，梦中工作不是最轻松或者最赚钱的工作，而是那种你早上醒来不会讨厌去做的工作。
+梦中工作要和你的性格、能力匹配。你做起来顺手，也能不断进步。同时它也得给你留生活空间。如果一份工作把健康和时间都耗光，很难叫“梦中工作”。
+比如喜欢跟人打交道的人，可能会很喜欢销售；更喜欢安静专注的人，可能更享受写代码。
+所以我觉得梦中工作核心就是“适配”和“能长期做”。它让你觉得有意义，也不会把你烧干。
 
 - What jobs do children want to do when they grow up?
-> 
+> Children want many different jobs when they grow up. Most of the time, they pick something that looks exciting or respected.
+Today, social media has a big influence. Some kids want to be influencers or streamers because these jobs are very visible. They look fun and “cool”.
+At the same time, traditional jobs are still common. Many children say they want to be doctors or teachers. These jobs sound meaningful, and adults often praise them.
+In the end, kids’ ideas change quickly. As they get older, they learn more about real life. Then they usually choose something more practical.
+孩子长大想做的工作其实很多。多数时候，他们会选那种看起来很刺激，或者很体面的职业。
+现在社交媒体影响很大。有些孩子想当网红或者主播，因为这些职业曝光高，看起来也很“酷”、很好玩。
+但传统职业也依然常见。很多孩子会说想当医生或者老师，因为听起来有意义，而且大人也更认可。
+说到底，孩子的想法变化很快。长大一点、了解现实更多之后，他们通常会选更实际、更具体的方向。
 
 - Do people’s ideal jobs change as they grow up?
-> 
+> Yes, I think people’s ideal jobs often change as they grow up. It’s a very normal thing.
+When people are younger, they often choose based on imagination. They pick jobs that look cool or fun, and they don’t think too much about the daily tasks.
+But after they study more and try real work, they understand themselves better. They also learn what they can handle. Then they start to care more about stability, work hours, and stress.
+For example, a student may want a job with lots of freedom and creativity. Later, they may prefer something more stable and predictable.
+So overall, experience shapes people’s choices. Their “dream job” becomes more realistic over time.
+我觉得会变，而且很常见。这其实很正常。
+人年轻的时候更靠想象来选工作，觉得哪个看起来酷、好玩就想做，不太会去想每天具体在干什么。
+但随着学习更多、真正去工作，人会更了解自己，也更清楚自己能扛什么、不能扛什么。于是他们会更在意稳定性、工作时间、压力这些现实问题。
+比如学生可能更想要自由、有创意的工作；后来可能会更喜欢稳定、可预期一点的。
+所以总体来说，经历会塑造选择。所谓“理想工作”往往会越来越现实。
 
 - What should people consider when choosing jobs? 
-> 
+> I think people should look at fit first, not only salary. A job needs to match your strengths and your personality.
+Interest matters too. If you dislike the work every day, you will burn out quickly, even if the pay is good.
+They should also think about long-term growth. Some jobs teach you useful skills and give you a clear path. That can be more valuable than a high starting salary.
+Work-life balance is another point. For example, one job may pay more but comes with long hours and high stress. Another job may pay less but feels more stable and leaves you more time.
+So overall, it’s about choosing something you can do well and keep doing. That usually leads to better results.
+我觉得选工作要先看“适配度”，而不是只盯着工资。工作要和你的能力、性格匹配。
+兴趣也很关键。如果你每天都很讨厌这份工作，就算钱多，也很容易很快被耗光。
+还要考虑长期成长。有些工作能让你学到有用技能，也有更清晰的晋升路线，这种价值可能比起薪更重要。
+工作和生活的平衡也要看。比如有的工作工资更高，但加班多、压力大；另一个工资低一点，但更稳定，也更有自己的时间。
+所以总的来说，要选一个你能做得好、也能长期做下去的工作。这样更容易有好结果。
 
 - Is salary the main reason why people choose a certain job? 
-> 
+> For some people, yes, salary is a main reason. Money affects daily life, so it’s hard to ignore.
+This is especially true for people with financial pressure. New graduates may also focus on pay because they want to become independent quickly.
+But salary is not the only factor. Many people also care about stability, personal interest, and a good team. They want a job they can do for a long time.
+If someone chooses only based on money, they may end up stressed or unhappy. A better choice is to consider salary and fit together. That usually leads to a more stable career.
+对一部分人来说是的，工资确实是主要原因。钱会直接影响日常生活，很难不在意。
+尤其是有经济压力的人会更看重工资。刚毕业的人也常常更关注薪资，因为他们想尽快经济独立。
+但工资不是唯一因素。很多人也会看稳定性、兴趣，还有团队氛围。他们更想找一份能长期做下去的工作。
+如果只按钱来选，最后可能会压力很大或者不开心。更好的方式是把工资和适配度一起考虑，这样职业发展通常更稳定。
 
 - What kind of jobs are the most popular in your country?
-> 
+> In my country, the most popular jobs are usually the ones that feel stable and have a clear career path.
+People prefer lower-risk choices. It helps them feel secure and plan their future.
+One reason is pay and benefits. Another reason is social recognition, and families often support these jobs more.
+For example, many people aim for government-related jobs because they seem stable. Tech jobs are also popular, because they often offer better growth and higher salaries.
+在我国家，最热门的工作通常是那种看起来稳定、而且有发展路径的。
+大家更愿意选风险低的选择，因为更踏实，也更好规划未来。
+原因一是收入和福利更稳。原因二是社会认可度更高，家里人也更支持。
+比如很多人会考公务员或事业单位，因为稳定。互联网和科技类岗位也很热门，因为成长空间大、工资也更高。
 
 ### 想见的名人
 - Describe a famous person you would like to meet. 
@@ -1218,22 +1505,68 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 嗯,我真正想认识的名人是樊振东,他是一位来自中国的世界著名乒乓球运动员。他以其令人难以置信的自信和统治性的演奏风格而闻名,我觉得这真的很吸引人。对我来说真正引人注目的一个时刻是他赢得奥运会金牌的时候。这是一次令人鼓舞的技能和决心的展示。我很想见到他,主要是因为我深深钦佩他的成就和他对运动的坚定奉献。我认为直接了解他的旅程将会很有趣。
 
 - What are the advantages and disadvantages of being a famous child?
-> 
+> Being a famous child has some clear advantages. But it also brings serious downsides.
+On the positive side, they often get better opportunities. They may have access to good training, a strong team, and better income. This can help them develop their talent faster.
+However, the biggest problem is pressure. They are watched all the time, and they may lose privacy. They can also face harsh comments online. That can affect their confidence and mental health.
+For example, they may not have a normal school life, because people take photos and talk about them. They may also feel they must always perform well.
+So overall, it can be a good thing if adults protect them and set clear boundaries. If not, fame can hurt their growth.
+童星出名确实有优势，但风险也很明显。最大的好处是资源来得早。比如更好的训练、更大的机会，起点会更高。
+但坏处是生活很容易被公开。隐私几乎没有了，而且大家会一直评价你。哪怕一个小失误也可能被放大成“新闻”。这种压力会慢慢堆起来。对一个还在成长的孩子来说，这可能影响自信，也可能影响心理状态。
+所以我觉得它不是简单的好或坏，关键看保护和边界。如果父母和团队能控制曝光、让生活保持平衡，名气可能是助推器；但如果失控了，它就会夺走正常童年。
 
 - What can today’s children do to become famous?
-> 
+> Today, children have more ways to become famous than before. A big reason is social media.
+First, they can become known through a skill. They can practice something like singing or dancing and share short videos of their progress. People like to watch improvement.
+Second, they can join competitions or communities. For example, they might do sports events or game tournaments. If they perform well, they can get attention quickly.
+But I think they should be careful. Fame can bring pressure and online criticism. Children also need adults to guide them and protect their privacy.
+现在的孩子比以前有更多方式出名，社交媒体是一个很大的原因。
+第一条路是靠技能出圈。比如练唱歌或跳舞，然后把作品或训练过程发成短视频，观众很喜欢看进步。
+第二条路是参加比赛或圈子活动。比如运动比赛或游戏赛事，如果表现很好，就可能很快被关注。
+但我觉得也要小心。名气会带来压力和网络吐槽，而且孩子更需要大人引导，并保护好隐私。
 
 - What can children do with their fame?
-> 
+> Children can use their fame as a resource. It can help them learn better and work in a safer way.
+First, fame can give them access to better support. They may get a more professional team or better training. That helps them improve faster.
+Fame can also help them choose better projects. For example, they may get chances to work with good directors or join higher-quality collaborations. This can build a stronger future.
+But they need clear boundaries. Without guidance, children can be overworked or used for money. They can also be labeled too early, and that is hard to change later.
+So fame is useful, but it must be managed. If it’s handled well, it becomes a boost, not a trap.
+孩子可以把名气当成一种资源。它能帮他们得到更好的学习条件，也能让他们在更安全的方式下工作。
+第一，名气能带来更好的支持系统。比如更专业的团队、更好的训练资源，这会让他们进步更快。
+第二，名气也能帮助他们拿到更好的项目。比如有机会和更好的导演合作，或者参与质量更高的合作项目，这对未来积累很重要。
+但前提是要有清晰的边界。没有大人引导，孩子可能被安排得太满，甚至被当成赚钱工具。也可能太早被贴标签，后面很难翻身。
+所以名气是有用的，但一定要被管理好。处理得好，它是助推器；处理不好，它可能是陷阱。
 
 - Do people become famous because of their talent?
-> 
+> Sometimes people become famous because of talent, but not always. Talent is important, but it’s only one part.
+Talent helps you stand out. It also helps you stay famous, because people keep coming back for your work.
+But fame also needs exposure and timing. With social media, some people become famous quickly even without strong skills. A good team and smart marketing can also push someone into the spotlight.
+For example, a truly talented singer can build fame step by step through good songs. On the other hand, some people go viral just because one short clip gets popular.
+So I’d say talent affects how far you can go. Exposure affects how fast you become known.
+有时候人是靠才华出名的，但不总是这样。才华很重要，但它只是其中一部分。
+才华能让你更突出，也能让你更“站得住”。因为大家会为了你的作品反复回来。
+但出名还需要曝光和时机。社交媒体时代，有些人即使能力一般，也可能因为一个视频就突然火了。团队运作和营销也会把人推到聚光灯下。
+比如真正有实力的歌手，可以靠作品一步步积累名气；但也有人只是因为一个短视频爆红。
+所以我觉得：才华决定你能走多远，曝光决定你火得多快。
 
 - Is it easy to become famous in your country?
-> 
+> I’d say it’s easier to get famous now, but it’s harder to stay famous.
+There are so many platforms, and things spread really fast. One good video can blow up overnight. But there’s also a lot of content, so competition is huge and trends change quickly.
+For example, you might see someone gain thousands of followers in a day. A week later, people move on to the next hot topic.
+So yes, becoming famous can be easier than before. Staying relevant is the hard part. It usually takes consistent content and real skills.
+我觉得现在“出名”更容易了，但“长期有名”反而更难。
+平台太多，传播又很快，一个视频做得好就可能突然爆火。但同时内容也太多了，竞争很大，热度更新也特别快。
+比如有些人短视频一夜涨粉，看起来很夸张。但过一阵子，大家又被新的热点带走，他的热度就下去了。
+所以成名的门槛确实变低了，但稳定性也变差了。真正能长期保持名气的人其实不多。
 
 - Do you want to be a famous person?
-> 
+> Not really. I’d rather have some influence than be truly famous. I don’t want that level of attention.
+If I became well-known, I’d lose a lot of privacy. People would watch what I do, and even small things could get judged.
+Of course, fame has benefits. You get more resources, and your voice carries more weight. But it also comes with pressure, and it’s easy to be misunderstood.
+So I’d prefer a quieter kind of success. I want to be respected in my own field, and I still want a normal life.
+我其实不太想当很出名的人。我更想要一点影响力，但不想要那种高曝光。
+如果真的很有名，隐私会少很多。你做什么都会被盯着，甚至一些小事也可能被放大和评价。
+当然名气也有好处，比如资源更多，说话更有分量。但代价也明显，压力很大，而且很容易被误解。
+所以我更想要一种“安静的成功”：在自己的领域被认可就行，同时还能过正常生活。
 
 ### 禁用手机的场合
 - Describe an occasion when you were not allowed to use your mobile phone. 
@@ -1246,22 +1579,64 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 嗯,我想到的具体场合是我去年在大剧院参加的一场古典交响乐音乐会。此类场所的普遍规定是必须关闭手机或置于静音模式,演出期间绝对不允许拍照或摄像。我记得在中场休息期间,我短暂地拿出手机查看了一条信息,立即,一位引座员礼貌地提醒我把它收起来。然后,随着音乐会继续进行,管弦乐队演奏了一首特别令人惊叹的曲子,我有一种强烈的冲动,想要捕捉这一刻,拍一张快速的照片或一段短视频来记住这场令人惊叹的表演和盛大的气氛。然而,知道规则,我抵制住了诱惑。虽然我理解并尊重这项政策,但我不得不承认,我感到有点遗憾,我不能用一张照片来保存那段美好的记忆。这是一次真正难忘的经历,我希望我能有一个视觉纪念品。
 
 - How do young and old people use mobile phones differently?
-> 
+> Young people usually use mobile phones more often. They also use them for more things.
+For many young people, a phone is almost everything. They use it to chat, pay, study, and relax. For example, they may watch short videos and use mobile payment every day.
+Older people often use phones in a simpler way. They mainly use them for calls, messages, and basic information. For example, they may call family members and check a family group chat.
+Another difference is confidence. Young people are more willing to try new apps, so they learn faster. Older people may worry about making mistakes, so they prefer a few familiar functions.
+年轻人一般用手机更频繁，而且用途也更多。
+对很多年轻人来说，手机几乎就是“全能工具”。他们用它聊天、支付、学习、放松，比如每天刷短视频、用移动支付。
+老年人用手机通常更简单一些。主要是打电话、发消息、看一些基本信息，比如给家里人打电话、看看家庭群消息。
+还有一个差别是熟练度。年轻人更愿意尝试新软件，所以学得快；老年人可能怕点错、怕出问题，所以更喜欢用几个固定功能。
 
 - What positive and negative impact do mobile phones have on friendship?
-> 
+> They can increase contact, but they don’t always build a deeper bond.
+On the positive side, phones make it easy to stay in touch. Friends can share small updates and talk anytime. This is especially helpful for long-distance friendships.
+But there are downsides too. Messages are short and fast, so conversations can become shallow. Phones can also make people more sensitive. For example, if someone replies late, the other person may overthink it.
+So it depends on habits. If people use phones to support friendship and still meet in real life, it helps. If phones become the main way of “being close”, the friendship can feel empty.
+它能让联系变得更频繁，但不一定让关系更深。
+正面来说，手机让保持联系很容易。朋友可以随时分享小事、想聊就聊，尤其对异地朋友特别有用。
+但负面也很明显。聊天变得又短又快，所以很多对话会变浅。手机也会让人更敏感，比如对方回得慢一点，自己就容易想太多。
+所以关键看使用习惯。如果手机只是补充，大家还愿意线下见面，那是加分；如果手机变成主要的“亲近方式”，友情就可能变空。
 
 - Is it a waste of time to take pictures with mobile phones?
-> 
+> I don’t think taking pictures with a phone is always a waste of time. It depends on how people do it.
+If you take a few photos to save memories, it’s useful. You can look back later and remember the moment clearly. It’s also a nice way to share your life with friends.
+But it can become a waste of time if people overdo it. For example, some people spend a long time taking food photos before they eat. They may also edit the photos again and again just to post them.
+So I think the key is balance. Take some photos, then put the phone away. Enjoy the real moment.
+我不觉得用手机拍照一定是浪费时间，关键还是看怎么拍。
+如果只是拍几张用来记录回忆，那是有价值的。你以后翻出来会更容易记起当时的感觉，也能更方便和朋友分享生活。
+但如果拍得太过头，就可能变成浪费时间。比如有些人吃饭前拍半天，还要反复修图，就为了发朋友圈。
+所以我觉得重点是平衡。拍几张就好，然后把手机收起来，享受当下。
 
 - Do you think it is necessary to have laws on the use of mobile phones?
-> 
+> Yes, I think some laws are necessary for mobile phone use. But the laws should focus on high-risk situations.
+Phones can cause real harm in certain cases. For example, using a phone while driving is dangerous, so strict rules make sense. Phones can also be used to invade privacy, like filming someone without permission.
+At the same time, I don’t think the government should control everything. Phones are a basic tool for modern life, and people need freedom to use them normally.
+So I think a balanced approach is best. Make clear laws for safety and privacy, and leave normal daily use to personal choice.
+我觉得针对手机使用制定一些法律是有必要的，但重点应该放在高风险场景，而不是处处都管。
+在某些情况下，手机确实会造成真实伤害。比如开车玩手机很危险，所以严格规定很合理。手机也可能被用来侵犯隐私，比如未经允许拍别人。
+但同时我也不觉得政府应该什么都管。手机已经是现代生活的基础工具，大家也需要正常使用的自由。
+所以我更支持一种平衡做法：在安全和隐私方面立清楚的规则，日常使用就交给个人选择。
 
 - What are examples of good and poor phone manners?
-> 
+> Good phone manners are basically about not bothering others. They’re also about respecting the people around you.
+For example, it’s good to keep your phone on silent and reply briefly. If you need to take a call, it’s polite to say “Sorry, I need to take this,” and step aside. Poor manners would be playing videos on speaker in public or talking loudly. Another bad one is checking your phone nonstop when you’re with someone.
+It really depends on the setting. In class, in meetings, or at the dinner table, you should be more careful. If it’s an emergency, it’s fine. You can just explain quickly.
+In the end, good manners make people feel comfortable. Bad manners make people feel ignored, and that can easily hurt relationships.
+我觉得好的手机礼仪，本质就是两点：别打扰别人，也别忽视你眼前的人。
+比如好的做法是：把手机调静音、回消息尽量简短、真要接电话就先说一句“不好意思我得接一下”，然后走开一点。差的做法就是：公共场合外放刷视频、打电话很大声。还有一种很常见的是，跟人聊天一直低头玩手机。
+这些其实很看场景。在课堂、会议、餐桌这种场合，更应该克制一点。当然如果是紧急情况也能理解，你解释一句就行。
+总的来说，手机礼仪好，别人会更舒服，关系也更顺。礼仪差会让人觉得不被尊重，矛盾也更容易出来。
 
 - How does the internet benefit people?
-> 
+> I think the biggest benefit of the internet is convenience. It saves time and makes many things easier.
+Because of that, people can get information and services quickly. It also gives them more choices, and sometimes it even lowers the cost.
+It’s also great for learning and communication. You can look things up anytime, and you can stay connected with people in other cities.
+For example, people can take online courses to learn new skills. They can also do daily tasks online, like ordering food or booking appointments.
+我觉得互联网最大的好处就是方便，真的省时间，也让很多事情变简单。
+因为这样一来，信息和各种服务都更容易拿到，速度也更快。选择也更多，有时候成本还会更低。
+它对学习和沟通也很有帮助。你随时都能查资料，也能跟外地的人保持联系。
+比如可以上网课学新技能，也可以线上处理很多日常事情，比如点外卖或者预约挂号。
 
 ### 为家人骄傲
 - Describe a time when you felt proud of a family member. 
@@ -1274,20 +1649,53 @@ So I prefer a balanced approach. Set a minimum age and limit screen time. Teach 
 > 好吧,我想谈谈我的祖父,我为他感到非常自豪。他作为军医在边境服役,在战时拯救了生命,并因其勇敢和奉献精神荣获三等功奖章。我的意思是,他确实冒着生命危险在战场上,在不断的炮击下工作来治疗受伤的士兵。这段经历和他的行为让我更加钦佩他,我真正钦佩他的无私和勇气。
 
 - When would parents feel proud of their children?
-> 
+> I think parents feel proud when their children become reliable. They feel it most when they can truly relax. They know their child is doing fine.
+Good grades can make parents proud, of course. Winning a prize can do that too. But I think what matters more is attitude. Parents feel proud when a child takes responsibility and keeps improving. For example, when a child faces a problem and tries to fix it first, parents feel impressed. Also, when a child sticks to something for a long time and makes progress, parents feel really happy.
+So for me, it’s not only about big results. It’s about growth. Parents feel proud when they see their child on the right track.
+我觉得父母最骄傲的时候，是孩子变得可靠、让他们真正放心的时候。那种“我不用一直盯着”的踏实感，会让父母很自豪。
+成绩好、拿奖当然也会让父母骄傲，但我觉得更重要的是态度。比如孩子遇到问题先自己想办法解决，而不是一出事就躲起来；再比如能长期坚持一件事，并且一点点进步。父母看到这种责任感和成长，就会特别开心。
+所以我觉得这不只是“大结果”的问题，更是成长感。父母骄傲，是因为他们看到孩子在走正路。
 
 - Should parents reward children? Why and how?
-> 
+> Yes, I think parents should reward children sometimes. It can be a good way to encourage good habits. It also makes children feel seen. They know their effort matters.
+But parents need to be careful. If rewards happen too often, kids may only work for the reward. They may stop doing the right thing when there is no prize. So I think rewards should focus on effort and progress, not only results.
+As for how, it doesn’t have to be money. Simple praise works. Spending time together also works, like going out for a snack or doing a fun activity. Parents can also set small goals and give small rewards. That keeps it healthy. In the end, the reward should support good behaviour, not control it.
+我觉得父母可以奖励孩子，但要讲方法，不然容易把孩子带成“只为奖品做事”。适当奖励确实能增加动力，也能让孩子感觉到：我的努力被看见了。
+但奖励如果太频繁，孩子可能就只盯着奖励。没有奖品的时候，他就不愿意做正确的事了。所以我觉得奖励最好强调努力和进步，而不是只盯结果。
+怎么奖励也不一定要给钱。口头表扬就很有效，陪伴也算奖励，比如一起去吃点小零食，或者做个孩子喜欢的活动。还可以设小目标配小奖励，让节奏更健康。最后奖励应该是帮助孩子养成好习惯，而不是用来“控制”孩子。
 
 - Is it good to reward children too often? Why?
-> 
+> I don’t think it’s good to reward children too often. If rewards become a habit, kids may start doing everything for a prize. They may stop caring about the task itself.
+Over time, their inner motivation can get weaker. They may ask, “What do I get?” before they do anything. For example, some kids won’t do homework unless they get a gift. Some won’t help at home unless they get money. That’s not a healthy pattern.
+So I think rewards should be used carefully. They should be occasional. They should also match effort and progress. In daily life, praise and attention are often enough. That helps children build good habits in a more natural way.
+我觉得不太好，奖励太频繁会“变味”。如果奖励成了习惯，孩子可能就会把很多事情都当成“换奖品”，而不是觉得这件事本身值得做。
+久了之后，内在动力会变弱。孩子可能会先问一句“我能得到什么”，才愿意去做。比如写作业一定要礼物，不给就不写；帮家里做点事也要钱，不给就不动。这种模式不太健康。
+所以我更支持谨慎使用奖励，偶尔用、用得准，并且更强调努力和进步。平时很多时候表扬和关注就够了，这样更容易让孩子自然地养成好习惯。
 
 - On what occasions would adults be proud of themselves?
-> 
+> I think adults feel proud of themselves when they handle something difficult well. It often happens when they keep going under pressure. They don’t give up halfway.
+Adults also feel proud when they stick to a goal for a long time. It shows discipline. It also shows growth. For example, someone may go through a stressful period at work and still finish an important task. Or they may learn a new skill and actually use it in real life.
+Another common moment is taking responsibility. Adults feel proud when they solve problems instead of avoiding them. So overall, adults are proud when they see real progress. They also feel proud when they become more reliable.
+我觉得成年人为自己骄傲，很多时候都跟“扛住”和“做到”有关。尤其是在压力很大的情况下，自己还能坚持下去，把事情处理好，这种成就感很强。
+另外成年人也会为长期坚持而骄傲。因为这说明你有自律，也说明你在成长。比如工作压力很大的一段时间里，你还是把一个重要任务完成了；或者你学会了一个新技能，而且真的用到了生活或工作里。
+还有一种很常见的情况是承担责任。成年人能直面问题、把问题解决掉，而不是逃避，这也会让人很自豪。所以总体来说，成年人的自豪感更像来自进步和责任感。
 
 - Do rewards help a child become better?
-> 
+> Yes, rewards can help a child become better. But it depends on how you use them.
+A small reward can give kids a push to start. It also makes the goal feel more clear. This works well for younger children.
+But if rewards are used too often, kids may do everything just for the prize. When the reward disappears, the effort can disappear too.
+So rewards are fine as a tool. Parents should also praise effort and progress. Over time, they can reduce rewards and help the child build real habits.
+我觉得奖励是有帮助的，但关键看你怎么用。
+小奖励确实能让孩子更愿意开始做事，也能让目标更清楚。对年龄小的孩子尤其有效。
+但如果奖励用得太频繁，孩子可能就变成“只为奖而做”。一旦没有奖励，他就不想做了。
+所以奖励可以用，但它只是工具。父母还要多强调努力和进步。然后慢慢减少物质奖励，让孩子靠习惯和内在动力坚持下去。
 
 - What do you think about children working hard just for grades?
-> 
-
+> I don’t think it’s a great thing when kids work hard only for grades. Grades matter, but they shouldn’t be the only reason.
+To be fair, grades are useful. They give a clear target, and they can open doors for schools and opportunities.
+But if children study just to score, they often memorise without understanding. After the exam, they forget quickly. Some kids also become afraid of asking questions or trying harder problems, because they don’t want to lose points.
+A better goal is to learn the skills and really understand the content. If that happens, good grades usually follow. And the child will be stronger in the long run.
+我觉得孩子如果只是为了分数去拼命，其实不太好。分数重要，但不应该成为唯一理由。
+当然我也承认，分数确实有用，它给了一个很清晰的目标，而且现实里也确实有门槛，很多机会看成绩。
+但如果只为了拿高分，孩子很容易变成死记硬背，不求理解。考完就忘也很常见。还有些孩子会变得不敢提问、不敢挑战难题，因为怕扣分。
+更好的目标是学懂、把能力练出来，分数只是结果。这样长期更抗压，也更容易走得远。
