@@ -1347,14 +1347,65 @@ So online is great for meeting more people. Real life is better for building a l
 > Well, that's an interesting question. If I had the opportunity to choose a short-term job in a foreign country, I would definitely opt for a `volunteer position`. More specifically, I'm talking about volunteering at a major `international sporting event`, like the Olympics or a World Cup, which I think would be an absolutely incredible experience. My primary motivation for wanting to do this is to immerse myself in a `different culture` and gain a `unique perspective` on how such large-scale events are organized. You know, I actually had a taste of this kind of work when I volunteered at the `Asian Winter Games` a few years ago. My role then was to welcome international `delegations` at the `airport`, which was really rewarding. I anticipate that this kind of volunteer work would be incredibly `fulfilling`, not just because of the chance to contribute to a `global event`, but also because I'm confident I'd learn a tremendous amount of new things, from `cross-cultural communication skills` to problem-solving in a dynamic environment. It's the satisfaction of growth and connection that truly appeals to me.
 > 嗯,这是一个有趣的问题。如果我有机会在国外选择一份短期工作,我一定会选择志愿者职位。更具体地说,我指的是在重大国际体育赛事中担任志愿者,例如奥运会或世界杯,我认为这绝对是一次令人难以置信的经历。我想要这样做的主要动机是让自己沉浸在不同的文化中,并对如何组织此类大型活动有独特的视角。要知道,几年前我在亚冬会做志愿者时,其实就尝到了这种工作的滋味。当时我的角色是在机场欢迎国际代表团,这确实很有回报。我预计这种志愿者工作将会非常有成就感,不仅是因为有机会为全球活动做出贡献,而且还因为我相信我会学到大量的新东西,从跨文化沟通技巧到在动态环境中解决问题。成长和联系的满足感真正吸引我。
 
-- Why do some people not like working in a foreign country?
-> 
+- What short-term jobs do young people do in other countries?
+> In many countries, young people often do short-term jobs that are easy to start and flexible with time.
+For example, they may work part-time in restaurants or coffee shops. Some also work in retail stores.
+These jobs are common because students can fit them around school. They also help young people build basic work habits, like being on time and communicating clearly.
+So even if the pay is not amazing, these jobs are still useful. They give young people experience, and that can help later when they look for full-time work.
+在很多国家，年轻人常做的短期工作，通常都是那种比较容易上手、时间也比较灵活的。
+比如他们会去餐厅或者咖啡店做兼职。还有一些人会去零售店工作。
+这类工作很常见，因为学生可以把它和上学时间错开。与此同时，它也能让年轻人练到一些基本的职场习惯，比如守时和沟通。
+所以虽然这类工作不一定赚很多钱，但还是很有用。它能让年轻人先积累经验，对以后找全职工作也有帮助。
 
-- What important skills do people need when working in companies?
-> 
+- What challenges do young people face when working abroad?
+> Young people can face quite a few challenges when working abroad. The biggest one is usually adapting to a new environment.
+Everything feels new at first. The work culture is different, and the rules may not be the same. Language can also be a problem, so misunderstandings happen more easily.
+For example, they may not fully understand how their colleagues speak. They may also struggle with the local work pace at the beginning.
+So the first stage can be stressful. But once they adjust, they often become more capable and more independent.
+年轻人去国外工作，通常会遇到不少挑战。最大的问题一般就是适应新环境。
+刚开始很多东西都不一样，工作文化不同，做事规则也可能不一样。再加上语言问题，沟通时更容易出现误会。
+比如他们一开始可能听不太懂同事的表达，也可能不太适应当地的工作节奏。
+所以前期压力往往会比较大。但一旦慢慢适应下来，他们通常也会变得更有能力、更独立。
 
-- How can people demonstrate their abilities when working in a foreign country?
-> 
+- What are the benefits of working for an international company?
+> There are quite a few benefits to working for an international company. The biggest one is faster growth.
+Of course, the pressure can be higher. Standards are often stricter, and the pace can be faster too.
+For example, you get to work with people from different countries. You also learn more professional systems and processes.
+So in the long run, it can really broaden your view. It also helps you build stronger skills, which can be useful for future promotions or job changes.
+在国际公司工作，好处其实挺多的。最大的一点就是成长会更快。
+当然，压力也可能更大，因为要求通常更高，节奏也更快。
+比如你能接触到不同国家的同事，也更容易接触到更规范、更成熟的工作流程。
+所以长期来看，这种经历会让你的眼界更开，能力提升也更快。以后不管是升职还是换工作，通常都会更有优势。
+
+- What personal skills are required to work in an international company?
+>I think the most important skills are communication and adaptability.
+If you’re strong in these two areas, work becomes much smoother. You also make fewer mistakes.
+In an international company, the environment is usually more complex. You need to express yourself clearly, and you need to adjust quickly when things change.
+For example, you should be able to explain your ideas clearly in meetings. You also need to keep up when the team uses new rules or new ways of working.
+我觉得最重要的两种能力，就是沟通能力和适应能力。
+这两点强的话，合作会顺很多，出错也会更少。
+国际公司的环境通常更复杂，所以你得把话讲清楚。同时工作方式也可能很多元，所以人要调整得快。
+比如开会时你要能把自己的想法说明白。遇到新的规则或者新的做事方式时，你也得尽快跟上。
+
+- What kind of work can young people do in foreign countries?
+> Young people in foreign countries can usually do jobs that are easier to enter and learn quickly.
+For example, many work part-time in restaurants or coffee shops. Some also do basic office jobs or internships.
+These kinds of jobs are easier to get at the beginning. They help young people adjust to the new environment while gaining experience. They can also improve their language skills and basic workplace skills.
+So the pay may not be great at first, but these jobs are still useful. They help young people settle in and prepare for better opportunities later.
+年轻人在国外通常能做的工作，很多都是那种比较容易进入、也比较容易上手的。
+比如不少人会去餐厅或者咖啡店做兼职。也有人会做一些基础办公室岗位，或者先从实习开始。
+这类工作一开始更容易拿到，能让年轻人一边适应新环境，一边积累经验。同时也能提升语言能力和一些基本的职场能力。
+所以虽然刚开始工资不一定很高，但这类工作还是很有用。它能帮年轻人先站稳脚跟，也为以后找到更好的机会打基础。
+
+- Why are some people unwilling to work in other countries?
+> Some people are unwilling to work in other countries because it feels too uncertain.
+A new environment can be hard to adapt to. The culture is different, and daily life may not feel natural at first. On top of that, being far from home can be emotionally difficult.
+For example, some people worry that their language skills won’t be good enough. Others simply don’t want to stay away from their family for a long time.
+So even if working abroad offers good opportunities, some people still prefer to stay where life feels familiar. It gives them more peace of mind.
+有些人不愿意去国外工作，主要是因为那种不确定感太强了。
+新环境本来就不容易适应，文化也不一样，很多日常小事一开始都会让人不习惯。再加上离家很远，情感上也会更难受。
+比如有的人会担心自己的语言跟不上。也有人就是不想长期离开家人。
+所以就算国外可能机会更多，他们还是更愿意留在熟悉的地方。这样心里会更踏实。
 
 ### 给别人建议
 - Describe a time when you gave advice to others. 
